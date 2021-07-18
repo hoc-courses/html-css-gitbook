@@ -39,6 +39,7 @@
 
 ## BASIC CSS
 
+* [Intro to CSS](basic-css/intro-to-css.md)
 * [Font Properties](basic-css/font-properties.md)
 * [Typography](basic-css/typography.md)
 * [Color Properties](basic-css/color-properties.md)
