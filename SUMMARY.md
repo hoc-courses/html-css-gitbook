@@ -52,7 +52,6 @@
 
 * [Article Progression](basic-css-labs/article-progression/README.md)
   * [Article - Basic CSS](basic-css-labs/article-progression/article-basic-css.md)
-* [Orange & Black](basic-css-labs/orange-and-black.md)
 * [Chrome Developer Tools - CSS](basic-css-labs/chrome-developer-tools-css.md)
 * [Basic CSS](basic-css-labs/basic-css.md)
 * [Basic Article w/Float](basic-css-labs/basic-article-w-float.md)

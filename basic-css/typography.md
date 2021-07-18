@@ -48,25 +48,9 @@ Font embedding services host the typefaces on their sites and allow you to link 
 
 {% embed url="https://fonts.google.com/" caption="" %}
 
-[Adobe Fonts](https://fonts.adobe.com/) and [Cloud Typography](https://www.typography.com/webfonts) offer subscription services
+For more information on including Google Fonts in your project see the link below.
 
-To include an external font, there are two methods. It appears from a discussion on the [stack overflow](https://stackoverflow.com/questions/12316501/including-google-web-fonts-link-or-import), that the `<link>` method is preferred.
-
-### Link
-
-```text
-<link href='http://fonts.googleapis.com/css?family=Kameron:400,700' rel='stylesheet' type='text/css'>
-```
-
-### Import
-
-```text
-@import url(http://fonts.googleapis.com/css?family=Kameron:400,700);
-```
-
-![](../.gitbook/assets/image%20%2846%29.png)
-
-{% embed url="https://stackoverflow.com/questions/12316501/including-google-web-fonts-link-or-import" caption="" %}
+{% page-ref page="google-fonts.md" %}
 
 ## Resources
 
