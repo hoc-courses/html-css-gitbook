@@ -6,15 +6,15 @@ Google has a collection of free fonts you can use in your web pages. This topic 
 
 First, search for the specific typeface you want to use. In this example, we'll search for the Poppins font. Click on the link to go to the page for the font.
 
-![](https://raw.githubusercontent.com/intro-web-dev-master/images/main/search-google-poppins-font.PNG)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/search-google-poppins-font.PNG)
 
 Next, select the specific font you want to import. For example, I've selected "Extra-light 200".
 
-![](https://raw.githubusercontent.com/intro-web-dev-master/images/main/selected-font.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/selected-font.png)
 
 Next, click on the **Select this style** button to bring up the font detail box on the right. 
 
-![](https://github.com/intro-web-dev-master/images/blob/main/selected-font-2.png?raw=true)
+![](https://github.com/hoc-labs/images/blob/main/selected-font-2.png?raw=true)
 
 To include an external font, there are two methods. 
 
