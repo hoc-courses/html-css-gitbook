@@ -34,11 +34,11 @@ There should only be a single `h1` element on a page.
     <h6>Heading 6</h6>
 ```
 
-![](../.gitbook/assets/image%20%28149%29.png)
+![](../../.gitbook/assets/image%20%28149%29.png)
 
 ### A Typical Use of h1 - h3
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 ## Paragraphs - &lt;p&gt;
 

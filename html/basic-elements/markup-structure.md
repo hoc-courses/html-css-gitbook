@@ -8,7 +8,7 @@ A mark-up language is different than a programming language. It doesn't have any
 
 HTML elements are the building blocks for defining the structure of the page content. Each **element** has an opening and closing **tag.**  The closing tag has a "/" symbol before the tag-name. The content that falls between the opening and closing tags is the content of that element. 
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 The element provides information about the content that lies between the tags.  Each **element type** \(`<h1>`, `<p>`, `<img>`, etc.\) has a unique purpose. For example, the `h1` element surrounds text that should be formatted to indicate the title of the page.
 
@@ -20,7 +20,7 @@ The element provides information about the content that lies between the tags.  
 
 Attributes are used to specify additional information about the element. Attributes are specified on the opening element tag. An attribute consists of two parts: the attribute name \(use lower case\) and a value \(wrap in double-quotes\). Not all elements have attributes,  as we saw with the `<h1>` element above. They are necessary when the element requires additional information.
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 For example, an  `<img>` element requires a **src attribute**, to specify the URL for the image file.
 
@@ -59,7 +59,7 @@ The element content is not always text. It can be another element. For example, 
 The entire HTML document is a hierarchy of nested HTML elements. The HTML is not valid if the elements do not have the correct opening and closing tags.
 
 ```markup
-<section>
+<body>
     <h2>Loreum Ipsum</h2>
     <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae. In iaculis nunc sed augue lacus viverra vitae. Nec ullamcorper sit amet risus
@@ -74,10 +74,10 @@ The entire HTML document is a hierarchy of nested HTML elements. The HTML is not
       </li>
       <li>leo in vitae</li>
     </ul>
-    <div>
+    <p>
         <img src="image1.jpg">
-    </div>
-</section>
+    </p>
+</body>
 ```
 
 ## Browsers are Forgiving
@@ -111,7 +111,7 @@ You can add as much white-space as you want within the text of an element, and i
     </p>
 ```
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 ## Comments are Ignored
 

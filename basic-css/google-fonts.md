@@ -12,11 +12,11 @@ Next, select the specific font you want to import. For example, I've selected "E
 
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/selected-font.png)
 
-Next, click on the **Select this style** button to bring up the font detail box on the right. 
+Next, click on the **Select this style** button to bring up the font detail box on the right.
 
 ![](https://github.com/hoc-labs/images/blob/main/selected-font-2.png?raw=true)
 
-To include an external font, there are two methods. 
+To include an external font, there are two methods.
 
 * As a `<link>` element in the `<head>` section of the HTML document.
 * As an @import in your stylesheet.

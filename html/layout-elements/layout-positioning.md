@@ -4,13 +4,13 @@ So far we have been working with basic HTML elements whose purpose is to display
 
 A more typical web page, has a lot of these basic HTML elements, but as you'll notice in the screen capture below, they don't all flow down the page. The page has a layout which can be broken down into distinct functional areas, and each area has a group of basic HTML elements.
 
-![](../.gitbook/assets/image%20%28238%29.png)
+![](../../.gitbook/assets/image%20%28238%29.png)
 
 This layout cannot be achieved with HTML alone. It requires a combination of a new type of HTML element and CSS layout styles.
 
 Below is a mapping of the basic HTML elements as they are displayed with no CSS layout styles applied \(flows down the page\), and the corresponding area in the styled view \(layout\)
 
-![](../.gitbook/assets/image%20%28230%29.png)
+![](../../.gitbook/assets/image%20%28222%29%20%281%29.png)
 
 ### Container Elements
 
@@ -32,7 +32,7 @@ With the release of HTML5 in 2008, a new set of semantic HTML elements was intro
 
 Now, instead of using a `<div>` element to organize the large chunks of content on the page, we have a new set of semantic HTML elements that can be used instead, and they better describe the purpose of the content within the element.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 ### Grid and Flex Display Properties
 
@@ -42,7 +42,7 @@ In addition to semantic elements, two new CSS display properties \(**grid and fl
 
 Now we can take a closer look at what's in the HTML of the page we described above. You can see that there are semantic HTML elements surrounding each of the major sections of the page.
 
-![](../.gitbook/assets/image%20%28220%29.png)
+![](../../.gitbook/assets/image%20%28219%29%20%281%29.png)
 
 And here's the corresponding HTML.  I have left out the details within the semantic elements so it's easier to see the overall layout. With these container elements, it is now possible to specify that a particular element, such as the &lt;aside&gt;, should be positioned in a specific location within  the page.
 
@@ -78,7 +78,7 @@ Likewise, within each of the sub-sections within the \#2 row, the content is nat
 
 But within \#1 and \#3, the flow is horizontal, and so the display was changed override the default and have the child elements flow horizontally \(this can be achieved using the flex display property\).
 
-![](../.gitbook/assets/image%20%28237%29.png)
+![](../../.gitbook/assets/image%20%28237%29.png)
 
 ### Visualizing the HTML Element Tree
 
@@ -86,7 +86,7 @@ There is a really helpful Google Chrome Extension for viewing an HTML document a
 
 {% embed url="https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg?hl=en-US" %}
 
-![](../.gitbook/assets/image%20%28219%29.png)
+![](../../.gitbook/assets/image%20%28219%29.png)
 
 #### Main Element Tree
 
@@ -103,7 +103,7 @@ There is a really helpful Google Chrome Extension for viewing an HTML document a
 </main>
 ```
 
-![](../.gitbook/assets/image%20%28218%29.png)
+![](../../.gitbook/assets/image%20%28218%29.png)
 
 You can see that a layout/style could be put on the `<main>` HTML element to position it in the overall page layout, but that within the `<article>` element, all of the child elements will  flow down following the default flow within a containing rectangular box.
 

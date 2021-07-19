@@ -47,7 +47,7 @@ The web browser provides default values for the display property for each elemen
 
 In addition to always starting on their own line, block elements are configured to add a margin \(space\) between it and its neighboring boxes.
 
-If you're curious to see what the Chrome default stylesheet looks like, you can take a look at it [here](../appendix/chrome-default-stylesheet.md).
+If you're curious to see what the Chrome default stylesheet looks like, you can take a look at it [here](../../appendix/chrome-default-stylesheet.md).
 
 ### Box Width
 
@@ -61,7 +61,7 @@ This is in contrast to the second `img` element that is embedded within a `p` el
 
 Block elements, and inline elements, expand vertically to contain the content inside its box.
 
-![](../.gitbook/assets/image%20%28234%29.png)
+![](../../.gitbook/assets/image%20%28234%29.png)
 
 ```markup
 <body>
@@ -105,7 +105,7 @@ The difference is not due to the `img` element, but rather that the fact that th
 
 **Example \#1**: the `img` element is following an inline `h4` element and before an inline `p` element, so it ends up being on its own line, since the block elements neighbors must be one their own lines.
 
-![](../.gitbook/assets/image%20%28241%29.png)
+![](../../.gitbook/assets/image%20%28241%29.png)
 
 ```markup
 <h4>Image placed before paragraph</h4>
@@ -120,7 +120,7 @@ The difference is not due to the `img` element, but rather that the fact that th
 
 **Example \#2**: the `img` element is embedded within the `p` element, so it only has a single neighbor, which is the text within the paragraph. Since text is an inline element, the text following the img element starts immediately after the `img` element.
 
-![](../.gitbook/assets/image%20%28214%29.png)
+![](../../.gitbook/assets/image%20%28214%29.png)
 
 ```markup
 <h4>Image placed at the beginning of paragraph</h4>
@@ -136,7 +136,7 @@ The difference is not due to the `img` element, but rather that the fact that th
 
 **Example \#3**: the `img` element is again embedded in the paragraph, and its neighboring elements are the text before and after it. Since they are all inline, the `img` element takes up the minimal amount of horizontal space in the text.
 
-![](../.gitbook/assets/image%20%28216%29.png)
+![](../../.gitbook/assets/image%20%28216%29.png)
 
 ```markup
 <h4>Image placed in the middle of paragraph</h4>

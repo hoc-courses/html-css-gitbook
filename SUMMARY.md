@@ -2,40 +2,27 @@
 
 * [Overview](README.md)
 
-## Setup/Intro
+## how the web works
 
----
-
-* [Setup/Install](setup-install-topics/README.md)
-  * [Software Installation](setup-install-topics/software-installation.md)
-  * [Terminal/CLI Intro](setup-install-topics/terminal-cli.md)
-  * [git/GitHub Intro](setup-install-topics/version-control-git-github.md)
-  * [VS Code Intro](setup-install-topics/ide-visual-studio-code.md)
-  * [Slack Intro](setup-install-topics/slack-intro.md)
-  * [Course Folder](setup-install-topics/course-folder.md)
-  * [Assignments Intro](setup-install-topics/homework-prep.md)
-* [How the Web Works](how-the-web-works/README.md)
-  * [DNS, TCP/IP, HTTP, HTML](how-the-web-works/dns-tcp-ip-http-html.md)
-  * [Evolution of the Web Page](how-the-web-works/evolution-of-the-web-page.md)
-  * [How a Web Page Gets Loaded](how-the-web-works/how-a-web-page-gets-loaded.md)
+* [DNS, TCP/IP, HTTP, HTML](how-the-web-works/dns-tcp-ip-http-html.md)
+* [Evolution of the Web Page](how-the-web-works/evolution-of-the-web-page.md)
+* [How a Web Page Gets Loaded](how-the-web-works/how-a-web-page-gets-loaded.md)
 
 ## HTML
 
----
-
-* [Basic Elements](basic-elements/README.md)
-  * [Elements/Attributes](basic-elements/markup-structure.md)
-  * [Boilerplate HTML](basic-elements/untitled.md)
-  * [Meta Section](basic-elements/meta-section.md)
-  * [Text-formatting Elements](basic-elements/text-formatting-elemetns.md)
-  * [Image](basic-elements/images.md)
-  * [Video](basic-elements/video.md)
-  * [Anchor](basic-elements/links.md)
-  * [Block/Inline](basic-elements/element-flow-part-1.md)
-  * [Block/Inline](basic-elements/block-inline.md)
-* [Layout Elements](layout-elements/README.md)
-  * [Layout/Positioning](layout-elements/layout-positioning.md)
-* [Forms](forms.md)
+* [Basic Elements](html/basic-elements/README.md)
+  * [Elements/Attributes](html/basic-elements/markup-structure.md)
+  * [Boilerplate HTML](html/basic-elements/untitled.md)
+  * [Meta Section](html/basic-elements/meta-section.md)
+  * [Text-formatting Elements](html/basic-elements/text-formatting-elemetns.md)
+  * [Image](html/basic-elements/images.md)
+  * [Video](html/basic-elements/video.md)
+  * [Anchor](html/basic-elements/links.md)
+  * [Block/Inline](html/basic-elements/element-flow-part-1.md)
+  * [Block/Inline](html/basic-elements/block-inline.md)
+* [Layout Elements](html/layout-elements/README.md)
+  * [Layout/Positioning](html/layout-elements/layout-positioning.md)
+* [Forms](html/forms.md)
 
 ## BASIC CSS
 
@@ -45,26 +32,24 @@
 * [Color Properties](basic-css/color-properties.md)
 * [Colors](basic-css/colors.md)
 * [Box-Model/Box-Sizing](basic-css/box-model-box-sizing.md)
-* [Centering Elements](basic-css/centering-elements.md)
 * [Border-radius](basic-css/border-radius.md)
 * [Google Fonts](basic-css/google-fonts.md)
 
 ## BASIC CSS Labs/Exercises <a id="basic-css-labs"></a>
 
-* [Article Progression](basic-css-labs/article-progression/README.md)
-  * [Article - Basic CSS](basic-css-labs/article-progression/article-basic-css.md)
 * [Chrome Developer Tools - CSS](basic-css-labs/chrome-developer-tools-css.md)
 
-## advanced css lectures
+## advanced css
 
-* [Background Image](advanced-css-lectures/background-image.md)
-* [Box-shadow](advanced-css-lectures/box-shadow.md)
-* [Grid vs Flexbox](advanced-css-lectures/grid-vs-flexbox.md)
-* [Flexbox](advanced-css-lectures/flexbox.md)
-* [Grid](advanced-css-lectures/grid.md)
-* [Units](advanced-css-lectures/units.md)
-* [Browser Support for HTML/CSS](advanced-css-lectures/browser-support-for-html-css.md)
-* [Normalize CSS](advanced-css-lectures/normalize-css.md)
+* [Centering Elements](advanced-css/centering-elements.md)
+* [Background Image](advanced-css/background-image.md)
+* [Box-shadow](advanced-css/box-shadow.md)
+* [Grid vs Flexbox](advanced-css/grid-vs-flexbox.md)
+* [Flexbox](advanced-css/flexbox.md)
+* [Grid](advanced-css/grid.md)
+* [Units](advanced-css/units.md)
+* [Browser Support for HTML/CSS](advanced-css/browser-support-for-html-css.md)
+* [Normalize CSS](advanced-css/normalize-css.md)
 
 ## Advance CSS Labs
 
@@ -96,8 +81,6 @@
 
 * [Publishing to Netifly](miscellaneous/publishing-to-netifly.md)
 
-## HTML/CSS Extras
-
 ## Resources
 
 * [Miscellaneous](resources/miscellaneous.md)
@@ -114,6 +97,7 @@
 
 ## Appendix
 
+* [Collection of Cheat Sheets](appendix/collection-of-cheat-sheets.md)
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
 * [Books](appendix/books.md)
 * [Git/GitHub](appendix/git-github.md)

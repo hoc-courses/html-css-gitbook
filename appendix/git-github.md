@@ -24,7 +24,7 @@ git clone https://github.com/annechinn/test-repo.git
 
 The following image depicts the process that occurs on your local computer, as well as the process of pushing your changes from your local repository to the connected GitHub repository.
 
-![](../.gitbook/assets/image%20%28156%29.png)
+![](../.gitbook/assets/image%20%28202%29%20%281%29.png)
 
 This process of adding, committing \(on your local computer\) and then pushing changes to GitHub is known as the **ACP cycle** and it is repeated continually as you work on a project. 
 

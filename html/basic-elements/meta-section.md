@@ -29,7 +29,7 @@ A lot of the meta elements are used to assist search engines to find the page an
 
 If you search for NY Times on Google, you will see the following result. The text in red is taken from the meta attributes title and description.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 

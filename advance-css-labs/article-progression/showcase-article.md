@@ -8,7 +8,7 @@ We're going to build the front page of a newspaper website. In this exercise we'
 
 ## Setting a Background Image
 
-{% page-ref page="../../advanced-css-lectures/background-image.md" %}
+{% page-ref page="../../advanced-css/background-image.md" %}
 
 We've added a &lt;header&gt; element to place the showcase section. The showcase section will have a background image with text and a button layered on top of it. The technique necessary to get the image to be in a layer below the text and buttons is to set it using the CSS background property, instead of inserting an &lt;img&gt; element within the HTML page.
 
