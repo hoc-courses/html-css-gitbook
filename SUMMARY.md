@@ -23,6 +23,7 @@
 * [Layout Elements](html/layout-elements/README.md)
   * [Layout/Positioning](html/layout-elements/layout-positioning.md)
 * [Forms](html/forms.md)
+* [Tables](html/tables.md)
 
 ## BASIC CSS
 
@@ -35,10 +36,6 @@
 * [Border-radius](basic-css/border-radius.md)
 * [Google Fonts](basic-css/google-fonts.md)
 
-## BASIC CSS Labs/Exercises <a id="basic-css-labs"></a>
-
-* [Chrome Developer Tools - CSS](basic-css-labs/chrome-developer-tools-css.md)
-
 ## advanced css
 
 * [Centering Elements](advanced-css/centering-elements.md)
@@ -48,29 +45,11 @@
 * [Flexbox](advanced-css/flexbox.md)
 * [Grid](advanced-css/grid.md)
 * [Units](advanced-css/units.md)
-* [Browser Support for HTML/CSS](advanced-css/browser-support-for-html-css.md)
 * [Normalize CSS](advanced-css/normalize-css.md)
 
 ## Advance CSS Labs
 
-* [Article Progression](advance-css-labs/article-progression/README.md)
-  * [Article Card Grid](advance-css-labs/article-progression/article-card-grid.md)
-  * [Showcase Article](advance-css-labs/article-progression/showcase-article.md)
-  * [Navigation Bar](advance-css-labs/article-progression/navigation-bar.md)
-  * [Footer](advance-css-labs/article-progression/footer.md)
-  * [Finished](advance-css-labs/article-progression/finished.md)
-* [Re-create the Holy Grail Flexbox](advance-css-labs/re-create-the-holy-grail-flexbox.md)
 * [Centering Content](advance-css-labs/centering-content.md)
-* [Grid/Flex](advance-css-labs/grid-flex.md)
-* [Four-square - grid, box-shadow](advance-css-labs/four-square-grid-box-shadow.md)
-* [Front-end Mentors](advance-css-labs/front-end-mentors/README.md)
-  * [FE Mentors - 3 Col Preview](advance-css-labs/front-end-mentors/fe-mentors-3-column-preview.md)
-  * [FE Mentors - Single Price Grid](advance-css-labs/front-end-mentors/fe-mentors-single-price-grid.md)
-  * [FE Mentors - Four Card](advance-css-labs/front-end-mentors/fe-mentors-four-card.md)
-  * [FE Mentors - Testimonials](advance-css-labs/front-end-mentors/fe-mentors-testimonials.md)
-* [Copy from Mockup](advance-css-labs/copy-from-mockup/README.md)
-  * [Profile Page](advance-css-labs/copy-from-mockup/profile-page.md)
-  * [Profile Card](advance-css-labs/copy-from-mockup/profile-card.md)
 
 ## Version Control
 
@@ -97,6 +76,7 @@
 
 ## Appendix
 
+* [Browser Support for HTML/CSS](appendix/browser-support-for-html-css.md)
 * [Collection of Cheat Sheets](appendix/collection-of-cheat-sheets.md)
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
 * [Books](appendix/books.md)

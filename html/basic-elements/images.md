@@ -18,6 +18,56 @@ This means that they only take up as much horizontal space as their width and it
 
 ![](../../.gitbook/assets/image%20%28236%29.png)
 
+```markup
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img {
+            width:50px;
+        }
+    </style>
+</head>
+<body>
+    
+    <h4>Image placed before paragraph</h4>
+    <img src="images/photo.png"/>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+        laboris nisi ut aliquip ex ea commodo consequat.  </p>
+
+    <hr/>
+
+    <h4>Image placed at the beginning of paragraph</h4>
+    <p><img src="images/photo.png"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+        laboris nisi ut aliquip ex ea commodo consequat. 
+        Lorem ipsum dolor sit amet. </p>
+    
+    <hr/>
+
+    <h4>Image placed in the middle of paragraph</h4>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniamLorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, <img src="images/photo.png"/>
+        quis nostrud exercitation ullamco 
+        laboris nisi ut aliquip ex ea commodo consequat.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam </p>
+
+    <hr/>
+</body>
+```
+
 ### img element attributes
 
 The &lt;img element is our first element that demonstrates the use of attributes on the element.
