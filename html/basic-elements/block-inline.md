@@ -1,4 +1,4 @@
-# Block/Inline
+# Block/Inline - CSS Display
 
 ## Element Flow: CSS Display Property
 
