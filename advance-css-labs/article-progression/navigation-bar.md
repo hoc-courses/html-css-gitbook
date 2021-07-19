@@ -55,7 +55,7 @@ The image size needs to be scaled down to fit in the navigation bar. I've picked
 
 Unordered list elements \(&lt;ul&gt;, &lt;li&gt;\) are used to implement navigation bars because they are ideally suited to the task since they are designed to represent a hierarchical structure of any depth. This navigation bar is only one level, but that's not always the case \(take a look at the navigation bar on the [cnbc.com](http://cnbc.com) site\)
 
-There are two CSS properties on the list element \(ul or ol\) that must be changed from the defaults to make a list into a navigation bar.
+There are three CSS properties on the list element \(ul or ol\) that must be changed from the defaults to make a list into a navigation bar.
 
 * **list-style: none** This removes to bullet icon for each list item
 * **display: flex**  In this situation we are using it to cause the list items to flow from left to right across the available space. 
