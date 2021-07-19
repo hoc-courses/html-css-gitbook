@@ -201,5 +201,3 @@ The flex-grow property specifies what happens to the element when distributing e
 
 That's pretty much it for the main styling of the form. The rest is padding and margins to spread the elements out nicely across the form.
 
-Here's a link to the published page where you can inspect the site. [https://suspicious-hodgkin-54e289.netlify.app/](https://suspicious-hodgkin-54e289.netlify.app/)
-
