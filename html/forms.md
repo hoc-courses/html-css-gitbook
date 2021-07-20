@@ -28,7 +28,13 @@ The **name** attribute is the form field name that will be used when the data is
 
 The essential elements contained within the &lt;form&gt; element are &lt;input&gt; elements. The &lt;input&gt; elements tell the web browser what the data elements are included on the form and the type attribute describes the type of data the element contains.
 
-HTML supports many different input data types for the &lt;input&gt; element. The web browser will present the appropriate UI control and validate based on the data type specified. The full list of data types supported by HTML5 can be[ found here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input). The input type is a client-side attribute to assist in collecting the data and is not sent to with the form data sent to the server for processing. The only form data that is sent to the server is the names of the input fields and their associated values.
+HTML supports many different input data types for the &lt;input&gt; element. The web browser will present the appropriate UI control and validate based on the data type specified. The full list of data types supported by HTML5 can be[ found here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input). The input type is a client-side attribute to assist in collecting the data and is not sent to with the form data sent to the server for processing. 
+
+The only form data that is sent to the server is the names of the input fields and their associated values.
+
+![](../.gitbook/assets/image%20%2830%29.png)
+
+![](../.gitbook/assets/image%20%286%29.png)
 
 ## Form Styling
 
@@ -88,116 +94,4 @@ Below are a few of the common input types that are available. As you can see, th
 ## Styling
 
 A big part of form development is the additional styling that is required to make the form look presentable, as the default styling by the web browser is pretty limited. Additionally, validation of the data is necessary. This functionality is often a selling point of adopting a front-end framework, such as Bootstrap, which provides extensive support for forms.
-
-## Advanced Form Layout
-
-We're going to build a form using both grid and flex to layout the elements.
-
-### Grid Areas
-
-An easy way to specify the grid structure is to use the **grid-template-areas** property on the grid container element. All you have to do is create the rows using strings representing the columns each area takes up in each row.
-
-In this form the top row will have two columns and the bottom row will have one column, so we just duplicate the bottom area for both columns. Then we define a style that is associated with the grid area.
-
-```css
-<form class="myForm">
-  <div class="left"></div>
-  <div class="right"></div>     
-  <div class="bottom"></div>
-</form>
-```
-
-```css
-.myForm {
-    display: grid;
-    grid-gap:12px;
-    grid-template-areas: 
-        "left right"
-        "bottom bottom";
-}
-
-.left {
-    grid-area: left;
-}
-
-.right {
-grid-area: right;
-}
-
-.bottom {
-    grid-area:bottom;
-}
-```
-
-![](../.gitbook/assets/image%20%2893%29.png)
-
-### Left Region Flex
-
-Each label/input pair is grouped in a div with the class of "input-group". These will flow from top to bottom on their own. On the input-group div, we set the display property to flex to get each child label and input element pair to flow from left to right.
-
-### Right Region Flex
-
-Each fieldset element will flow from top to bottom on their own. On the fieldset, we set the display property to flex to get the fieldset child elements to flow from top to bottom.
-
-![](../.gitbook/assets/image%20%28162%29.png)
-
-```css
- <form class="myForm">
-    <div class="left">
-        <div class="input-group">
-            <label for="customer_name">Name</label>
-            <input id="customer_name">
-        </div>
-        <div class="input-group">
-            <label for="phone_number">Phone</label>
-            <input type="tel" id="phone_number">
-        </div>
-        <div class="input-group">
-            <label for="email_address">Email</label>
-            <input type="email" id="email_address">
-        </div>
-        <!-- code removed for clarity -->
-    </div>
-     <div class="right">
-        <fieldset class="taxi">
-            <legend>Which taxi do you require?</legend>
-            <label> <input type="radio" id="taxi_car" value="car"> Car </label>
-            <label> <input type="radio" id="taxi_van" value="van"> Van </label>
-        </fieldset>
-
-        <fieldset class="extras">
-            <legend>Extras</legend>
-            <label> <input type="checkbox" id="extras_baby" value="baby"> Baby Seat </label>
-            <label> <input type="checkbox" id="extras_wheel" value="wheelchair"> Wheelchair Access </label>
-        </fieldset>
-    </div>     
-</form>
-```
-
-```css
-.left > .input-group {
-    display: flex;
-    flow-direction: row;
-}
-
-.right fieldset {
-    display:flex;
-    flex-direction: column;
-}
-```
-
-### Flex-grow
-
-The flex-grow property specifies what happens to the element when distributing extra space across the width of the container. The default value is zero. We are setting the value to one for the form elements to the right of the labels, so that they will stretch to fill the available space and the label will remain a fixed size.
-
-```css
-.myForm input,
-.myForm select {
-    flex-grow: 1; 
-}
-```
-
-## Wrapping Up
-
-That's pretty much it for the main styling of the form. The rest is padding and margins to spread the elements out nicely across the form.
 

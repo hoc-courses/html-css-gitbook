@@ -47,18 +47,10 @@
 * [Units](advanced-css/units.md)
 * [Normalize CSS](advanced-css/normalize-css.md)
 
-## Advance CSS Labs
-
-* [Centering Content](advance-css-labs/centering-content.md)
-
 ## Version Control
 
 * [Forking a GitHub Repository](version-control/git-review.md)
 * [Branching](version-control/branching.md)
-
-## Miscellaneous
-
-* [Publishing to Netifly](miscellaneous/publishing-to-netifly.md)
 
 ## Resources
 
@@ -66,13 +58,8 @@
 * [Cheatsheets](resources/cheatsheets.md)
 * [Free Images/Videos](resources/free-images-videos.md)
 * [Free Scrimba Courses](resources/scrimba-courses.md)
-* [Project Ideas](resources/project-ideas.md)
 * [Mockups](resources/mockups.md)
 * [FE Mentor Challenges](resources/fe-mentor-challenges.md)
-
-## basic html labs/exercises <a id="basic-html-labs"></a>
-
-* [HTML Cheatsheet](basic-html-labs/html-cheatsheet.md)
 
 ## Appendix
 
@@ -81,7 +68,6 @@
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
 * [Books](appendix/books.md)
 * [Git/GitHub](appendix/git-github.md)
-* [Terminology](appendix/terminology.md)
 * [VS Code Extensions](appendix/vs-code-extensions.md)
 * [VS Code Shortcuts](appendix/vs-code-shortcuts.md)
 * [Chrome Extensions](appendix/chrome-extensions.md)
