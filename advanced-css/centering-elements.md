@@ -104,3 +104,9 @@ You can use the flex-direction property to set the child elements to flow across
 
 ![](../.gitbook/assets/image%20%28161%29.png)
 
+### Resources
+
+{% embed url="https://css-tricks.com/centering-css-complete-guide/" %}
+
+
+
