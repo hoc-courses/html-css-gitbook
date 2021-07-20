@@ -4,33 +4,33 @@
 
 In 1980, physicist Tim Berners-Lee, proposed a system for researchers to share documents. Ten years later, he specified the **HTML** language and wrote the browser and server software for the first operational system.
 
-It consisted of a communication system between web browsers and servers where a user could request a document with a unique resource ID \(URL\) from a web server, and the web server would respond to a request and return the document to the browser to display.
+It consisted of a communication system between web browsers and servers where a user could request a document with a unique resource ID \(URL\) from a web server, and the web server would respond to the request and return the document to the browser to display.
 
-Embedded within the text of the document were **hyper-links** to other documents so that it was possible to refer to other documents and simply click on the link to switch to viewing that document.
+Embedded within the text of the document were **hyper-links** to other documents so that it was possible to refer to other documents and simply click on the link to switch to viewing the new document.
 
 ![](../.gitbook/assets/image%20%28201%29.png)
 
-In the beginning, the content of the documents was limited to text, lists, hyper-links, and images.
+In the initial version, the content of the documents was limited to text, lists, hyper-links, and images. There was no styling. The content just flowed down the page from top to bottom.
 
 ![](../.gitbook/assets/image%20%28193%29.png)
 
 #### HTML - Hypertext Markup Language
 
-The document structure and content was \(and still is\) described by the mark-up language, **HTML**.
+Within the document, the text was annotated to describe the structure and content using a mark-up language, called HTML. 
 
 In computer text processing, a markup language is **a system for annotating a document in a way that is visually distinguishable from the content**. It is used only to format the text, so that when the document is processed for display, the markup language does not appear. The idea and terminology evolved from the "marking up" of paper manuscripts \(i.e., the revision instructions by editors\), which is traditionally written with a red pen or blue pencil on authors' manuscripts. - _Wikipedia_
 
 HTML consists of a set of **markup elements** \(opening and closing tags\) that **wrap the text** to mark them for specific formatting. Additionally, **markup attributes** \(name=value pairs on the  beginning tag\) are used to specify additional information. 
 
-For example, in the HTML document below, the ****`h1` and `h3` elements are used to indicate **headings** of varying importance. There are six possible heading elements ranging from `h1` being the most important \(larger, bolder\) to `h6` being the least important.
+For example, in the HTML document below, the ****`<h1>`and `<h3>`elements are used to indicate **headings** of varying importance. There are six possible heading elements ranging from `<h1>`being the most important \(larger, bolder\) to `<h6>`being the least important.
 
-The `p` element specifies a paragraph.
+The `<p>`element specifies a paragraph.
 
-The `ul` and `li` elements specify a list and the items within the list.
+The `<ul>`and `<li>`elements specify a list and the items within the list.
 
-The `img` element specifies an image, and the **src attribute** specifies the location \(URL\) where the image file resides. When the web browser is loading the HTML document, and it encounters and ****`img` element, it reads the src attribute value, and makes a request to the web server to retrieve the image file and displays it in the browser.
+The `<Img>`element specifies an image, and the **src attribute** specifies the location \(URL\) where the image file resides. When the web browser is loading the HTML document, and it encounters and ****`<img>`element, it reads the src attribute value, and makes a request to the web server to retrieve the image file and displays it in the browser.
 
-The `a` element ****specifies a hyper-link to another document. When it is clicked by the user, the web browser will initiate a new HTML document request for the document specified in the **href attribute.**
+The `<a>`element ****specifies a hyper-link to another document. When it is clicked by the user, the web browser will initiate a new HTML document request for the document specified in the **href attribute.**
 
 ```markup
 <html>
@@ -41,8 +41,6 @@ The `a` element ****specifies a hyper-link to another document. When it is click
     <h3>Section 2</h3>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat. <a href="">Duis aute irure dolor</a> in reprehenderit in voluptate
       velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
       cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
@@ -76,9 +74,9 @@ So, let's breakdown these three components and what their individual purposes ar
 
 | Technology | Description |
 | :--- | :--- |
-| **HTML** | Hypertext Markup Language. A _mark-up language_ to describe the content of web pages |
-| **CSS** | Cascading Style Sheet - A _stylesheet language_ used to express the presentation of web pages. |
-| **JavaScript** | A _programming language_ used for both front-end and back-end development. |
+| **HTML** | **Hypertext Markup Language**. A _mark-up language_ to describe the content of web pages |
+| **CSS** | **Cascading Style Sheet** - A _stylesheet language_ used to express the presentation of web pages. |
+| **JavaScript** | A **programming language** used for both front-end and back-end development. |
 
 ![](../.gitbook/assets/image%20%2859%29.png)
 
@@ -175,7 +173,7 @@ First, JavaScript can be used to add what I'd call eye-candy to the site. The co
 
 {% embed url="https://mrdoob.com/projects/chromeexperiments/ball-pool/" caption="" %}
 
-### Canvas
+### Canvas - 2D/3D Graphics
 
 {% embed url="http://www.craftymind.com/factory/html5video/CanvasVideo.html" %}
 
@@ -202,4 +200,46 @@ Take a look at the Console Developer Tools Network Tab to see the network traffi
 
 * Navigate to the article, click on the Comments button at the bottom
 * JavaScript responds to the button click, sends as request to the server for all of the comments for the article, and then, without updating the entire page, inserts the new section for the user to interact with the comments.
+
+### Summary
+
+![](../.gitbook/assets/image%20%2843%29.png)
+
+#### HTML - Structure/Content
+
+```markup
+<h1>Hello World!</h1>
+```
+
+#### CSS - Styles
+
+```css
+h1 {
+    padding-top: 0;
+    padding-bottom: 5px;
+    border-bottom: none;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 3.2em;
+    text-transform: uppercase;
+}
+```
+
+#### JavaScript - Interactivity
+
+![](../.gitbook/assets/image%20%2871%29.png)
+
+```javascript
+function processForm(event) {
+  event.preventDefault();
+  
+  let form = document.getElementById("form");
+
+  let username = form.elements.username.value);
+  let password = form.elements.password.value);
+  
+  // call to the server with the username/password
+  // to authenticate the user and redirect to
+  // the dashboard page if succeeds
+ } 
+```
 
