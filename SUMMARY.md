@@ -47,21 +47,18 @@
 * [Units](advanced-css/units.md)
 * [Normalize CSS](advanced-css/normalize-css.md)
 
-## Resources
-
-* [Free Images/Videos](resources/free-images-videos.md)
-
 ## Appendix
 
-* [FE Mentor Challenges](appendix/fe-mentor-challenges.md)
 * [Lorem Ipsum](https://loremipsum.io/)
 * [HTML Cheatsheet](https://overapi.com/html)
 * [CSS Cheatsheet](https://overapi.com/css)
 * [Browser Support for HTML/CSS](http://caniuse.com)
+* [unsplash.com \(free images\)](https://unsplash.com/)
+* [pexels.com \(free images\)](https://unsplash.com/)
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
-* [Free Scrimba Courses](appendix/scrimba-courses.md)
 
----
+## Further Learning Resources <a id="further-learning-resources-1"></a>
 
-* [unsplash.com](https://unsplash.com/)
+* [FE Mentor Challenges](further-learning-resources-1/fe-mentor-challenges.md)
+* [Free Scrimba Courses](further-learning-resources-1/scrimba-courses.md)
 
