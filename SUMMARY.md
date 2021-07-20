@@ -49,22 +49,19 @@
 
 ## Resources
 
-* [Miscellaneous](resources/miscellaneous.md)
-* [Cheatsheets](resources/cheatsheets.md)
 * [Free Images/Videos](resources/free-images-videos.md)
-* [Free Scrimba Courses](resources/scrimba-courses.md)
-* [FE Mentor Challenges](resources/fe-mentor-challenges.md)
 
 ## Appendix
 
+* [FE Mentor Challenges](appendix/fe-mentor-challenges.md)
+* [Lorem Ipsum](https://loremipsum.io/)
+* [HTML Cheatsheet](https://overapi.com/html)
+* [CSS Cheatsheet](https://overapi.com/css)
+* [Browser Support for HTML/CSS](http://caniuse.com)
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
-* [VS Code Shortcuts](appendix/vs-code-shortcuts.md)
-* [Chrome Extensions](appendix/chrome-extensions.md)
-* [Other Resources](appendix/other-resources.md)
+* [Free Scrimba Courses](appendix/scrimba-courses.md)
 
 ---
 
-* [Browser Support for HTML/CSS](browser-support-for-html-css.md)
-* [HTML Cheatsheet](https://overapi.com/html)
-* [CSS Cheatsheet](https://overapi.com/css)
+* [unsplash.com](https://unsplash.com/)
 
