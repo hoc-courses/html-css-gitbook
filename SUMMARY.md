@@ -47,29 +47,24 @@
 * [Units](advanced-css/units.md)
 * [Normalize CSS](advanced-css/normalize-css.md)
 
-## Version Control
-
-* [Forking a GitHub Repository](version-control/git-review.md)
-* [Branching](version-control/branching.md)
-
 ## Resources
 
 * [Miscellaneous](resources/miscellaneous.md)
 * [Cheatsheets](resources/cheatsheets.md)
 * [Free Images/Videos](resources/free-images-videos.md)
 * [Free Scrimba Courses](resources/scrimba-courses.md)
-* [Mockups](resources/mockups.md)
 * [FE Mentor Challenges](resources/fe-mentor-challenges.md)
 
 ## Appendix
 
-* [Browser Support for HTML/CSS](appendix/browser-support-for-html-css.md)
-* [Collection of Cheat Sheets](appendix/collection-of-cheat-sheets.md)
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
-* [Books](appendix/books.md)
-* [Git/GitHub](appendix/git-github.md)
-* [VS Code Extensions](appendix/vs-code-extensions.md)
 * [VS Code Shortcuts](appendix/vs-code-shortcuts.md)
 * [Chrome Extensions](appendix/chrome-extensions.md)
 * [Other Resources](appendix/other-resources.md)
+
+---
+
+* [Browser Support for HTML/CSS](browser-support-for-html-css.md)
+* [HTML Cheatsheet](https://overapi.com/html)
+* [CSS Cheatsheet](https://overapi.com/css)
 
