@@ -38,5 +38,5 @@ The setting is typically set on all elements.
 }
 ```
 
-{% embed url="https://www.w3schools.com/css/css3\_box-sizing.asp" caption="" %}
+{% embed url="https://learnlayout.com/box-sizing.html" %}
 
