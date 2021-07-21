@@ -18,10 +18,7 @@
   * [Image](html-css-intro/html-intro/images.md)
   * [Video](html-css-intro/html-intro/video.md)
   * [Anchor](html-css-intro/html-intro/links.md)
-* [CSS](html-css-intro/css-intro/README.md)
-  * [Intro to CSS](html-css-intro/css-intro/intro-to-css.md)
-  * [Color Properties](html-css-intro/css-intro/color-properties.md)
-  * [Font Properties](html-css-intro/css-intro/font-properties.md)
+* [Intro to CSS](html-css-intro/intro-to-css.md)
 * [Element Flow](html-css-intro/element-flow/README.md)
   * [Element Flow - Overview](html-css-intro/element-flow/element-flow-part-1.md)
   * [Element Flow - CSS Display](html-css-intro/element-flow/element-flow-part-2.md)
@@ -32,7 +29,9 @@
 
 ## BASIC CSS
 
+* [Font Properties](basic-css/font-properties.md)
 * [Typography](basic-css/typography.md)
+* [Color Properties](basic-css/color-properties.md)
 * [Colors](basic-css/colors.md)
 * [Box-Model/Box-Sizing](basic-css/box-model-box-sizing.md)
 * [Border-radius](basic-css/border-radius.md)
