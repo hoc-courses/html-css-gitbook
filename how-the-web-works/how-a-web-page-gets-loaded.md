@@ -43,5 +43,3 @@ That content will be used by the web browser to apply the specified styles to th
 
 ![](../.gitbook/assets/image%20%28158%29.png)
 
-### Demo in Chrome Developer Tools
-
