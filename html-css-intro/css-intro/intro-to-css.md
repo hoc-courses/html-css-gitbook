@@ -13,7 +13,7 @@ The basic syntax, and preferred formatting, of a CSS Rule block is shown below.
 * The property-name is the specific aspect of the element you want to style.
 * The property-name is the specific value for that property.
 
-![](../.gitbook/assets/image%20%28246%29.png)
+![](../../.gitbook/assets/image%20%28246%29.png)
 
 The first example is a single type selector for the body element with multiple styles. The second example of multiple selectors with a single style.
 
@@ -44,14 +44,14 @@ These are the most common:
 
 | \*\*\*\* |  |
 | :--- | :--- |
-| \*\*\*\*[**Color**](colors.md)\*\*\*\* |  |
+| \*\*\*\*[**Color**](../../basic-css/colors.md)\*\*\*\* |  |
 | color | text color. named values, or numeric formats |
 | background-color | background color. named values, or numeric formats |
-| \*\*\*\*[**Font**](typography.md)\*\*\*\* |  |
+| \*\*\*\*[**Font**](../../basic-css/typography.md)\*\*\*\* |  |
 | font-size | named sizes or different length units. default is 16px or 1 em. |
 | font-family | Serif, Sans-Serif, etc... |
 | font-weight | named weight, such as normal, bold, lighter, darker, or numeric value between 100-900 \(400 is normal\) |
-| \*\*\*\*[**Content Rectangle**](box-model-box-sizing.md)\*\*\*\* | Think of each element on the page being a rectangular picture frame. |
+| \*\*\*\*[**Content Rectangle**](../../basic-css/box-model-box-sizing.md)\*\*\*\* | Think of each element on the page being a rectangular picture frame. |
 | border | picture frame |
 | margin | space outside of border \(space between pictures on the wall\) |
 | padding | space inside of border \(inside picture frame, around picture\) |
@@ -138,7 +138,7 @@ h1 {
 }
 ```
 
-![](../.gitbook/assets/image%20%28251%29.png)
+![](../../.gitbook/assets/image%20%28251%29.png)
 
 ### Processing Order Matters
 
@@ -175,7 +175,7 @@ body {
 </body>
 ```
 
-![](../.gitbook/assets/image%20%28252%29.png)
+![](../../.gitbook/assets/image%20%28252%29.png)
 
 In the next screen capture, the background color and text transform have been overridden in the descendent elements.
 
@@ -225,7 +225,7 @@ p {
 }
 ```
 
-![](../.gitbook/assets/image%20%28249%29.png)
+![](../../.gitbook/assets/image%20%28249%29.png)
 
 
 
@@ -265,7 +265,7 @@ There are many ways to select an element. To start off, we'll focus on the three
   </body>
 ```
 
-![](../.gitbook/assets/image%20%28245%29.png)
+![](../../.gitbook/assets/image%20%28245%29.png)
 
 ```css
 /* Type */
@@ -300,11 +300,11 @@ These two selectors are used to target descendants of a given element. The child
 
 **Child Selector: parent &gt; child.**
 
-![](../.gitbook/assets/image%20%28244%29.png)
+![](../../.gitbook/assets/image%20%28244%29.png)
 
 **Descendant Selector**: **parent descendant**.
 
-![](../.gitbook/assets/image%20%28250%29.png)
+![](../../.gitbook/assets/image%20%28250%29.png)
 
 ```markup
 <body>
@@ -336,7 +336,7 @@ ul a {
 }
 ```
 
-![](../.gitbook/assets/image%20%28248%29.png)
+![](../../.gitbook/assets/image%20%28248%29.png)
 
 ### Pseudo Selectors
 
@@ -378,7 +378,7 @@ This is known as the specificity of the selector, or how strongly that selector 
 * **class** attribute on element
 * **type** selector in stylesheet
 
-![](../.gitbook/assets/image%20%28247%29.png)
+![](../../.gitbook/assets/image%20%28247%29.png)
 
 ```markup
 <ul>
