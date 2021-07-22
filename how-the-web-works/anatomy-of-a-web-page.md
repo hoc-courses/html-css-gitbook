@@ -31,15 +31,11 @@ Modern web pages have progress a long way since those early days and now depend 
 
 ![](../.gitbook/assets/image%20%28255%29.png)
 
-**CSS:** specifies rules to change style properties on selected HTML elements.
-
-{% hint style="info" %}
-CSS styles are typically stored in a separate file and pulled into the HTML document. They were embedded in the HTML document here to make viewing them easier.
-{% endhint %}
+**CSS:** specifies rules to change style properties on selected HTML elements. CSS code is typically stored in a separate file and pulled into the HTML document. The CSS is embedded in the HTML document here to make viewing it on one screen easier.
 
 ![](../.gitbook/assets/image%20%28195%29.png)
 
-**JAVASCRIPT**: adds interactivity to the page. For example, you could bring up a video in a popup window when the user clicked on one of the jelly fish images \(the code is a little too involved to display here, but you get the idea\).
+**JAVASCRIPT**: adds interactivity to the page. For example, you could bring up a video in a popup window when the user clicked on one of the jelly fish images \(the code is a little too involved to display here, but you get the idea\). JavaScript code, like CSS, is typically stored in an external document and pulled into the HTML document when it is being loaded.
 
 ### Examples of CSS and JavaScript
 
