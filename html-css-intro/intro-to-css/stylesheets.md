@@ -12,7 +12,7 @@ Every HTML element has two attributes available to use to target the element to 
 
 A single stylesheet can be shared by multiple HTML pages.
 
-![https://blog.templatetoaster.com/what-is-css/](../../.gitbook/assets/image%20%28255%29.png)
+![https://blog.templatetoaster.com/what-is-css/](../../.gitbook/assets/image%20%28259%29.png)
 
 The CSS cascade assigns a weight to each style rule. When several rules apply, the one with the greatest weight take precedence.
 
@@ -38,9 +38,9 @@ Descendant selectors, Child selectors, universal selector, attribute selector, p
 
 
 
-![](../../.gitbook/assets/image%20%28240%29.png)
+![](../../.gitbook/assets/image%20%28256%29.png)
 
-![](../../.gitbook/assets/image%20%28253%29.png)
+![](../../.gitbook/assets/image%20%28257%29.png)
 
  It was introduced to keep the presentation information information separate from the HTML markup \(content\). Initially web developers used HTML elements like `<font>`, `<b>`, `<br>`, and &lt;table&gt; to control the design of web pages. 
 

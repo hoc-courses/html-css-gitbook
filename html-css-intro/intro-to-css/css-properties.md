@@ -6,11 +6,11 @@ The webpage below is a great resource for all of the various CSS properties. I'v
 
 {% embed url="https://htmldog.com/references/css/properties/" %}
 
-![](../../.gitbook/assets/image%20%28215%29.png)
-
 ![](../../.gitbook/assets/image%20%28217%29.png)
 
-![](../../.gitbook/assets/image%20%28145%29.png)
+![](../../.gitbook/assets/image%20%28220%29.png)
 
-![](../../.gitbook/assets/image%20%28257%29.png)
+![](../../.gitbook/assets/image%20%28156%29.png)
+
+![](../../.gitbook/assets/image%20%28261%29.png)
 

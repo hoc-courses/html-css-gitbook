@@ -13,7 +13,7 @@ The basic syntax, and preferred formatting, of a CSS Rule block is shown below.
 * The property-name is the specific aspect of the element you want to style.
 * The property-name is the specific value for that property.
 
-![](../../.gitbook/assets/image%20%28226%29.png)
+![](../../.gitbook/assets/image%20%28230%29.png)
 
 ![](../../.gitbook/assets/image%20%28246%29.png)
 
