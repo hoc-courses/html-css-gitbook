@@ -11,7 +11,6 @@
 ## HTML/CSS intro
 
 * [HTML](html-css-intro/html-intro/README.md)
-  * [Markup](html-css-intro/html-intro/markup-structure.md)
   * [Boilerplate HTML](html-css-intro/html-intro/untitled.md)
   * [Meta Section](html-css-intro/html-intro/meta-section.md)
   * [Text-formatting Elements](html-css-intro/html-intro/text-formatting-elemetns.md)
@@ -21,9 +20,9 @@
   * [Forms](html-css-intro/html-intro/forms.md)
   * [Tables](html-css-intro/html-intro/tables.md)
 * [CSS](html-css-intro/intro-to-css/README.md)
-  * [Stylesheets](html-css-intro/intro-to-css/stylesheets.md)
-  * [CSS Properties](html-css-intro/intro-to-css/css-properties.md)
+  * [Properties](html-css-intro/intro-to-css/properties.md)
   * [Selectors](html-css-intro/intro-to-css/selectors.md)
+  * [Untitled](html-css-intro/intro-to-css/untitled.md)
 * [Element Flow](html-css-intro/element-flow/README.md)
   * [Element Flow - Overview](html-css-intro/element-flow/element-flow-part-1.md)
   * [Element Flow - CSS Display](html-css-intro/element-flow/element-flow-part-2.md)
