@@ -33,6 +33,10 @@ Modern web pages have progress a long way since those early days and now depend 
 
 **CSS:** specifies rules to change style properties on selected HTML elements.
 
+{% hint style="info" %}
+CSS styles are typically stored in a separate file and pulled into the HTML document. They were embedded in the HTML document here to make viewing them easier.
+{% endhint %}
+
 ![](../.gitbook/assets/image%20%28195%29.png)
 
 **JAVASCRIPT**: adds interactivity to the page. For example, you could bring up a video in a popup window when the user clicked on one of the jelly fish images \(the code is a little too involved to display here, but you get the idea\).

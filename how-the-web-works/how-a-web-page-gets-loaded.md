@@ -21,7 +21,7 @@ Step 5-6: The web browser reads through and and parses the HTML text file line-b
 
 ![](../.gitbook/assets/image%20%2836%29.png)
 
-## Anatomy of a Page Request/Response
+## Breakdown of a Page Request/Response
 
 The image below shows the Request and Response taken from the Chrome Developer Tools when inspecting the Network traffic after the URL **csszengarden.com** is entered into the search input box of the browser.
 
