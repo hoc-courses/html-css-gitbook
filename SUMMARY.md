@@ -5,7 +5,7 @@
 ## how the web works
 
 * [DNS, TCP/IP, HTTP, HTML](how-the-web-works/dns-tcp-ip-http-html.md)
-* [Evolution of the Web Page](how-the-web-works/evolution-of-the-web-page.md)
+* [Anatomy of a Web Page](how-the-web-works/anatomy-of-a-web-page.md)
 * [How a Web Page Gets Loaded](how-the-web-works/how-a-web-page-gets-loaded.md)
 
 ## HTML/CSS intro
@@ -18,20 +18,21 @@
   * [Image](html-css-intro/html-intro/images.md)
   * [Video](html-css-intro/html-intro/video.md)
   * [Anchor](html-css-intro/html-intro/links.md)
-* [Intro to CSS](html-css-intro/intro-to-css.md)
+  * [Forms](html-css-intro/html-intro/forms.md)
+  * [Tables](html-css-intro/html-intro/tables.md)
+* [CSS](html-css-intro/intro-to-css/README.md)
+  * [Stylesheets](html-css-intro/intro-to-css/stylesheets.md)
+  * [CSS Properties](html-css-intro/intro-to-css/css-properties.md)
+  * [Selectors](html-css-intro/intro-to-css/selectors.md)
 * [Element Flow](html-css-intro/element-flow/README.md)
   * [Element Flow - Overview](html-css-intro/element-flow/element-flow-part-1.md)
   * [Element Flow - CSS Display](html-css-intro/element-flow/element-flow-part-2.md)
 * [Layout Elements](html-css-intro/layout-elements/README.md)
   * [Layout/Positioning](html-css-intro/layout-elements/layout-positioning.md)
-* [Forms](html-css-intro/forms.md)
-* [Tables](html-css-intro/tables.md)
 
 ## BASIC CSS
 
-* [Font Properties](basic-css/font-properties.md)
 * [Typography](basic-css/typography.md)
-* [Color Properties](basic-css/color-properties.md)
 * [Colors](basic-css/colors.md)
 * [Box-Model/Box-Sizing](basic-css/box-model-box-sizing.md)
 * [Border-radius](basic-css/border-radius.md)
