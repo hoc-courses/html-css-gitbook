@@ -12,5 +12,5 @@ The webpage below is a great resource for all of the various CSS properties. I'v
 
 ![](../../.gitbook/assets/image%20%28156%29.png)
 
-![](../../.gitbook/assets/image%20%28263%29.png)
+![](../../.gitbook/assets/image%20%28264%29.png)
 

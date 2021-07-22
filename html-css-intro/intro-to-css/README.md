@@ -1,5 +1,29 @@
 # CSS
 
+### CSS - Cascading Style Sheets
+
+HTML deals with meaning and content. CSS was introduced to allow the browser to apply specific styling features such as colors, fonts, and positioning to the HTML elements on the page. 
+
+In HTML we wrap content with elements to specify how it should be structured. 
+
+With CSS, we can use a stylesheet language to specify which styling properties we want to change for specific HTML elements.
+
+To change the style of an element you must target the element using **selectors** and then specify one or more style property-name property-value pairs to apply to the targeted element.
+
+![](../../.gitbook/assets/image%20%28215%29.png)
+
+In the example above, the selector is the name of an HTML element. This would change the text color of every paragraph in the document to red.
+
+#### What aspects of an HTML element can be styled?
+
+The list is quite long. They can be loosely categorized into styles that deal with text and font, colors and backgrounds, margins, padding, and borders, and dimensions, display and positioning.
+
+For a complete list, visit the website below.
+
+{% embed url="https://htmldog.com/references/css/properties/" %}
+
+### \*\*\*\*
+
 ### Overview
 
 CSS \(Cascading Style Sheets\) are a collection of rules for how specific styles, such as colors, fonts, lengths, and positioning should be applied by the web browser to the HTML elements in your web page.
