@@ -4,13 +4,13 @@
 
 HTML is used to give structure to the page content. CSS was introduced to allow the browser to apply specific styling features such as colors, fonts, and positioning to the HTML elements on the page. 
 
-![https://blog.templatetoaster.com/what-is-css/](../../.gitbook/assets/image%20%28226%29.png)
+![https://blog.templatetoaster.com/what-is-css/](../../.gitbook/assets/image%20%28230%29.png)
 
 With CSS, we can use a stylesheet language to specify which styling properties we want to change for specific HTML elements.
 
 To change the style of an element you must target the element using **selectors** and then specify one or more style **property-name property-value pairs** to apply to the targeted element.
 
-![](../../.gitbook/assets/image%20%28217%29.png)
+![](../../.gitbook/assets/image%20%28220%29.png)
 
 In the example above, the selector is the name of an HTML element. This would change the text color of every paragraph in the document to red.
 

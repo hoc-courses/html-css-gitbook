@@ -1,10 +1,14 @@
-# Untitled
+# The Cascade in C
+
+### Browser Defaults
 
 In addition to your own styles, the web browser provides a set of default styles. 
 
 The link below is for the default styles applied by the Chrome browser. 
 
 {% embed url="https://source.chromium.org/chromium/chromium/src/+/master:third\_party/blink/renderer/core/html/resources/html.css" %}
+
+Examples of some of the styles it sets include:
 
 * display to set block elements \(h1-h6, p, hr\)
 * font-size, font-weight for headings \(h1-h6\)
@@ -34,63 +38,21 @@ h1 {
 
 ![](../../.gitbook/assets/image%20%28251%29.png)
 
-### Processing Order Matters
+### Processing Order Matters - The Last Rule Wins
 
-The web browser loads its default styles first, and then loads any styles defined by the web page author. If the the rule is repeated, the last one encountered will be used. For example, if our own stylesheet re-defined the h1 element to be an inline element instead of block, our rule would override the defined by the web browser.
+The web browser loads its default styles first, and then loads any styles defined by the web page author. If the the rule is repeated, the last one encountered will be used. For example, your own stylesheet could specify the color property of the h1 element should be red, which would override the value defined by the web browser.
 
-```css
-h1 {
-    display: inline;
-}
-```
+The same would be true if you re-defined the same style later in the same stylesheet file or in a stylesheet file that was loaded after the initial definition. 
 
-![](https://gblobscdn.gitbook.com/assets%2F-MWvM--ORajEf7cHwnl6%2F-MZ9qtzWadlVUcV_0URO%2F-MZAZJ7PoGnxowZuxqqE%2Fimage.png?alt=media&token=9467c626-d88e-4ee5-ad9d-f1bf8d7d0f13)
+### CSS Property Inheritance
 
-
-
-The same would be true if you re-defined the same style later in the same stylesheet file or in a stylesheet file that was loaded after the initial definition.  The rule is that the last definition will be used.
-
-### Some Properties are Inherited
+#### Some Properties are Inherited
 
 Inheritance is where some CSS properties are passed down the inheritance tree. 
 
-```css
-body {
-    background-color:red;
-    color:white;
-    text-transform: uppercase;
-}
-```
+In the image on the right, the background color and text transform have been overridden in the descendent elements.
 
-```markup
-<body>
-    <p>p - this is a test</p>
-    <h1>h1 - This is an h1</h1>
-</body>
-```
-
-![](../../.gitbook/assets/image%20%28252%29.png)
-
-In the next screen capture, the background color and text transform have been overridden in the descendent elements.
-
-```css
-body {
-    background-color:red;
-    color:white;
-    text-transform: uppercase;
-}
-
-h1 {
-    background-color:purple;
-}
-
-p {
-    background-color:orange;
-    text-transform: none;
-}
-```
-
-![](https://gblobscdn.gitbook.com/assets%2F-MWvM--ORajEf7cHwnl6%2F-MZ9qtzWadlVUcV_0URO%2F-MZAeFYYQseAft8dc9u8%2Fimage.png?alt=media&token=bdc091d9-6683-456e-8896-aa2421f89337)
+![](../../.gitbook/assets/image%20%28258%29.png)
 
 **Text-related properties are typically inherited**. For example, font-family, font-size, font-style, font-weight, letter-spacing, line-height, text-align, text-indent, text-transform, and word-spacing.
 
@@ -98,36 +60,15 @@ p {
 
 **Text and background colors are inherited.** For example, color \(text color\) and background-color.
 
-### Some Styles are not Inherited
+#### Some Properties are not Inherited
 
 It's pretty intuitive which styles are inherited and which are not. Inheritance of CSS styles is there to make the web developer's job easier, so it is applied for those elements where it makes sense.
 
 Styles that you wouldn't want to be inherited are ones like borders, padding, margins.
 
-For example, in the screen capture below the paragraph element has been set to have a dark cyan border. There is a span element within the paragraph, but it is not inheriting the border style.
+For example, in the screen capture below the paragraph element has been set to have a dark cyan border. There is a span element within the paragraph, but it is not inheriting the border style. If the border style was inherited it would look like the screen capture below, which is obviously not what we would want.
 
-```markup
-<body>
-    <p>p - this is a <span>test</span></p>
-    <h1>h1 - This is an h1</h1>
-</body>
-```
-
-```css
-p {
-    border: solid 3px darkcyan;
-}
-```
-
-![](../../.gitbook/assets/image%20%28249%29.png)
-
-
-
-If the border style was inherited it would look like the screen capture below, which is obviously not what we would want.
-
-![](https://gblobscdn.gitbook.com/assets%2F-MWvM--ORajEf7cHwnl6%2F-MZ9qtzWadlVUcV_0URO%2F-MZAhqNyAeQGr40nk-P2%2Fimage.png?alt=media&token=1e89396e-61ee-4a69-8263-df99e6aca8bb)
-
-### 
+![](../../.gitbook/assets/image%20%28256%29.png)
 
 ### CSS Specificity
 
@@ -173,23 +114,7 @@ a {
 
 As you have learned, there are many different origins for a style \(web browser defaults, inline, style element, and external CSS files\) and there are many different rules for how to resolve which style should be applied when there are multiple rules targeting the same element and style. The algorithm the web browser uses to apply the correct styles is what makes up the "Cascade" in Cascading Style Sheets. 
 
-### ser-agent Default Styles
-
-### 
-
 ### Resources
-
-{% embed url="https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048" %}
-
-{% embed url="https://css-tricks.com/how-css-selectors-work/" %}
-
-{% embed url="https://nanajeon.com/css-selectors-cheatsheet-details/" %}
-
-{% embed url="https://flukeout.github.io/" %}
-
-{% embed url="https://www.youtube.com/watch?v=b3zIKoZxDGQ" %}
-
-### U
 
 {% embed url="https://wattenberger.com/blog/css-cascade" %}
 
