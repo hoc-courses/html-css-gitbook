@@ -127,6 +127,55 @@ Anything that starts with **&lt;!--** and ends with **--&gt;** will be ignored b
 </body>
 ```
 
+### HTML - Hypertext Markup Language
+
+> In computer text processing, a markup language is **a system for annotating a document in a way that is visually distinguishable from the content**. It is used only to format the text, so that when the document is processed for display, the markup language does not appear. The idea and terminology evolved from the "marking up" of paper manuscripts \(i.e., the revision instructions by editors\), which is traditionally written with a red pen or blue pencil on authors' manuscripts. - _Wikipedia_
+
+HTML is use to annotate \(mark-up\) the content within a web page document.
+
+HTML consists of **markup elements** \(opening and closing tags\) that **wrap content** to mark it for specific formatting.  
+
+![](../../.gitbook/assets/image%20%28266%29.png)
+
+Markup elements can contain **attributes** \(name/value pairs\)  **on the opening tag** to specify additional information.
+
+![](../../.gitbook/assets/image%20%28254%29.png)
+
+&lt;a href="http://page2.html" &gt;Go to Page 2&lt;/a&gt;
+
+In the early days of the web, the set of markup elements available was very limited and there was no CSS or styling. The main elements where: 
+
+* title \(`<title>`\)
+* headings \(`<h1-h6>`\)
+* paragraphs \(`<p>`\)
+* lists \(`<ul>`, `<li>`\)
+* hyper-links \(`<a>`\) 
+  * href attribute to specify the document URL
+
+HTML was used to supply simple annotations to the text to tell the web browser how to format it.
+
+### CSS - Cascading Style Sheets
+
+HTML deals with meaning and content. CSS was introduced to allow the browser to apply specific styling features such as colors, fonts, and positioning to the HTML elements on the page. 
+
+In HTML we wrap content with elements to specify how it should be structured. 
+
+With CSS, we can use a stylesheet language to specify which styling properties we want to change for specific HTML elements.
+
+To change the style of an element you must target the element using **selectors** and then specify one or more style property-name property-value pairs to apply to the targeted element.
+
+![](../../.gitbook/assets/image%20%28215%29.png)
+
+In the example above, the selector is the name of an HTML element. This would change the text color of every paragraph in the document to red.
+
+#### What aspects of an HTML element can be styled?
+
+The list is quite long. They can be loosely categorized into styles that deal with text and font, colors and backgrounds, margins, padding, and borders, and dimensions, display and positioning.
+
+For a complete list, visit the website below.
+
+{% embed url="https://htmldog.com/references/css/properties/" %}
+
 ### Resources
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" %}

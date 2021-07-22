@@ -12,74 +12,34 @@ Embedded within the text of the document were **hyper-links** to other documents
 
 ### **Modern Web Pages**
 
-Modern web pages depend on two additional technologies beyond HTML: **CSS** and **JavaScript**. These three components provide the underpinning of every web page.
+Modern web pages have progress a long way since those early days and now depend on two additional technologies: **CSS** and **JavaScript**. These four components provide the underpinning of every web page.
 
 | Technology | Description |
 | :--- | :--- |
+| **TEXT** | The content/information the document wants to display. |
 | **HTML** | **Hypertext Markup Language**. A _mark-up language_ to describe the content of web pages |
 | **CSS** | **Cascading Style Sheet** - A _stylesheet language_ used to express the presentation of web pages. |
 | **JavaScript** | A **programming language** used for both front-end and back-end development to add interactivity. |
 
 ![](../.gitbook/assets/image%20%2859%29.png)
 
-### HTML - Hypertext Markup Language
-
-> In computer text processing, a markup language is **a system for annotating a document in a way that is visually distinguishable from the content**. It is used only to format the text, so that when the document is processed for display, the markup language does not appear. The idea and terminology evolved from the "marking up" of paper manuscripts \(i.e., the revision instructions by editors\), which is traditionally written with a red pen or blue pencil on authors' manuscripts. - _Wikipedia_
-
-HTML is use to annotate \(mark-up\) the content within a web page document.
-
-HTML consists of **markup elements** \(opening and closing tags\) that **wrap content** to mark it for specific formatting.  
-
-![](../.gitbook/assets/image%20%28264%29.png)
-
-Markup elements can contain **attributes** \(name/value pairs\)  **on the opening tag** to specify additional information.
-
-![](../.gitbook/assets/image%20%28240%29.png)
-
-&lt;a href="http://page2.html" &gt;Go to Page 2&lt;/a&gt;
-
-In the early days of the web, the set of markup elements available was very limited and there was no CSS or styling. The main elements where: 
-
-* title \(`<title>`\)
-* headings \(`<h1-h6>`\)
-* paragraphs \(`<p>`\)
-* lists \(`<ul>`, `<li>`\)
-* hyper-links \(`<a>`\) 
-  * href attribute to specify the document URL
-
-HTML was used to supply simple annotations to the text to tell the web browser how to format it.
-
-#### Here is a sample document without any HTML markup.
+**TEXT:** a web page document starts out as just text content.
 
 ![](../.gitbook/assets/image%20%28113%29.png)
 
-#### And the same document with HTML markup.
+**HTML:** markup is used to give structure to the content. Markup elements are used to annotation the text to specify formatting such as headings, lists and hyper-links.
 
-![](../.gitbook/assets/image%20%28253%29.png)
+![](../.gitbook/assets/image%20%28255%29.png)
 
-### CSS - Cascading Style Sheets
-
-HTML deals with meaning and content. CSS was introduced to allow the browser to apply specific styling features such as colors, fonts, and positioning to the HTML elements on the page. 
-
-In HTML we wrap content with elements to specify how it should be structured. 
-
-With CSS, we can use a stylesheet language to specify which styling properties we want to change for specific HTML elements.
-
-To change the style of an element you must target the element using **selectors** and then specify one or more style property-name property-value pairs to apply to the targeted element.
+**CSS:** specifies rules to change style properties on selected HTML elements.
 
 ![](../.gitbook/assets/image%20%28195%29.png)
 
-In the example above, the selector is the name of an HTML element. This would change the text color of every paragraph in the document to red.
+**JAVASCRIPT**: adds interactivity to the page. For example, you could bring up a video in a popup window when the user clicked on one of the jelly fish images \(the code is a little too involved to display here, but you get the idea\).
 
-#### What aspects of an HTML element can be styled?
+### Examples of CSS and JavaScript
 
-The list is quite long. They can be loosely categorized into styles that deal with text and font, colors and backgrounds, margins, padding, and borders, and dimensions, display and positioning.
-
-For a complete list, visit the website below.
-
-{% embed url="https://htmldog.com/references/css/properties/" %}
-
-#### CSS - CSSZenGarden.com
+### CSS - CSSZenGarden.com
 
 The site [csszengarden.com](http://csszengarden.com) is a site that educates on the role CSS plays in design and has a link to provide both the HTML and CSS files separately and to view the impact CSS can make.
 
@@ -119,7 +79,7 @@ JavaScript can be used to add what I'd call eye-candy to the site. The content i
 
 {% embed url="https://mrdoob.com/projects/chromeexperiments/ball-pool/" caption="" %}
 
-#### JavaScript - Single Page Applications
+### JavaScript - Single Page Applications
 
 In the last ten years there's been a huge change in how web sites update their content. It used to be that a web site consisted of a collection of individual pages with hyper-links between them. Clicking on a hyper-link would initiate a request to the web server for the new page and that page would be retrieved and replace the current page in the browser. This model lead to web sites feeling clunky and disjointed. 
 
