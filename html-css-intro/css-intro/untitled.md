@@ -10,7 +10,7 @@ The link below is for the default styles applied by the Chrome browser.
 
 Examples of some of the styles it sets include:
 
-* display to set block elements \(h1-h6, p, hr\)
+* display set to block \(h1-h6, p, hr\)
 * font-size, font-weight for headings \(h1-h6\)
 * list spacing, icon type for bullets at different indentation levels
 * padding and margins - body has margin of 8px.
@@ -40,7 +40,7 @@ h1 {
 
 ### Processing Order Matters - The Last Rule Wins
 
-The web browser loads its default styles first, and then loads any styles defined by the web page author. If the the rule is repeated, the last one encountered will be used. For example, your own stylesheet could specify the color property of the h1 element should be red, which would override the value defined by the web browser.
+The web browser loads its default styles first, and then loads any styles defined by the web page author. If the the rule is repeated, the last one encountered will be used. For example, your own stylesheet could specify the color property of the `<h1>` element should be red, which would override the value defined by the web browser.
 
 The same would be true if you re-defined the same style later in the same stylesheet file or in a stylesheet file that was loaded after the initial definition. 
 
@@ -48,17 +48,19 @@ The same would be true if you re-defined the same style later in the same styles
 
 #### Some Properties are Inherited
 
-Inheritance is where some CSS properties are passed down the inheritance tree. 
+Inheritance is when some CSS properties are passed down the inheritance tree, so that descendant element inherit the style specified in an ancestor element. Background color is an example of an inherited property. Inherited properties can be overridden on a descendant element.
 
-In the image on the right, the background color and text transform have been overridden in the descendent elements.
+In the image on the right, the background color and text transform properties specified in the `<body>` element have been overridden in the `<h1>` and `<p>` descendent elements.
 
 ![](../../.gitbook/assets/image%20%28259%29.png)
 
-**Text-related properties are typically inherited**. For example, font-family, font-size, font-style, font-weight, letter-spacing, line-height, text-align, text-indent, text-transform, and word-spacing.
+**Text-related properties are typically inherited**. For example, font-family, font-size, font-style, font-weight, letter-spacing, line-height, text-align, text-indent, text-transform, text color and word-spacing.
 
 **Some list styles are inherited.** For example, list-style-image, list-style-position, list-style-type.
 
-**Text and background colors are inherited.** For example, color \(text color\) and background-color.
+**Background colors are inherited.** background-color.
+
+#### 
 
 #### Some Properties are not Inherited
 
@@ -72,7 +74,7 @@ For example, in the screen capture below the paragraph element has been set to h
 
 ### CSS Specificity
 
-There can be multiple selectors, each setting the same properties, that target the same element. For example, a selector for the font property could be set on the body element, as well as a paragraph element. 
+There can be multiple selectors, each setting the same properties, that target the same element. For example, a selector for a font property could be set on the body element, as well as a paragraph element. 
 
 When this happens, the browser needs to apply a set of rules to determine which selector will be applied to the element.
 
