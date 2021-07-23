@@ -8,7 +8,7 @@ Every element on a page is displayed as a rectangular box
 
 **Content** - The actual content \(text, images, videos...\) of the HTML element.
 
-**Padding** - Defined by the padding property. In-between the border and content of an element. Is transparent.
+**Padding** - Defined by the padding property. In-between the border and content of an element. It is transparent.
 
 **Border** - Defined by the border property. Surrounds the padding and content of an element.
 
@@ -18,7 +18,8 @@ Every element on a page is displayed as a rectangular box
 
 ### Element Flow
 
-* Without added positioning styles, the boxes flow from top to bottom
+* Without added positioning styles, the boxes flow from top to bottom. 
+* Properties that specify position are needed to place HTML elements outside of this default flow.
 
 ### [Block vs Inline Elements](element-flow-part-2.md)
 
