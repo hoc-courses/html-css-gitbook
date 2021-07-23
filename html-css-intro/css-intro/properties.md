@@ -18,7 +18,3 @@ For a complete list, visit the website below.
 
 ![](../../.gitbook/assets/image%20%28274%29.png)
 
-### 
-
-### 
-

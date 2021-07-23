@@ -1,4 +1,4 @@
-# The Cascade in C
+# The Cascade
 
 ### Browser Defaults
 
@@ -117,6 +117,4 @@ As you have learned, there are many different origins for a style \(web browser 
 ### Resources
 
 {% embed url="https://wattenberger.com/blog/css-cascade" %}
-
-{% embed url="https://www.slideshare.net/anuradhay\_2004/css-inheritance" %}
 
