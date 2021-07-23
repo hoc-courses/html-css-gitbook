@@ -10,7 +10,7 @@ Some of the styles, such as those for setting basic text and color properties, a
 
 {% page-ref page="../../miscellaneous-topics/colors.md" %}
 
-{% page-ref page="../../miscellaneous-topics/box-model-box-sizing.md" %}
+{% page-ref page="box-model-box-sizing.md" %}
 
 For a complete list, visit the website below.
 

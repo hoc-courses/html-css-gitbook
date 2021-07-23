@@ -21,6 +21,7 @@
   * [Properties](html-css-intro/css-intro/properties.md)
   * [Selectors](html-css-intro/css-intro/selectors.md)
   * [The Cascade](html-css-intro/css-intro/untitled.md)
+  * [Box-Model](html-css-intro/css-intro/box-model-box-sizing.md)
   * [Block vs Inline](html-css-intro/css-intro/block-vs-inline.md)
 * [Layout](html-css-intro/layout/README.md)
   * [Container Elements](html-css-intro/layout/containers.md)
@@ -32,7 +33,6 @@
 
 * [Background Image](miscellaneous-topics/background-image.md)
 * [Border-radius](miscellaneous-topics/border-radius.md)
-* [Box-Model](miscellaneous-topics/box-model-box-sizing.md)
 * [Box-shadow](miscellaneous-topics/box-shadow.md)
 * [Centering Elements](miscellaneous-topics/centering-elements.md)
 * [Colors](miscellaneous-topics/colors.md)
