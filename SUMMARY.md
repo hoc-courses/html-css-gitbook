@@ -23,23 +23,23 @@
   * [Properties](html-css-intro/css-intro/properties.md)
   * [Selectors](html-css-intro/css-intro/selectors.md)
   * [The Cascade](html-css-intro/css-intro/untitled.md)
-* [Element Flow](html-css-intro/element-flow.md)
+  * [Block vs Inline](html-css-intro/css-intro/block-vs-inline.md)
 * [Layout](html-css-intro/layout/README.md)
   * [Container Elements](html-css-intro/layout/containers.md)
   * [Grid vs Flexbox](html-css-intro/layout/grid-vs-flexbox.md)
   * [Flexbox](html-css-intro/layout/flexbox.md)
   * [Grid](html-css-intro/layout/grid.md)
-  * [Centering Elements](html-css-intro/layout/centering-elements.md)
 
 ## Miscellaneous Topics
 
-* [Box-Model](miscellaneous-topics/box-model-box-sizing.md)
-* [Typography](miscellaneous-topics/typography.md)
-* [Colors](miscellaneous-topics/colors.md)
-* [Units](miscellaneous-topics/units.md)
 * [Background Image](miscellaneous-topics/background-image.md)
 * [Border-radius](miscellaneous-topics/border-radius.md)
+* [Box-Model](miscellaneous-topics/box-model-box-sizing.md)
 * [Box-shadow](miscellaneous-topics/box-shadow.md)
+* [Centering Elements](miscellaneous-topics/centering-elements.md)
+* [Colors](miscellaneous-topics/colors.md)
+* [Typography](miscellaneous-topics/typography.md)
+* [Units](miscellaneous-topics/units.md)
 
 ## Appendix
 
