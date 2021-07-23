@@ -1,5 +1,9 @@
 # Grid vs Flexbox
 
+### Grid and Flex Display Properties
+
+Two new CSS display properties \(**grid and flex**\) greatly improved the ability to specify the layout/positioning of sub-sections of an HTML document. These new CSS properties allow the web developer to specify a precise layout for how the children within a parent element's rectangular box are positioned. The parent container can be the HTML element for the overall page, or any sub-section of the HTML element hierarchy.
+
 Grid is ideally suited for lining things up in two dimensions, whereas flexbox is ideally suited for lining things up in one dimension.
 
 ![](../../.gitbook/assets/image%20%28169%29.png)

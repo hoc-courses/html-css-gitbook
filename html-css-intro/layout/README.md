@@ -36,10 +36,6 @@ Now, instead of using a `<div>` element to organize the large chunks of content 
 
 There are no exact rules for which semantic elements to use where. For example, there can be headers within a sub-section of the site. There are just general guidelines and you will learn to use them incrementally as they make sense in your applications.
 
-### Grid and Flex Display Properties
-
-In addition to semantic elements, two new CSS display properties \(**grid and flex**\) greatly improved the ability to specify the layout/positioning of sub-sections of the document. These new CSS properties allow the web developer to specify a precise layout for how the children within a parent element's rectangular box are positioned. The parent container can be the HTML element for the overall page, or any sub-section of the HTML element hierarchy.
-
 ### Revisit our Previous Layout
 
 Now we can take a closer look at what's in the HTML of the page we described above. You can see that there are semantic HTML elements surrounding each of the major sections of the page.
