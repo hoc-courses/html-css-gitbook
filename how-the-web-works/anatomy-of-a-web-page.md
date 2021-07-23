@@ -81,9 +81,9 @@ JavaScript can be used to add what I'd call eye-candy to the site. The content i
 
 ### JavaScript - Single Page Applications
 
-In the last ten years there's been a huge change in how web sites update their content. It used to be that a web site consisted of a collection of individual pages with hyper-links between them. Clicking on a hyper-link would initiate a request to the web server for the new page and that page would be retrieved and replace the current page in the browser. In this model web sites feel clunky and disjointed. 
+In the last ten years there's been a huge change in how web sites update their content. It used to be that a web site consisted of a collection of individual pages with hyper-links between them. Clicking on a hyper-link would initiate a request to the web server for the new page and that page would be retrieved and replace the current page in the browser.  It's what the technology at the time allowed, but web sites felt clunky and disjointed. 
 
-Most web applications now attempt to mimic a desktop experience in that there isn't the constant refreshing of the web site when new pages are requested from the server. For example, Gmail, Google Maps, Google Drive, Twitter and Facebook all feel like a real application, but on the web.
+With advances in how web applications communicate between the client and server, it is now possible for most web applications now attempt to mimic a desktop experience in that there isn't the constant refreshing of the web site when new pages are requested from the server. For example, Gmail, Google Maps, Google Drive, Twitter and Facebook all feel like a real application, but on the web.
 
 A single page application creates the illusion of a page change, but you are actually on the same page the entire time you are on the site. The URL is changing as you navigate around the site, even though no new page is being loaded from the server.
 
