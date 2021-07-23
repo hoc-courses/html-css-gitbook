@@ -37,10 +37,9 @@
 * [Typography](miscellaneous-topics/typography.md)
 * [Colors](miscellaneous-topics/colors.md)
 * [Units](miscellaneous-topics/units.md)
-* [Border-radius](miscellaneous-topics/border-radius.md)
 * [Background Image](miscellaneous-topics/background-image.md)
+* [Border-radius](miscellaneous-topics/border-radius.md)
 * [Box-shadow](miscellaneous-topics/box-shadow.md)
-* [Normalize CSS](miscellaneous-topics/normalize-css.md)
 
 ## Appendix
 
