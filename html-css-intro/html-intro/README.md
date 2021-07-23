@@ -52,7 +52,7 @@ The markup used in this document includes:
 * **images** \(`<img>`\)
   * src attribute to specific the image URL
 
-There are lots of different markup elements: too many to list here. The [text-formatting](text-formatting-elemetns.md), [image](images.md) and [hyper-links](links.md) \(anchors\) elements, many of which were used in the example above, are what you will use most frequently. Other common elements support including [videos](video.md), [forms](forms.md) and [tables ](tables.md)in your page.
+There are lots of different markup elements: too many to list here. The [text-formatting](text-formatting-elemetns.md), [image](images.md) and [hyper-links](links.md) \(anchors\) elements, many of which were used in the example above, are what you will use most frequently. Other common elements support including [videos](video.md), [forms](../../miscellaneous-topics/forms.md) and [tables ](../../miscellaneous-topics/tables.md)in your page.
 
 ### 
 
