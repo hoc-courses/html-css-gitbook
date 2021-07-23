@@ -27,11 +27,11 @@ Modern web pages have progress a long way since those early days and now depend 
 
 ![](../.gitbook/assets/image%20%28113%29.png)
 
-**HTML:** markup is used to give structure to the content. Markup elements are used to annotation the text to specify formatting such as headings, lists and hyper-links.
+**HTML:** markup is used to give structure to the content. Markup elements are used to annotate the text to specify formatting such as headings, lists and hyper-links.
 
 ![](../.gitbook/assets/image%20%28263%29.png)
 
-**CSS:** specifies rules to change style properties on selected HTML elements. CSS code is typically stored in a separate file and pulled into the HTML document. The CSS is embedded in the HTML document here to make viewing it on one screen easier.
+**CSS:** specifies rules to change style properties on selected HTML elements. CSS code is typically stored in a separate file and pulled into the HTML document. CSS is embedded in the HTML document here to make viewing it on one screen easier.
 
 ![](../.gitbook/assets/image%20%28217%29.png)
 
@@ -81,7 +81,7 @@ JavaScript can be used to add what I'd call eye-candy to the site. The content i
 
 ### JavaScript - Single Page Applications
 
-In the last ten years there's been a huge change in how web sites update their content. It used to be that a web site consisted of a collection of individual pages with hyper-links between them. Clicking on a hyper-link would initiate a request to the web server for the new page and that page would be retrieved and replace the current page in the browser. This model lead to web sites feeling clunky and disjointed. 
+In the last ten years there's been a huge change in how web sites update their content. It used to be that a web site consisted of a collection of individual pages with hyper-links between them. Clicking on a hyper-link would initiate a request to the web server for the new page and that page would be retrieved and replace the current page in the browser. In this model web sites feel clunky and disjointed. 
 
 Most web applications now attempt to mimic a desktop experience in that there isn't the constant refreshing of the web site when new pages are requested from the server. For example, Gmail, Google Maps, Google Drive, Twitter and Facebook all feel like a real application, but on the web.
 
