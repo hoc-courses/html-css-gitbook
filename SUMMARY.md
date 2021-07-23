@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 
-## how the web works
+## How the Web Works
 
 * [DNS, TCP/IP, HTTP, HTML](how-the-web-works/dns-tcp-ip-http-html.md)
 * [Anatomy of a Web Page](how-the-web-works/anatomy-of-a-web-page.md)
