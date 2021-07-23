@@ -4,7 +4,7 @@
 
 The list is quite long. They can be loosely categorized into styles that deal with text and font, colors and backgrounds, margins, padding, and borders, and dimensions, display and positioning.
 
-Some of the styles, such as those for text and color, are very easy to learn. Some of the others require a deeper understanding of how elements are rendered on the screen, which we'll dive into soon.
+Some of the styles, such as those for setting basic text and color properties, are very easy to learn. Some of the others require a deeper understanding of how elements are rendered on the screen.
 
 {% page-ref page="../../miscellaneous-topics/typography.md" %}
 

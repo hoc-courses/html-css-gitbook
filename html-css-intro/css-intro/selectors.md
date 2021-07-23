@@ -8,7 +8,7 @@ As we saw earlier, we can assign a style to all elements of a particular type. T
 
 ![](../../.gitbook/assets/image%20%28271%29.png)
 
-The other selectors include **class selectors**, **descendant selectors,** **id selectors** and **pseudo-classes.**
+The other selectors we will cover, include **class selectors**, **descendant selectors,** **id selectors** and **pseudo-classes.**
 
 ### Class Selectors 
 
