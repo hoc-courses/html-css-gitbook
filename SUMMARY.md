@@ -34,10 +34,10 @@
 * [Typography](basic-css/typography.md)
 * [Colors](basic-css/colors.md)
 * [Border-radius](basic-css/border-radius.md)
-* [Google Fonts](basic-css/google-fonts.md)
 
 ## advanced css
 
+* [Google Fonts](advanced-css/google-fonts.md)
 * [Centering Elements](advanced-css/centering-elements.md)
 * [Background Image](advanced-css/background-image.md)
 * [Box-shadow](advanced-css/box-shadow.md)
