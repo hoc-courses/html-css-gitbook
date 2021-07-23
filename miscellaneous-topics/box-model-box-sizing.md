@@ -1,20 +1,20 @@
-# Box-Model/Box-Sizing
+# Box-Model
 
-The box-model describes the box that surrounds every HTML element on the page. Each box consists of the following:
+Every element on a page is displayed as a rectangular box. The box-model describes the box. Each box consists of the following:
 
 **Content** - The actual content \(text, images, videos...\) of the HTML element.
 
-**Padding** - Defined by the padding property. In-between the border and content of an element. Is transparent.
+**Padding** - Defined by the padding property. In-between the border and content of an element. It is transparent.
 
 **Border** - Defined by the border property. Surrounds the padding and content of an element.
 
 **Margin** - Defined by the margin property. Adds space between the border and other HTML elements. Is transparent.
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 When to use the margin vs. the padding property can be confusing. The way to think about it is that the padding is specific to the element, whereas the margin is the space between elements. One important aspect of margins is that they collapse vertically to the largest margin between the adjacent boxes. When adding a new section to a part of the page, you don't want to have to think about what the adjacent element's margin is. You just want to think about how much margin you want to be between them
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ### 
 

@@ -23,9 +23,7 @@
   * [Properties](html-css-intro/css-intro/properties.md)
   * [Selectors](html-css-intro/css-intro/selectors.md)
   * [The Cascade](html-css-intro/css-intro/untitled.md)
-* [Element Flow](html-css-intro/element-flow/README.md)
-  * [Box-Model/Box-Sizing](html-css-intro/element-flow/box-model-box-sizing.md)
-  * [Element Flow - Block vs Inline](html-css-intro/element-flow/element-flow-part-2.md)
+* [Element Flow](html-css-intro/element-flow.md)
 * [Layout](html-css-intro/layout/README.md)
   * [Container Elements](html-css-intro/layout/containers.md)
   * [Grid vs Flexbox](html-css-intro/layout/grid-vs-flexbox.md)
@@ -35,6 +33,7 @@
 
 ## Miscellaneous Topics
 
+* [Box-Model](miscellaneous-topics/box-model-box-sizing.md)
 * [Typography](miscellaneous-topics/typography.md)
 * [Colors](miscellaneous-topics/colors.md)
 * [Units](miscellaneous-topics/units.md)

@@ -1,6 +1,6 @@
-# Element Flow - Block vs Inline
+# Element Flow
 
-## Element Flow: CSS Display Property
+## CSS Display Property
 
 The CSS display property has four values that are used to determine how much horizontal and vertical space an element takes up.
 
@@ -11,7 +11,7 @@ The CSS display property has four values that are used to determine how much hor
 
 The image below has three different sections, each demonstrating the different display property values and how it effects the space the element takes up.
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 ## display: inline
 
@@ -19,17 +19,17 @@ Elements only occupy the horizontal and vertical space occupied by its own conte
 
 Examples include: `<span>`, `<b>`, `<img>`, `<a>` \([full list](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)\)
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](../.gitbook/assets/image%20%28128%29.png)
 
 An inline element will accept margin and padding, but the element still sits inline as you might expect. Margin and padding will only push other elements horizontally away, not vertically.
 
-![](../../.gitbook/assets/image%20%28144%29.png)
+![](../.gitbook/assets/image%20%28144%29.png)
 
 ## display: inline-block
 
 An element set to inline-block is very similar to inline in that it will set inline with the natural flow of text. The difference is that you are able to set a width and height which will be respected.
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 ## display: block
 
@@ -37,13 +37,13 @@ The web browser's default stylesheet sets the default value for the display prop
 
 Examples: `<p>`, `<ul>`, `<li>`, `<h1>`, `<div>` \([full list](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)\)
 
-![](../../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 ## display: none
 
 Hides the element from view. The element is still there, but not visible to the user.
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 
 
@@ -57,7 +57,7 @@ The difference is not due to the `img` element, but rather that the fact that th
 
 **Example \#1**: the `img` element is following a`h4` element and before an `p` element \(both of which are block elements\), so it ends up being on its own line, since the block elements neighbors must be one their own lines.
 
-![](../../.gitbook/assets/image%20%28241%29.png)
+![](../.gitbook/assets/image%20%28241%29.png)
 
 ```markup
 <h4>Image placed before paragraph</h4>
@@ -71,7 +71,7 @@ The difference is not due to the `img` element, but rather that the fact that th
 
 **Example \#2**: the `img` element is embedded as the first item in the `p` element, so it only has a single neighbor, which is the text following it within the paragraph. Since text is an inline element, the text following the img element starts immediately after the `img` element.
 
-![](../../.gitbook/assets/image%20%28214%29.png)
+![](../.gitbook/assets/image%20%28214%29.png)
 
 ```markup
 <h4>Image placed at the beginning of paragraph</h4>
@@ -87,7 +87,7 @@ The difference is not due to the `img` element, but rather that the fact that th
 
 **Example \#3**: the `img` element is again embedded in the paragraph, and its neighboring elements are the text before and after it. Since they are all inline, the `img` element takes up the minimal amount of horizontal space in the text.
 
-![](../../.gitbook/assets/image%20%28216%29.png)
+![](../.gitbook/assets/image%20%28216%29.png)
 
 ```markup
 <h4>Image placed in the middle of paragraph</h4>
