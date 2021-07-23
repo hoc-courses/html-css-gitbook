@@ -97,8 +97,9 @@ Take a look at the Console Developer Tools Network Tab to see the network traffi
 
 **NY Times** - **Article Comments**
 
-{% embed url="https://www.nytimes.com/2021/04/06/dining/croissant-recipes.html" caption="" %}
+Another example is how the comments section immediately appears when the user clicks on the button to read the comments.
 
-* Navigate to the article, click on the Comments button at the bottom
-* JavaScript responds to the button click, sends as request to the server for all of the comments for the article, and then, without updating the entire page, inserts the new section for the user to interact with the comments.
+JavaScript responds to the button click, sends as request to the server for all of the comments for the article, and then, without updating the entire page, inserts the new section for the user to interact with the comments.
+
+{% embed url="https://www.nytimes.com/2021/04/06/dining/croissant-recipes.html" caption="" %}
 
