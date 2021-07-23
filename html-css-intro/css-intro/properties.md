@@ -6,9 +6,9 @@ The list is quite long. They can be loosely categorized into styles that deal wi
 
 Some of the styles, such as those for text and color, are very easy to learn. Some of the others require a deeper understanding of how elements are rendered on the screen, which we'll dive into soon.
 
-{% page-ref page="../../more-css/typography.md" %}
+{% page-ref page="../../miscellaneous-topics/typography.md" %}
 
-{% page-ref page="../../more-css/colors.md" %}
+{% page-ref page="../../miscellaneous-topics/colors.md" %}
 
 For a complete list, visit the website below.
 
