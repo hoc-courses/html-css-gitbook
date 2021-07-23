@@ -83,9 +83,9 @@ JavaScript can be used to add what I'd call eye-candy to the site. The content i
 
 In the last ten years there's been a huge change in how web sites update their content. It used to be that a web site consisted of a collection of individual pages with hyper-links between them. Clicking on a hyper-link would initiate a request to the web server for the new page and that page would be retrieved and replace the current page in the browser.  It's what the technology at the time allowed, but web sites felt clunky and disjointed. 
 
-With advances in how web applications communicate between the client and server, it is now possible for most web applications now attempt to mimic a desktop experience in that there isn't the constant refreshing of the web site when new pages are requested from the server. For example, Gmail, Google Maps, Google Drive, Twitter and Facebook all feel like a real application, but on the web.
+With advances in how web applications communicate between the client and server, it is now possible for most web applications to mimic a desktop experience in that there isn't the constant refreshing of the web site as new pages are requested from the server. For example, Gmail, Google Maps, Google Drive, Twitter and Facebook all feel like real applications, but on the web.
 
-A single page application creates the illusion of a page change, but you are actually on the same page the entire time you are on the site. The URL is changing as you navigate around the site, even though no new page is being loaded from the server.
+A single page application creates the illusion of a page change, but you are actually on the same page the entire time you are on the site. The URL is changing as you navigate around the site, even though no new page is being loaded from the server. Behind the scenes, data is being passed between the client and server to make this happen.
 
 **Google Search Input** - A really good example of this is the Google Search screen. As the user types into the search input box, JavaScript is being used to communicate with the server and seamlessly retrieve and present relevant search strings based on what the user is typing.
 
