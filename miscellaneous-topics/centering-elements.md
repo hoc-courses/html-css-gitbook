@@ -1,104 +1,42 @@
 # Centering Elements
 
-## Using a width and left and right margins of auto
+You often want to center items on the page as a whole, or within a container element.  There are two common techniques to achieve this goal.
+
+![](../.gitbook/assets/image%20%28257%29.png)
+
+
+
+### Specific width with auto left and right margins
+
+This technique works well when you know the width of the content to be centered.
 
 * set a width on the element
 * set the margin-left and margin-right to auto
 
-```markup
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-
-        body {
-            border: solid 1px darkslategray;
-            padding:50px;
-        }
-        .container {
-            width: 300px;
-            margin-left:auto;
-            margin-right:auto;
-        }
-
-        #green {
-            background-color: #baffc9;
-        }
-
-        #yellow {
-            background-color:   #ffffba;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <p id="green">Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit, sed do eiusmod tempor 
-                incididunt ut labore.
-            </p>
-            <p id="yellow">Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit, sed do eiusmod tempor 
-                incididunt ut labore.
-            </p>
-    </div>
-</body>
-</html>
+```css
+  body {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
 ```
 
-![](../.gitbook/assets/image%20%28103%29.png)
+### Using flex and center in both horizontal/vertical directions.
 
-## Using flex and align-items, justify-content of center
+Set the value of the display property to be flex in the column direction, and then center the items in both the horizontal and vertical directions.
 
-You can use the flex-direction property to set the child elements to flow across the row or down a single column.
-
-```markup
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-
-        body {
-            border: solid 1px darkslategray;
-            padding:50px;
-        }
-        .container {
-            display:flex;
-            flex-direction: column;
-        }
-
-        #green {
-            background-color: #baffc9;
-        }
-
-        #yellow {
-            background-color:  #ffffba;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <p id="green">Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit, sed do eiusmod tempor 
-                incididunt ut labore.
-            </p>
-            <p id="yellow">Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit, sed do eiusmod tempor 
-                incididunt ut labore.
-            </p>
-    </div>
-</body>
-</html>
+```css
+body {
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
 ```
 
-![](../.gitbook/assets/image%20%28161%29.png)
+
+
+### 
 
 ### Resources
 

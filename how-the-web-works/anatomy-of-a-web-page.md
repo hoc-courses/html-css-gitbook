@@ -29,7 +29,7 @@ Modern web pages have progress a long way since those early days and now depend 
 
 **HTML:** markup is used to give structure to the content. Markup elements are used to annotate the text to specify formatting such as headings, lists and hyper-links.
 
-![](../.gitbook/assets/image%20%28263%29.png)
+![](../.gitbook/assets/image%20%28264%29.png)
 
 **CSS:** specifies rules to change style properties on selected HTML elements. CSS code is typically stored in a separate file and pulled into the HTML document. CSS is embedded in the HTML document here to make viewing it on one screen easier.
 
