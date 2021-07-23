@@ -1,9 +1,5 @@
 # Centering Elements
 
-One of the best resources, but might be a little advanced to start.
-
-{% embed url="https://css-tricks.com/centering-css-complete-guide/" caption="" %}
-
 ## Using a width and left and right margins of auto
 
 * set a width on the element
