@@ -12,11 +12,11 @@ The box-model describes the box that surrounds every HTML element on the page. E
 
 Measurements are specified: top right bottom left \(like a clock\). You can set a single value if all sides have the same value. You can set two values \(top/bottom right/left\), if top/bottom and left/right have the same values.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 When to use the margin vs. the padding property can be confusing. The way to think about it is that the padding is specific to the element, whereas the margin is the space between elements. One important aspect of margins is that they collapse vertically to the largest margin between the adjacent boxes. When adding a new section to a part of the page, you don't want to have to think about what the adjacent element's margin is. You just want to think about how much margin you want to be between them
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="info" %}
 The margin and padding properties have four values: top right bottom and left. If they are all the same, you can specify a single value. If the top and bottom are the same, as well as the left and right, you can specify just two values, and the top value will be applied to the bottom and the right value will be applied to the left.

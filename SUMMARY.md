@@ -26,13 +26,13 @@
 * [Element Flow](html-css-intro/element-flow/README.md)
   * [Element Flow - Overview](html-css-intro/element-flow/element-flow-part-1.md)
   * [Element Flow - CSS Display](html-css-intro/element-flow/element-flow-part-2.md)
+  * [Box-Model/Box-Sizing](html-css-intro/element-flow/box-model-box-sizing.md)
 * [Layout](html-css-intro/layout.md)
 
 ## BASIC CSS
 
 * [Typography](basic-css/typography.md)
 * [Colors](basic-css/colors.md)
-* [Box-Model/Box-Sizing](basic-css/box-model-box-sizing.md)
 * [Border-radius](basic-css/border-radius.md)
 * [Google Fonts](basic-css/google-fonts.md)
 
