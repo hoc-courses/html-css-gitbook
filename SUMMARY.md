@@ -32,7 +32,7 @@
   * [Grid](html-css-intro/layout/grid.md)
   * [Centering Elements](html-css-intro/layout/centering-elements.md)
 
-## miscellaneous topics
+## Miscellaneous Topics
 
 * [Typography](miscellaneous-topics/typography.md)
 * [Colors](miscellaneous-topics/colors.md)
