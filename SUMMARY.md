@@ -26,8 +26,7 @@
 * [Element Flow](html-css-intro/element-flow/README.md)
   * [Element Flow - Overview](html-css-intro/element-flow/element-flow-part-1.md)
   * [Element Flow - CSS Display](html-css-intro/element-flow/element-flow-part-2.md)
-* [Layout](html-css-intro/layout/README.md)
-  * [Layout/Positioning](html-css-intro/layout/layout-positioning.md)
+* [Layout](html-css-intro/layout.md)
 
 ## BASIC CSS
 
