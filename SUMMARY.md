@@ -27,24 +27,24 @@
   * [Box-Model/Box-Sizing](html-css-intro/element-flow/box-model-box-sizing.md)
   * [Element Flow - Block vs Inline](html-css-intro/element-flow/element-flow-part-2.md)
 * [Layout](html-css-intro/layout/README.md)
-  * [Centering Elements](html-css-intro/layout/centering-elements.md)
   * [Grid vs Flexbox](html-css-intro/layout/grid-vs-flexbox.md)
   * [Flexbox](html-css-intro/layout/flexbox.md)
   * [Grid](html-css-intro/layout/grid.md)
+  * [Centering Elements](html-css-intro/layout/centering-elements.md)
 
 ## miscellaneous topics
 
 * [Typography](miscellaneous-topics/typography.md)
 * [Colors](miscellaneous-topics/colors.md)
+* [Units](miscellaneous-topics/units.md)
 * [Border-radius](miscellaneous-topics/border-radius.md)
-* [Google Fonts](miscellaneous-topics/google-fonts.md)
 * [Background Image](miscellaneous-topics/background-image.md)
 * [Box-shadow](miscellaneous-topics/box-shadow.md)
-* [Units](miscellaneous-topics/units.md)
 * [Normalize CSS](miscellaneous-topics/normalize-css.md)
 
 ## Appendix
 
+* [Google Fonts](appendix/google-fonts.md)
 * [Lorem Ipsum](https://loremipsum.io/)
 * [HTML Cheatsheet](https://overapi.com/html)
 * [CSS Cheatsheet](https://overapi.com/css)

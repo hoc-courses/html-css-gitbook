@@ -6,8 +6,6 @@ Grid is ideally suited for lining things up in two dimensions, whereas flexbox i
 
 ![](../../.gitbook/assets/image%20%2824%29.png)
 
-{% embed url="https://codepen.io/rachelandrew/pen/BKdmpG" caption="" %}
-
 But Grid can be used in one-dimension only.
 
 ![](../../.gitbook/assets/image%20%2865%29.png)
@@ -35,6 +33,8 @@ Flexbox can wrap elements, but it still is only laying the elements out in a sin
 {% embed url="https://codepen.io/rachelandrew/pen/YqqdXL" caption="" %}
 
 ## Flexbox is ideally suited for one-dimension
+
+This example demonstrates the different flex settings and how it effects the layout of a horizontal `<nav>` element.
 
 {% embed url="https://codepen.io/chriscoyier/pen/FAbpm" caption="" %}
 
