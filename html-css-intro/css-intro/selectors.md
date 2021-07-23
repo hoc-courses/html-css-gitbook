@@ -23,7 +23,7 @@ Class selectors let you apply CSS styles to particular elements. Class selectors
 
 ```css
 .abstract {  
-    font-style:itaclic;
+    font-style: itaclic;
 } 
 ```
 
@@ -72,7 +72,7 @@ In the example below, every `<a>` element beneath the `<section>` element matche
 
 ### Pseudo Selectors
 
-A CSS **pseudo-class** is a keyword added to a selector that specifies a special state of the selected element\(s\). The most frequent use-case for pseudo classes are for styling links based on the different states:
+A CSS **pseudo-class** is a keyword added to a selector that specifies a special state of the selected element\(s\). The most frequent use-case for pseudo-classes are for styling links based on the different states:
 
 * **:hover** - when the mouse hovers over link
 * **:link** - default style for link
@@ -80,17 +80,17 @@ A CSS **pseudo-class** is a keyword added to a selector that specifies a special
 
 ```css
 a:hover {
-    color:dodgerblue;
+    color: dodgerblue;
 }
 ```
 
 ## Universal CSS selector
 
-Not all browsers implement each CSS feature exactly the same. To ensure that your HTML pages look the same across browsers, you can utilize the normalize.css stylesheet to set the default styles and then set your own default starting from a known base-line.
+Not all browsers implement each CSS feature exactly the same. To ensure that your HTML pages look the same across browsers, you can set the default styles and then set your own default starting from a known base-line.
 
 ```text
 * {
-    margin:0;
+    margin: 0;
     padding: 0;
 }
 ```
@@ -99,7 +99,7 @@ Not all browsers implement each CSS feature exactly the same. To ensure that you
 
 ### Advanced Selectors
 
-There are a lot more selectors, but it's better to focus on the ones here before moving on to the more advanced ones, such as combining selectors, attribute selectors, nth-child selectors and more. For the full list, consult [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors).
+There are more selectors, but it's better to focus on the ones you will use most often before moving on to the more advanced ones, such as combining selectors, attribute selectors, nth-child selectors and more. For the full list, consult [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors).
 
 ### 
 
@@ -122,7 +122,21 @@ The value for the HTML class or id attribute can be almost anything you want as 
 An HTML element can have more than one CSS class selector specified in the class attribute. In this case all of the CSS rules matching the CSS class selectors will be applied.
 
 ```css
-<p class="article article-sports"></p>
+<h2 class="article article-sports"></h2>
+```
+
+```css
+.article {
+    font-size: 24px;
+}
+
+.article-sports {
+    color: red;
+}
+
+.article-tech {
+    color: blue;
+}
 ```
 
 #### 
@@ -140,6 +154,8 @@ h1, h2 {
 #### multiple properties can be applied for a selector
 
 An HTML element can have more than one CSS class selector specified in the class attribute. In this case all of the CSS rules matching the CSS class selectors will be applied.
+
+Each property-name property-value pair should be on a single line with a semi-colon at the end of the line.
 
 ```css
 a {
