@@ -22,7 +22,7 @@ The **name** attribute is the form field name that will be used when the data is
 </form>
 ```
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 ## Form Input Data
 
@@ -32,15 +32,15 @@ HTML supports many different input data types for the `<input>` element. The web
 
 The only form data that is sent to the server is the names of the input fields and their associated values.
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ## Form Styling
 
 In the HTML code sample above, I omitted the elements that I added for the field labels and the CSS to make everything look nice. HTML forms need a lot of CSS to properly position and style their elements. For example, here is what is displayed in the browser with just the minimal HTML from the code block above. There are just two `<input>` elements of type text, for the first and last name, and a single `<input>` element of type submit, which will be rendered as a button with default styling.
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ## Adding Input Field Labels
 
@@ -57,13 +57,13 @@ The **id attribute** is necessary to associate a label, whereas the **name attri
 <input id="lastName" name="lastName" type="text" />
 ```
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ## Adding Input Field Block Display
 
 By default, the `<input>` and `<label>` elements are both inline elements, which is causing the entire form to be displayed on a single line. A common technique to get each input field to be in its own row is to wrap each with a `<div>` element \(which is a block element\) and add a margin on the bottom of each.
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%28152%29.png)
 
 ```markup
 <form action="https://formspree.io/f/xpzkzqpn" method="POST">
@@ -89,7 +89,7 @@ form > div {
 
 Below are a few of the common input types that are available. As you can see, the browser has provided type-specific input controls to gather and validate the data.
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 ## Styling
 
