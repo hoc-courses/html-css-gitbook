@@ -27,25 +27,22 @@
   * [Element Flow - Overview](html-css-intro/element-flow/element-flow-part-1.md)
   * [Element Flow - CSS Display](html-css-intro/element-flow/element-flow-part-2.md)
   * [Box-Model/Box-Sizing](html-css-intro/element-flow/box-model-box-sizing.md)
-* [Layout](html-css-intro/layout.md)
+* [Layout](html-css-intro/layout/README.md)
+  * [Centering Elements](html-css-intro/layout/centering-elements.md)
+  * [Grid vs Flexbox](html-css-intro/layout/grid-vs-flexbox.md)
+  * [Flexbox](html-css-intro/layout/flexbox.md)
+  * [Grid](html-css-intro/layout/grid.md)
 
-## BASIC CSS
+## more css
 
-* [Typography](basic-css/typography.md)
-* [Colors](basic-css/colors.md)
-* [Border-radius](basic-css/border-radius.md)
-
-## advanced css
-
-* [Google Fonts](advanced-css/google-fonts.md)
-* [Centering Elements](advanced-css/centering-elements.md)
-* [Background Image](advanced-css/background-image.md)
-* [Box-shadow](advanced-css/box-shadow.md)
-* [Grid vs Flexbox](advanced-css/grid-vs-flexbox.md)
-* [Flexbox](advanced-css/flexbox.md)
-* [Grid](advanced-css/grid.md)
-* [Units](advanced-css/units.md)
-* [Normalize CSS](advanced-css/normalize-css.md)
+* [Typography](more-css/typography.md)
+* [Colors](more-css/colors.md)
+* [Border-radius](more-css/border-radius.md)
+* [Google Fonts](more-css/google-fonts.md)
+* [Background Image](more-css/background-image.md)
+* [Box-shadow](more-css/box-shadow.md)
+* [Units](more-css/units.md)
+* [Normalize CSS](more-css/normalize-css.md)
 
 ## Appendix
 

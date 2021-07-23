@@ -31,7 +31,7 @@ In the Resources section, there is a link to a discussion on stackoverflow.com t
 
 ### Resources
 
-{% page-ref page="../basic-css/typography.md" %}
+{% page-ref page="typography.md" %}
 
 {% embed url="https://stackoverflow.com/questions/12316501/including-google-web-fonts-link-or-import" caption="" %}
 

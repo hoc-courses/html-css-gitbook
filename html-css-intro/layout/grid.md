@@ -48,7 +48,7 @@ Grids are not only for the top-level layout. They can be created to layout sub-s
  }
 ```
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
 ```markup
  <body>

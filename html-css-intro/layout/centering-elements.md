@@ -49,7 +49,7 @@
 </html>
 ```
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../../.gitbook/assets/image%20%28103%29.png)
 
 ## Using flex and align-items, justify-content of center
 
@@ -98,7 +98,7 @@ You can use the flex-direction property to set the child elements to flow across
 </html>
 ```
 
-![](../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28161%29.png)
 
 ### Resources
 

@@ -50,7 +50,7 @@ Font embedding services host the typefaces on their sites and allow you to link 
 
 For more information on including Google Fonts in your project see the link below.
 
-{% page-ref page="../advanced-css/google-fonts.md" %}
+{% page-ref page="google-fonts.md" %}
 
 ## Resources
 
