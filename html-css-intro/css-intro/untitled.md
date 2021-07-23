@@ -52,7 +52,7 @@ Inheritance is where some CSS properties are passed down the inheritance tree.
 
 In the image on the right, the background color and text transform have been overridden in the descendent elements.
 
-![](../../.gitbook/assets/image%20%28258%29.png)
+![](../../.gitbook/assets/image%20%28259%29.png)
 
 **Text-related properties are typically inherited**. For example, font-family, font-size, font-style, font-weight, letter-spacing, line-height, text-align, text-indent, text-transform, and word-spacing.
 

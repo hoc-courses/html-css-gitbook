@@ -34,6 +34,8 @@ Now, instead of using a `<div>` element to organize the large chunks of content 
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
+There are no exact rules for which semantic elements to use where. For example, there can be headers within a sub-section of the site. There are just general guidelines and you will learn to use them incrementally as they make sense in your applications.
+
 ### Grid and Flex Display Properties
 
 In addition to semantic elements, two new CSS display properties \(**grid and flex**\) greatly improved the ability to specify the layout/positioning of sub-sections of the document. These new CSS properties allow the web developer to specify a precise layout for how the children within a parent element's rectangular box are positioned. The parent container can be the HTML element for the overall page, or any sub-section of the HTML element hierarchy.
@@ -72,11 +74,11 @@ For example, all of the immediately children of the second row \(left `<nav>` se
 
 But the descendants of those children will flow down by default within the containing rectangular box. Any descendants that you want to deviate from that default flow would have to have an additional style applied at that level in the element hierarchy.
 
-For example, in the screen capture below, the top-level rows can be seen outlined in red, \#1, \#2 and \#3.  Each row is following the next, so they are flowing down, and there was no additional positioning necessary. 
+For example, in the screen capture below, the top-level rows can be seen outlined in red,  with the corresponding number down the right edge: \#1, \#2 and \#3.  Each row is following the next, so they are flowing down, and there was no additional positioning necessary. 
 
-Likewise, within each of the sub-sections within the \#2 row, the content is naturally flowing down.
+Likewise, within each of the three sub-sections of \#2 row, the content is naturally flowing down.
 
-But within \#1 and \#3, the flow is horizontal, and so the display was changed override the default and have the child elements flow horizontally \(this can be achieved using the flex display property\).
+But within rows \#1 and \#3, the flow is horizontal, and so the display was changed override the default and have the child elements flow horizontally \(this can be achieved using the flex display property\).
 
 ![](../../.gitbook/assets/image%20%28237%29.png)
 
@@ -106,8 +108,6 @@ There is a really helpful Google Chrome Extension for viewing an HTML document a
 ![](../../.gitbook/assets/image%20%28218%29.png)
 
 You can see that a layout/style could be put on the `<main>` HTML element to position it in the overall page layout, but that within the `<article>` element, all of the child elements will  flow down following the default flow within a containing rectangular box.
-
-There are no exact rules for which semantic elements to use where. For example, there can be headers within a sub-section of the site. There are just general guidelines and you will learn to use them incrementally as they make sense in your applications.
 
 ### Resources
 

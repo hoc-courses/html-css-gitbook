@@ -10,11 +10,11 @@ A mark-up language is different than a programming language. It doesn't have any
 
 HTML consists of **markup elements** \(opening and closing tags\) that **wrap content** to mark it for specific formatting.  
 
-![](../../.gitbook/assets/image%20%28279%29.png)
+![](../../.gitbook/assets/image%20%28280%29.png)
 
 Markup elements can contain **attributes** \(name/value pairs\)  **on the opening tag** to specify additional information.
 
-![](../../.gitbook/assets/image%20%28260%29.png)
+![](../../.gitbook/assets/image%20%28261%29.png)
 
 ```markup
 <h1>Meet the Jellies</h1>
@@ -88,7 +88,7 @@ Anything that starts with **&lt;!--** and ends with **--&gt;** will be ignored b
 
 You can add as much white-space as you want within the text of an element, and it will be ignored.
 
-![](../../.gitbook/assets/image%20%28273%29.png)
+![](../../.gitbook/assets/image%20%28274%29.png)
 
 #### Browsers are Forgiving
 

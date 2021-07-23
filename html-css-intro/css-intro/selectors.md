@@ -2,11 +2,11 @@
 
 CSS Selectors map a single CSS rule to a specific HTML element.
 
-![https://www.internetingishard.com/html-and-css/css-selectors/](../../.gitbook/assets/image%20%28278%29.png)
+![https://www.internetingishard.com/html-and-css/css-selectors/](../../.gitbook/assets/image%20%28279%29.png)
 
 As we saw earlier, we can assign a style to all elements of a particular type. This type of selector, called a **type selector**, is less-frequently used because you typically want to be more granular in targeting the elements you want to style. 
 
-![](../../.gitbook/assets/image%20%28270%29.png)
+![](../../.gitbook/assets/image%20%28271%29.png)
 
 The other selectors include **class selectors**, **descendant selectors,** **id selectors** and **pseudo-classes.**
 
@@ -29,7 +29,7 @@ Class selectors let you apply CSS styles to particular elements. Class selectors
 
 The CSS rule is only applied to the HTML elements that have the corresponding class attribute. One class selector can be applied to multiple HTML elements.
 
-![](../../.gitbook/assets/image%20%28261%29.png)
+![](../../.gitbook/assets/image%20%28262%29.png)
 
 You will use class selectors more than any other type, as they are the most flexible and you can target multiple elements with one selector.
 
@@ -57,7 +57,7 @@ These two selectors are used to target descendants of a given element.
 
 In the example below, only the`<a>` element directly beneath the `<section>` element matches the selector `section > a`.
 
-![](../../.gitbook/assets/image%20%28264%29.png)
+![](../../.gitbook/assets/image%20%28265%29.png)
 
 **Descendant Selector**: **parent  `` descendant**    
 \(targets any descendant\)
@@ -66,7 +66,7 @@ In the example below, only the`<a>` element directly beneath the `<section>` ele
 
 In the example below, every `<a>` element beneath the `<section>` element matches the selector `section a`.
 
-![](../../.gitbook/assets/image%20%28269%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 ### 
 

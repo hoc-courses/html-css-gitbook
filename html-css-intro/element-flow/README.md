@@ -4,21 +4,26 @@ Here are some very important characteristics of how elements are rendered on a p
 
 ### [Box Model](box-model-box-sizing.md)
 
-* Every element on a page is displayed as a rectangular box
-* Box margin is the space between boxes, outside of the box's border.
-* Box padding is the space within the box between the border and the content.
+Every element on a page is displayed as a rectangular box
+
+**Content** - The actual content \(text, images, videos...\) of the HTML element.
+
+**Padding** - Defined by the padding property. In-between the border and content of an element. Is transparent.
+
+**Border** - Defined by the border property. Surrounds the padding and content of an element.
+
+**Margin** - Defined by the margin property. Adds space between the border and other HTML elements. Is transparent.
+
+![](../../.gitbook/assets/image%20%28257%29.png)
 
 ### Element Flow
 
 * Without added positioning styles, the boxes flow from top to bottom
 
-### [Block Elements](element-flow-part-2.md) \(display:block\)
+### [Block vs Inline Elements](element-flow-part-2.md)
 
-* The box will break onto a new line .
-* The box will extend horizontally to fill the space available in its container.
+The CSS display property has two primary values that are used to determine how much horizontal and vertical space a box takes up.
 
-### [Inline Elements](element-flow-part-2.md) \(display:inline\)
-
-* The box will not break onto a new line.
-* The box will only take up as much horizontal space as is necessary.
+* **block**: take up the entire line, unless they are empty. headings, paragraphs, lists are examples of elements that have their display property set to block by default. 
+* **inline**: take up width of their content only. images, links, spans are examples of elements that have their display property set to inline by default.
 
