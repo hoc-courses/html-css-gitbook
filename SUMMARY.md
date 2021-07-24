@@ -36,6 +36,7 @@
 * [Box-shadow](miscellaneous-topics/box-shadow.md)
 * [Centering Elements](miscellaneous-topics/centering-elements.md)
 * [Colors](miscellaneous-topics/colors.md)
+* [Custom Properties](miscellaneous-topics/custom-properties.md)
 * [Forms](miscellaneous-topics/forms.md)
 * [Tables](miscellaneous-topics/tables.md)
 * [Typography](miscellaneous-topics/typography.md)
