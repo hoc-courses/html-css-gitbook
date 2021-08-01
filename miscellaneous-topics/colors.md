@@ -1,6 +1,12 @@
 # Colors
 
-We're going to cover the three most common ways to specify colors in CSS: named colors, hex codes, and rgb values.
+Computer monitors are made up of thousands of tiny squares called pixels. Each pixel can be a different color. The color of each pixel is a mixture of the amounts of red, green and blue.
+
+We're going to cover the three most common ways to specify colors in CSS: 
+
+* named colors
+* hex codes
+* RGB values
 
 ## Named Colors
 
@@ -24,7 +30,7 @@ p {
 }
 ```
 
-Hex color codes are specified by a hashtag followed by three pairs of characters that represent the intensity of the three primary colors \(red, green, and blue\). Possible values range from 00 \(the lowest intensity\) to FF \(the highest intensity\).
+Hex color codes are specified by a hashtag followed by three pairs of characters that represent the intensity of the three primary colors \(red, green, and blue\). Possible values range from 0 to 255, but are expressed in hexadecimal. 00 \(the lowest intensity\) to FF \(the highest intensity\).
 
 * **White**: \#FFFFFF \(highest intensity for all\)
 * **Black**: \#000000 \(lowest intensity for all\)
