@@ -1,6 +1,6 @@
 # Semantic Elements
 
-In addition to the individual HTML elements that display content, such as `<p>`, `<h1>`, etc., there are HTML elements that are used to describe the content contained within a larger section of HTML elements. They are container elements that give semantic meaning to the content contained within them.
+In addition to the individual HTML elements that display content, such as `<p>`, `<h1>`, etc., there are HTML elements that are used to describe the content contained within a larger section of HTML elements. These elements are called semantic elements, because they give meaning to group of descendant elements contained within them.
 
 Some of the most important semantic elements are those that allow us to divide our page into sections.
 
