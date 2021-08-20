@@ -27,6 +27,23 @@ A CSS rule is made up of **selectors**, **properties**, and **values**.
 * A **rule** is the combination of the selector and its declarations
   * `h1 { font-size: 1.5rem; }` is the **rule**
 
+{% hint style="success" %}
+**Check for understanding**. In the CSS code below, which parts are the rules, selectors, properties, values, and declarations?
+{% endhint %}
+
+```css
+h1, h2, h3, h4, h5, h6, p {
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+.box {
+  border: 1px solid #333;
+}
+```
+
+### 
+
 ### Three Methods for Applying Styles
 
 **1. External Stylesheets** - styles are loaded from an external stylesheet referenced in a `<link>` element. This is the **preferred method**, as all of the styles are maintained in one place and can be shared across web pages.
