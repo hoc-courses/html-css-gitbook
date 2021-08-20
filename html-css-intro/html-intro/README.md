@@ -27,18 +27,12 @@ Markup elements can contain **attributes** \(name/value pairs\)  **on the openin
   * `href="https://jellyfish.html"` is the **attribute**
   * `href` is the **attribute name**
   * `http://jellyfish.html` is the **attribute value**
+* The **content** is the part of the code in between the opening and closing tags
+  * `Jelly Fish Facts` is the **content**
 
-### Common HTML Elements
-
-The markup below contains many of the most common elements: 
-
-* **headings** \(`<h1-h6>`\)
-* **paragraphs** \(`<p>`\)
-* **lists** \(`<ul>`, `<li>`\)
-* **hyper-links** \(`<a>`\) 
-  * href attribute to specify the document URL
-* **images** \(`<img>`\)
-  * src attribute to specific the image URL
+{% hint style="success" %}
+**Test for Understanding**: Identify opening and closing tags, attribute name/values and content in the following HTML.
+{% endhint %}
 
 ```markup
 <h1>Meet the Jellies</h1>
