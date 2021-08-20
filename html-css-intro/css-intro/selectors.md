@@ -8,7 +8,16 @@ As we saw earlier, we can assign a style to all elements of a particular type. T
 
 ![](../../.gitbook/assets/image%20%28272%29.png)
 
-The other selectors we will cover, include **class selectors**, **descendant selectors,** **id selectors** and **pseudo-classes.**
+There are several types of CSS selectors, which offer different ways to select HTML elements. The common ones are shown in the following table.
+
+| Selector | Example | Description |
+| :--- | :--- | :--- |
+| **Class selector** | `.text { }` | Selects all HTML elements with class `class="text"` |
+| **Type selector** | `p { }` | Selects all `p` HTML elements |
+| **ID selector** | `#text { }` | Selects all HTML elements with ID `id="text"` |
+| **Descendant combinator** | `article p` | Selects all `p` HTML elements that are a descendant of an `article` element |
+| **Child combinator** | `article > p` | Selects all `p` HTML elements that are a direct child of an `article` element |
+| **Pseudo-class selector** | `p:hover { }` | Selects all `p` HTML elements that have a mouse hovering on them |
 
 ### Class Selectors 
 
