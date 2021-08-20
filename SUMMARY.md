@@ -12,6 +12,7 @@
 
 * [HTML](html-css-intro/html-intro/README.md)
   * [Boilerplate HTML](html-css-intro/html-intro/untitled.md)
+  * [HTML Hierarchy](html-css-intro/html-intro/html-hierarchy.md)
   * [Meta Section](html-css-intro/html-intro/meta-section.md)
   * [Text-formatting Elements](html-css-intro/html-intro/text-formatting-elemetns.md)
   * [Image](html-css-intro/html-intro/images.md)
