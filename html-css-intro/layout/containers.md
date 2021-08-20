@@ -28,6 +28,8 @@ The problem with this approach is that HTML is meant to be used semantically. HT
 
 ### Semantic Elements
 
+> Semantic HTML is the use of HTML markup to reinforce the semantics, or **meaning**, of the information in webpages and web applications rather than merely to define its presentation or look. [Wikipedia](https://en.wikipedia.org/wiki/Semantic_HTML).
+
 With the release of HTML5 in 2008, a new set of semantic HTML elements was introduced. These elements are similar to the `<div>` and `<span>` elements, in that they are generic container elements with no content of their own, but they have the advantage that they give meaning to the content they contain.
 
 Now, instead of using a `<div>` element to organize the large chunks of content on the page, we have a new set of semantic HTML elements that can be used instead, and they better describe the purpose of the content within the element.
