@@ -17,6 +17,30 @@ Markup elements can contain **attributes** \(name/value pairs\)  **on the openin
 ![](../../.gitbook/assets/image%20%28262%29.png)
 
 ```markup
+<a href="https://jellyfish.html">Jelly Fish Facts</a>
+```
+
+* A **tag** is the HTML element name enclosed in angle brackets
+  * `<a>` is the **opening tag**
+  * `</a>` is the **closing tag**
+* An **attribute** comes after the HTML element name within the angle brackets
+  * `href="https://jellyfish.html"` is the **attribute**
+  * `href` is the **attribute name**
+  * `http://jellyfish.html` is the **attribute value**
+
+### Common HTML Elements
+
+The markup below contains many of the most common elements: 
+
+* **headings** \(`<h1-h6>`\)
+* **paragraphs** \(`<p>`\)
+* **lists** \(`<ul>`, `<li>`\)
+* **hyper-links** \(`<a>`\) 
+  * href attribute to specify the document URL
+* **images** \(`<img>`\)
+  * src attribute to specific the image URL
+
+```markup
 <h1>Meet the Jellies</h1>
 <ul>
   <li>Orange Jelly</li>
@@ -42,19 +66,7 @@ Markup elements can contain **attributes** \(name/value pairs\)  **on the openin
 </a>
 ```
 
-The markup used in this document includes: 
-
-* **headings** \(`<h1-h6>`\)
-* **paragraphs** \(`<p>`\)
-* **lists** \(`<ul>`, `<li>`\)
-* **hyper-links** \(`<a>`\) 
-  * href attribute to specify the document URL
-* **images** \(`<img>`\)
-  * src attribute to specific the image URL
-
 There are lots of different markup elements: too many to list here. The [text-formatting](text-formatting-elemetns.md), [image](images.md) and [hyper-links](links.md) \(anchors\) elements, many of which were used in the example above, are what you will use most frequently. Other common elements support including [videos](video.md), [forms](../../miscellaneous-topics/forms.md) and [tables ](../../miscellaneous-topics/tables.md)in your page.
-
-### 
 
 ### Miscellaneous
 
