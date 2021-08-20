@@ -19,6 +19,7 @@
   * [Video](html-css-intro/html-intro/video.md)
   * [Anchor](html-css-intro/html-intro/links.md)
   * [Tables](html-css-intro/html-intro/tables.md)
+  * [Semantic Elements](html-css-intro/html-intro/semantic-elements.md)
 * [CSS](html-css-intro/css-intro/README.md)
   * [Properties](html-css-intro/css-intro/properties.md)
   * [Selectors](html-css-intro/css-intro/selectors.md)
