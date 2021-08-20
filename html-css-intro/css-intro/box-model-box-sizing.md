@@ -20,6 +20,24 @@ When to use the margin vs. the padding property can be confusing. The way to thi
 
 ### Specifying Box-model Properties in CSS
 
+```css
+.main-content {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+
+  margin-top: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+
+  padding-top: 0.5rem;
+  padding-right: 1rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+}
+```
+
 Measurements are specified: top right bottom left \(like a clock\). You can set a single value if all sides have the same value. You can set two values \(top/bottom right/left\), if top/bottom and left/right have the same values.
 
 ```css
