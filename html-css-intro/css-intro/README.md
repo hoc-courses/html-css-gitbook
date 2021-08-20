@@ -8,11 +8,24 @@ HTML is used to give structure to the page content. CSS was introduced to allow 
 
 With CSS, we can use a stylesheet language to specify which styling properties we want to change for specific HTML elements.
 
-To change the style of an element you must target the element using **selectors** and then specify one or more style **property-name property-value pairs** to apply to the targeted element.
+### CSS Rules
 
-![](../../.gitbook/assets/image%20%28220%29.png)
+To change the style of an element you must target the element using a CSS Rule.
 
-In the example above, the selector is the name of an HTML element. This would change the text color of every paragraph in the document to red.
+![](../../.gitbook/assets/image%20%28289%29.png)
+
+A CSS rule is made up of **selectors**, **properties**, and **values**.
+
+* A **selector** describes which HTML elements to style
+  * `h1` is the **selector**
+* A **property** is the specific style to apply
+  * `font-size` is the **property**
+* A **value** is the value for the property
+  * `1.5rem` is the **value**
+* A **declaration** is the combination of the property and value
+  * `font-size: 1.5rem;` is the **declaration**
+* A **rule** is the combination of the selector and its declarations
+  * `h1 { font-size: 1.5rem; }` is the **rule**
 
 ### Three Methods for Applying Styles
 

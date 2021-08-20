@@ -12,7 +12,7 @@ Below is a mapping of the basic HTML elements as they are displayed with no CSS 
 
 ![](../../.gitbook/assets/image%20%28222%29%20%281%29.png)
 
-### Container Elements
+### Generic Container Elements - div, span
 
 In the early versions of HTML, CSS didn't exist, and there wasn't a way to change the default flow of the document on the left to the layout on the right.
 
@@ -26,7 +26,7 @@ While this was a big improvement, the styles that CSS provided at the time for p
 
 The problem with this approach is that HTML is meant to be used semantically. HTML elements are supposed to describe the content they display. Using a `<table>` element to display non-tabular data, or nesting `<div>` elements was confusing for screen readers, hence limiting accessibility and it made the HTML code more difficult to read.
 
-### Semantic Elements
+### Semantic Container Elements
 
 > Semantic HTML is the use of HTML markup to reinforce the semantics, or **meaning**, of the information in webpages and web applications rather than merely to define its presentation or look. [Wikipedia](https://en.wikipedia.org/wiki/Semantic_HTML).
 
@@ -36,7 +36,11 @@ Now, instead of using a `<div>` element to organize the large chunks of content 
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
-There are no exact rules for which semantic elements to use where. For example, there can be headers within a sub-section of the site. There are just general guidelines and you will learn to use them incrementally as they make sense in your applications.
+{% hint style="info" %}
+Use these sectioning HTML elements in every website you build. This lets screen reader users jump to these sections of the website quickly.
+{% endhint %}
+
+Use these sectioning HTML elements in every website you build. This lets screen reader users jump to these sections of the website quickly.
 
 ### Revisit our Previous Layout
 

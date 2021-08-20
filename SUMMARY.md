@@ -18,6 +18,7 @@
   * [Image](html-css-intro/html-intro/images.md)
   * [Video](html-css-intro/html-intro/video.md)
   * [Anchor](html-css-intro/html-intro/links.md)
+  * [Tables](html-css-intro/html-intro/tables.md)
 * [CSS](html-css-intro/css-intro/README.md)
   * [Properties](html-css-intro/css-intro/properties.md)
   * [Selectors](html-css-intro/css-intro/selectors.md)
@@ -39,7 +40,6 @@
 * [Colors](miscellaneous-topics/colors.md)
 * [Custom Properties](miscellaneous-topics/custom-properties.md)
 * [Forms](miscellaneous-topics/forms.md)
-* [Tables](miscellaneous-topics/tables.md)
 * [Typography](miscellaneous-topics/typography.md)
 * [Units](miscellaneous-topics/units.md)
 

@@ -10,7 +10,7 @@ Historically, before the div element and grid/flex were introduced, web develope
 
 Here's an example of a table for the residents in a zoo. It has four columns, and a row for each type of animal.
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 #### Table element
 
@@ -74,4 +74,8 @@ Here's a complete table element with one row of data.
   </table>
 
 ```
+
+{% hint style="success" %}
+**Check for understanding**. Create a table to describe your family members, with columns list the name, sex, and age of each.
+{% endhint %}
 

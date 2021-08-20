@@ -25,7 +25,7 @@ The &lt;img element is our first element that demonstrates the use of attributes
 
 ### Images are inline elements
 
-This means that they only take up as much horizontal space as their width and it can effect how the content following it behaves. For more information on how this effects the display of an images see the topic on [Block vs Inline Elements]().
+This means that they only take up as much horizontal space as their width and it can effect how the content following it behaves. For more information on how this effects the display of an images see the topic on[ Block vs Inline Elements](../css-intro/block-vs-inline.md).
 
 ### Image Guidelines
 
