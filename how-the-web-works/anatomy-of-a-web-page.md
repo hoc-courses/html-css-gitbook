@@ -75,6 +75,8 @@ JavaScript can be used to add what I'd call eye-candy to the site. The content i
 
 {% embed url="https://britishmuseum.withgoogle.com/" %}
 
+{% embed url="https://artsandculture.google.com/exhibit/vincent-van-gogh-s-love-life/0QKiJEq7eauIKg?hl=en" %}
+
 
 
 {% embed url="https://www.legworkstudio.com" caption="" %}
