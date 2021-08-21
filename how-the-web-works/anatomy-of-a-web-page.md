@@ -73,6 +73,10 @@ JavaScript is a programming language that enables web pages to provide animation
 
 JavaScript can be used to add what I'd call eye-candy to the site. The content is all there, but it's dull without some action. JavaScript can be used to display the content in visually appealing ways and add movement with advanced animations.
 
+{% embed url="https://britishmuseum.withgoogle.com/" %}
+
+
+
 {% embed url="https://www.legworkstudio.com" caption="" %}
 
 {% embed url="https://www.sbs.com.au/theboat/" caption="" %}
