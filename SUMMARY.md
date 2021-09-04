@@ -59,6 +59,7 @@
 * [unsplash.com \(free images\)](https://unsplash.com/)
 * [pexels.com \(free images\)](https://unsplash.com/)
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
+* [Cloning from an Existing GitHub Repo](appendix/cloning-from-an-existing-github-repo.md)
 
 ## Further Learning Resources <a id="further-learning-resources-1"></a>
 
