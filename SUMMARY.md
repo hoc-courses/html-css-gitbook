@@ -4,8 +4,7 @@
 
 ## Class Notes
 
-* [Week 2: Saturday 9/4](class-notes/week-2-saturday-9-4/README.md)
-  * [HTML Basic Elements Assignment](class-notes/week-2-saturday-9-4/html-basic-elements-assignment.md)
+* [Week 2: Saturday 9/4](class-notes/week-2-saturday-9-4.md)
 
 ## How the Web Works
 
