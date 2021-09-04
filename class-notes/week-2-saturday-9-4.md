@@ -36,5 +36,5 @@ You can start working on progression \#1.
 
 ### Resources
 
-If you want another introduction to HTML/CSS, this free course is good.
+If you want another introduction to HTML/CSS, this free [course](https://scrimba.com/learn/htmlcss/introduction-c4GE7ns6) is good.
 
