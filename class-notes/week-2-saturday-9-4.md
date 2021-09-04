@@ -34,7 +34,3 @@ You can start working on progression \#1.
 * Clone the GitHub assignment repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-### Resources
-
-If you want another introduction to HTML/CSS, this free [course](https://scrimba.com/learn/htmlcss/introduction-c4GE7ns6) is good.
-
