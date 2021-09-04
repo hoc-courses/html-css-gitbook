@@ -71,4 +71,5 @@
 * [FE Mentor Challenges](further-learning-resources-1/fe-mentor-challenges.md)
 * [Free Scrimba Courses](further-learning-resources-1/scrimba-courses.md)
 * [Kevin Powell Youtube](https://www.youtube.com/watch?v=c0kfcP_nD9E&list=PL4-IK0AVhVjP27yZLwW-gkPggRps0CCnP)
+* [HTML & CSS, Duckett](further-learning-resources-1/html-and-css-duckett.md)
 
