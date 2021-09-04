@@ -5,9 +5,17 @@
 * uninstall Markdown Preview Enhanced
 * install Markdown Preview GitHub Styled
 
-### [Intro to HTML](../html-css-intro/html-intro/)
+### Class Material
 
-### Assignment: HTML Basic Elements
+* [Anatomy of a Web Page](../how-the-web-works/anatomy-of-a-web-page.md)
+* [How a Web Page Gets Loaded](../how-the-web-works/how-a-web-page-gets-loaded.md)
+* [HTML Section](../html-css-intro/html-intro/)
+
+### HTML Basic Elements Lecture/Demo
+
+* demo [repo](https://github.com/hoc-demos/html-basic-elements-demo)
+
+### Assignment \(during class\): HTML Basic Elements
 
 * Click on this link to start the assignment: [https://classroom.github.com/a/6KL1Ink\_](https://classroom.github.com/a/6KL1Ink_)
 * Clone the GitHub assignment repo to your local computer.
@@ -26,5 +34,7 @@ You can start working on progression \#1.
 * Clone the GitHub assignment repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
+### Resources
 
+If you want another introduction to HTML/CSS, this free course is good.
 
