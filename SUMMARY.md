@@ -56,7 +56,7 @@
 * [CSS Cheatsheet](https://overapi.com/css)
 * [Browser Support for HTML/CSS](http://caniuse.com)
 * [unsplash.com \(free images\)](https://unsplash.com/)
-* [pexels.com \(free images\)](https://unsplash.com/)
+* [pexels.com \(free images\)](https://pexels.com/)
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
 * [Software Installation](appendix/software-installation.md)
 * [Terminal/CLI](appendix/terminal-cli.md)
