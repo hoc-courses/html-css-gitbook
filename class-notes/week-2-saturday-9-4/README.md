@@ -1,11 +1,11 @@
 # Week 2: Saturday 9/4
 
-### Install Correct Markdown Viewer
+### Install Correct Markdown Viewer Extension
 
 * uninstall Markdown Preview Enhanced
 * install Markdown Preview GitHub Styled
 
-### Intro to HTML
+### [Intro to HTML](../../html-css-intro/html-intro/)
 
 ### Assignment: HTML Basic Elements
 
