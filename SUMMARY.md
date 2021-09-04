@@ -59,7 +59,10 @@
 * [unsplash.com \(free images\)](https://unsplash.com/)
 * [pexels.com \(free images\)](https://unsplash.com/)
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
-* [Cloning from an Existing GitHub Repo](appendix/cloning-from-an-existing-github-repo.md)
+* [Git/GitHub](appendix/git-github/README.md)
+  * [Cloning from an Existing GitHub Repo](appendix/git-github/cloning-from-an-existing-github-repo.md)
+  * [Git Commands](appendix/git-github/git-commands.md)
+  * [Terminal/CLI](appendix/git-github/terminal-cli.md)
 
 ## Further Learning Resources <a id="further-learning-resources-1"></a>
 
