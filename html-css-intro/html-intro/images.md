@@ -35,5 +35,5 @@ This means that they only take up as much horizontal space as their width and it
 
 ### Finding Place-holder Images
 
-Just like we used place-holder text for our paragraph content, we often need place-holder images to use for development purposes. The sites [unsplash.com](http://unsplash.com) and [pexels.com ](http://www.pexels.com) are great sites that have a wide assortment of free images to use in your pages. 
+Just like we used place-holder text for our paragraph content, we often need place-holder images to use for development purposes. The sites [unsplash.com](http://unsplash.com) and [pexels.com ](http://www.pexels.com) are great sites that have a wide assortment of free images to use in your pages.
 

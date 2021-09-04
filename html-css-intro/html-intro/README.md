@@ -8,11 +8,11 @@ A mark-up language is different than a programming language. It doesn't have any
 
 \_\_
 
-HTML consists of **markup elements** \(opening and closing tags\) that **wrap content** to mark it for specific formatting.  
+HTML consists of **markup elements** \(opening and closing tags\) that **wrap content** to mark it for specific formatting.
 
 ![](../../.gitbook/assets/image%20%28281%29.png)
 
-Markup elements can contain **attributes** \(name/value pairs\)  **on the opening tag** to specify additional information.
+Markup elements can contain **attributes** \(name/value pairs\) **on the opening tag** to specify additional information.
 
 ![](../../.gitbook/assets/image%20%28262%29.png)
 

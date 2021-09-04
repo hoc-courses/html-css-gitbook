@@ -34,7 +34,7 @@ Set the attribute target="\_blank" to have the target web page launch in a new b
 <a href="subDir/page3.html">Page 3</a>
 ```
 
-**Internal Page Reference \(within the same page\)**: The anchor element can specify a special `href` syntax to indicate that the ****hyper-link is to a different location in the current document. The target location must be an element with an attribute named id that uniquely identifies the element. The anchor's `href` attribute value must be of the form "\#\[id-of-target-element\]".
+**Internal Page Reference \(within the same page\)**: The anchor element can specify a special `href` syntax to indicate that the _\*\*_hyper-link is to a different location in the current document. The target location must be an element with an attribute named id that uniquely identifies the element. The anchor's `href` attribute value must be of the form "\#\[id-of-target-element\]".
 
 ```markup
 <a href="#section1">Section 1</a>

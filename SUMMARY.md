@@ -2,6 +2,14 @@
 
 * [Overview](README.md)
 
+## Class Notes
+
+* [Week 2: Saturday 9/4](class-notes/week-2-saturday-9-4.md)
+
+---
+
+* [Untitled](untitled.md)
+
 ## How the Web Works
 
 * [DNS, TCP/IP, HTTP, HTML](how-the-web-works/dns-tcp-ip-http-html.md)

@@ -1,6 +1,6 @@
 # Container Elements
 
-So far we have been working with basic HTML elements whose purpose is to display some content.  We have seen that these elements flow down the page, with some variation based on whether the element is a block or inline element.
+So far we have been working with basic HTML elements whose purpose is to display some content. We have seen that these elements flow down the page, with some variation based on whether the element is a block or inline element.
 
 A more typical web page, has a lot of these basic HTML elements, but as you'll notice in the screen capture below, they don't all flow down the page. The page has a layout which can be broken down into distinct functional areas, and each area has a group of basic HTML elements.
 
@@ -12,7 +12,7 @@ Below is a mapping of the basic HTML elements as they are displayed with no CSS 
 
 ![](../../.gitbook/assets/image%20%28222%29%20%281%29.png)
 
-### Generic Container Elements - div, span
+## Generic Container Elements - div, span
 
 In the early versions of HTML, CSS didn't exist, and there wasn't a way to change the default flow of the document on the left to the layout on the right.
 
@@ -22,11 +22,11 @@ The `<div>` and `<span>` were a new kind of element, because they were the first
 
 The `<div>` element, in combination with a style, allowed web developers to specify styles for specific sub-sections of the page.
 
-While this was a big improvement, the styles that CSS provided at the time for positioning element in a layout similar to the one above were limited and web developers resorted to hacks to achieve their layout goals. For example, the `<table>` element \(think of a grid\) was introduced at the same time, and it became popular to use it to layout the overall structure of the page, and then place the desired content in the different table cells. 
+While this was a big improvement, the styles that CSS provided at the time for positioning element in a layout similar to the one above were limited and web developers resorted to hacks to achieve their layout goals. For example, the `<table>` element \(think of a grid\) was introduced at the same time, and it became popular to use it to layout the overall structure of the page, and then place the desired content in the different table cells.
 
 The problem with this approach is that HTML is meant to be used semantically. HTML elements are supposed to describe the content they display. Using a `<table>` element to display non-tabular data, or nesting `<div>` elements was confusing for screen readers, hence limiting accessibility and it made the HTML code more difficult to read.
 
-### Semantic Container Elements
+## Semantic Container Elements
 
 > Semantic HTML is the use of HTML markup to reinforce the semantics, or **meaning**, of the information in webpages and web applications rather than merely to define its presentation or look. [Wikipedia](https://en.wikipedia.org/wiki/Semantic_HTML).
 
@@ -42,13 +42,13 @@ Use these sectioning HTML elements in every website you build. This lets screen 
 
 Use these sectioning HTML elements in every website you build. This lets screen reader users jump to these sections of the website quickly.
 
-### Revisit our Previous Layout
+## Revisit our Previous Layout
 
 Now we can take a closer look at what's in the HTML of the page we described above. You can see that there are semantic HTML elements surrounding each of the major sections of the page.
 
 ![](../../.gitbook/assets/image%20%28219%29%20%281%29.png)
 
-And here's the corresponding HTML.  I have left out the details within the semantic elements so it's easier to see the overall layout. With these container elements, it is now possible to specify that a particular element, such as the &lt;aside&gt;, should be positioned in a specific location within  the page.
+And here's the corresponding HTML. I have left out the details within the semantic elements so it's easier to see the overall layout. With these container elements, it is now possible to specify that a particular element, such as the &lt;aside&gt;, should be positioned in a specific location within the page.
 
 ```markup
 <body>
@@ -68,15 +68,15 @@ And here's the corresponding HTML.  I have left out the details within the seman
 </body>
 ```
 
-### The Default Flow is Still Down
+## The Default Flow is Still Down
 
-One thing to keep in mind, is that a style is applied to a particular element in the overall HTML element hierarchy. Setting a layout style on a particular element will allow the **immediate children of that element to have a particular layout**. 
+One thing to keep in mind, is that a style is applied to a particular element in the overall HTML element hierarchy. Setting a layout style on a particular element will allow the **immediate children of that element to have a particular layout**.
 
 For example, all of the immediately children of the second row \(left `<nav>` section, middle `<main>` section, and right `<aside>` section are styled to flow horizontally instead of the default flow down.
 
 But the descendants of those children will flow down by default within the containing rectangular box. Any descendants that you want to deviate from that default flow would have to have an additional style applied at that level in the element hierarchy.
 
-For example, in the screen capture below, the top-level rows can be seen outlined in red,  with the corresponding number down the right edge: \#1, \#2 and \#3.  Each row is following the next, so they are flowing down, and there was no additional positioning necessary. 
+For example, in the screen capture below, the top-level rows can be seen outlined in red, with the corresponding number down the right edge: \#1, \#2 and \#3. Each row is following the next, so they are flowing down, and there was no additional positioning necessary.
 
 Likewise, within each of the three sub-sections of \#2 row, the content is naturally flowing down.
 
@@ -84,15 +84,15 @@ But within rows \#1 and \#3, the flow is horizontal, and so the display was chan
 
 ![](../../.gitbook/assets/image%20%28237%29.png)
 
-### Visualizing the HTML Element Tree
+## Visualizing the HTML Element Tree
 
 There is a really helpful Google Chrome Extension for viewing an HTML document as a tree. It helps to visualize how an HTML document is just a hierarchy of HTML components in a tree structure.
 
-{% embed url="https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg?hl=en-US" %}
+{% embed url="https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg?hl=en-US" caption="" %}
 
 ![](../../.gitbook/assets/image%20%28219%29.png)
 
-#### Main Element Tree
+### Main Element Tree
 
 ```markup
 <main>
@@ -109,9 +109,9 @@ There is a really helpful Google Chrome Extension for viewing an HTML document a
 
 ![](../../.gitbook/assets/image%20%28218%29.png)
 
-You can see that a layout/style could be put on the `<main>` HTML element to position it in the overall page layout, but that within the `<article>` element, all of the child elements will  flow down following the default flow within a containing rectangular box.
+You can see that a layout/style could be put on the `<main>` HTML element to position it in the overall page layout, but that within the `<article>` element, all of the child elements will flow down following the default flow within a containing rectangular box.
 
-### Resources
+## Resources
 
-{% embed url="https://www.freecodecamp.org/news/semantic-html5-elements/" %}
+{% embed url="https://www.freecodecamp.org/news/semantic-html5-elements/" caption="" %}
 

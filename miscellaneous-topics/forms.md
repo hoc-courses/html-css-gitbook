@@ -8,7 +8,7 @@ The following attributes are associated with sending the data to the server:
 
 ### form action and method attributes
 
-The purpose of the **action** attribute is to specify the URL to which the form data will be sent when the user submits the form. The **method** attribute specifies how the data will be sent. This method value typically would be  a POST request, which indicates that the input data will be included in the request body.
+The purpose of the **action** attribute is to specify the URL to which the form data will be sent when the user submits the form. The **method** attribute specifies how the data will be sent. This method value typically would be a POST request, which indicates that the input data will be included in the request body.
 
 ### input name attribute
 
@@ -28,7 +28,7 @@ The **name** attribute is the form field name that will be used when the data is
 
 The essential elements contained within the `<form>` element are `<input>` elements. The `<input>` elements tell the web browser what the data elements are included on the form and the type attribute describes the type of data the element contains.
 
-HTML supports many different input data types for the `<input>` element. The web browser will present the appropriate UI control and in some cases there is built-in validation based on the data type specified. The full list of data types supported by HTML5 can be[ found here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input). The input type is a client-side attribute to assist in collecting the data and is not sent to with the form data sent to the server for processing. 
+HTML supports many different input data types for the `<input>` element. The web browser will present the appropriate UI control and in some cases there is built-in validation based on the data type specified. The full list of data types supported by HTML5 can be[ found here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input). The input type is a client-side attribute to assist in collecting the data and is not sent to with the form data sent to the server for processing.
 
 The only form data that is sent to the server is the names of the input fields and their associated values.
 

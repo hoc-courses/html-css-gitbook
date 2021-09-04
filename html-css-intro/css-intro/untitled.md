@@ -1,12 +1,12 @@
 # The Cascade
 
-### Browser Defaults
+## Browser Defaults
 
-In addition to your own styles, the web browser provides a set of default styles. 
+In addition to your own styles, the web browser provides a set of default styles.
 
-The link below is for the default styles applied by the Chrome browser. 
+The link below is for the default styles applied by the Chrome browser.
 
-{% embed url="https://source.chromium.org/chromium/chromium/src/+/master:third\_party/blink/renderer/core/html/resources/html.css" %}
+{% embed url="https://source.chromium.org/chromium/chromium/src/+/master:third\_party/blink/renderer/core/html/resources/html.css" caption="" %}
 
 Examples of some of the styles it sets include:
 
@@ -38,15 +38,15 @@ h1 {
 
 ![](../../.gitbook/assets/image%20%28251%29.png)
 
-### Processing Order Matters - The Last Rule Wins
+## Processing Order Matters - The Last Rule Wins
 
 The web browser loads its default styles first, and then loads any styles defined by the web page author. If the the rule is repeated, the last one encountered will be used. For example, your own stylesheet could specify the color property of the `<h1>` element should be red, which would override the value defined by the web browser.
 
-The same would be true if you re-defined the same style later in the same stylesheet file or in a stylesheet file that was loaded after the initial definition. 
+The same would be true if you re-defined the same style later in the same stylesheet file or in a stylesheet file that was loaded after the initial definition.
 
-### CSS Property Inheritance
+## CSS Property Inheritance
 
-#### Some Properties are Inherited
+### Some Properties are Inherited
 
 Inheritance is when some CSS properties are passed down the inheritance tree, so that descendant element inherit the style specified in an ancestor element. Background color is an example of an inherited property. Inherited properties can be overridden on a descendant element.
 
@@ -60,9 +60,7 @@ In the image on the right, the background color and text transform properties sp
 
 **Background colors are inherited.** background-color.
 
-#### 
-
-#### Some Properties are not Inherited
+### Some Properties are not Inherited
 
 It's pretty intuitive which styles are inherited and which are not. Inheritance of CSS styles is there to make the web developer's job easier, so it is applied for those elements where it makes sense.
 
@@ -72,13 +70,13 @@ For example, in the screen capture below the paragraph element has been set to h
 
 ![](../../.gitbook/assets/image%20%28256%29.png)
 
-### CSS Specificity
+## CSS Specificity
 
-There can be multiple selectors, each setting the same properties, that target the same element. For example, a selector for a font property could be set on the body element, as well as a paragraph element. 
+There can be multiple selectors, each setting the same properties, that target the same element. For example, a selector for a font property could be set on the body element, as well as a paragraph element.
 
 When this happens, the browser needs to apply a set of rules to determine which selector will be applied to the element.
 
-This is known as the specificity of the selector, or how strongly that selector binds to the element.  The specificity,  is given below from top \(highest specificity\) to bottom \(lowest specificity\):  
+This is known as the specificity of the selector, or how strongly that selector binds to the element. The specificity, is given below from top \(highest specificity\) to bottom \(lowest specificity\):
 
 * **inline** style \(style attribute on element\)
 * **id** attribute on element
@@ -112,11 +110,11 @@ a {
 }
 ```
 
-### Summary - Cascading Style Sheets
+## Summary - Cascading Style Sheets
 
-As you have learned, there are many different origins for a style \(web browser defaults, inline, style element, and external CSS files\) and there are many different rules for how to resolve which style should be applied when there are multiple rules targeting the same element and style. The algorithm the web browser uses to apply the correct styles is what makes up the "Cascade" in Cascading Style Sheets. 
+As you have learned, there are many different origins for a style \(web browser defaults, inline, style element, and external CSS files\) and there are many different rules for how to resolve which style should be applied when there are multiple rules targeting the same element and style. The algorithm the web browser uses to apply the correct styles is what makes up the "Cascade" in Cascading Style Sheets.
 
-### Resources
+## Resources
 
-{% embed url="https://wattenberger.com/blog/css-cascade" %}
+{% embed url="https://wattenberger.com/blog/css-cascade" caption="" %}
 

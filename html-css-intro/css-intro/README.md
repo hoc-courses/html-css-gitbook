@@ -2,7 +2,7 @@
 
 ## CSS - Cascading Style Sheets
 
-HTML is used to give structure to the page content. CSS was introduced to allow the browser to apply specific styling features such as colors, fonts, and positioning to the HTML elements on the page. 
+HTML is used to give structure to the page content. CSS was introduced to allow the browser to apply specific styling features such as colors, fonts, and positioning to the HTML elements on the page.
 
 ![https://blog.templatetoaster.com/what-is-css/](../../.gitbook/assets/image%20%28230%29.png)
 
@@ -41,8 +41,6 @@ h1, h2, h3, h4, h5, h6, p {
   border: 1px solid #333;
 }
 ```
-
-### 
 
 ### Three Methods for Applying Styles
 
@@ -110,7 +108,7 @@ li:before {
 </head>
 ```
 
-**3. Inline** - styles are specified as attributes directly on the HTML element to which you want to apply the style.  This method is also discourages for the reasons explain for embedded styles.
+**3. Inline** - styles are specified as attributes directly on the HTML element to which you want to apply the style. This method is also discourages for the reasons explain for embedded styles.
 
 ```markup
 <h2 style="color:#ff9900">Orange Jelly</h2>

@@ -1,20 +1,20 @@
 # Tables
 
-Tables are used for storing tabular data. Basically the equivalent of a spreadsheet. 
+Tables are used for storing tabular data. Basically the equivalent of a spreadsheet.
 
 Historically, before the div element and grid/flex were introduced, web developers often used tables to define the structure of their web pages. Now that these other techniques exists, it is a bad practice to use tables for this purpose,. They should only be used to store tabular data.
 
-{% embed url="https://learn.shayhowe.com/html-css/organizing-data-with-tables/" %}
+{% embed url="https://learn.shayhowe.com/html-css/organizing-data-with-tables/" caption="" %}
 
-{% embed url="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics" %}
+{% embed url="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics" caption="" %}
 
 Here's an example of a table for the residents in a zoo. It has four columns, and a row for each type of animal.
 
 ![](../../.gitbook/assets/image%20%2846%29.png)
 
-#### Table element
+## Table element
 
-The `<table>`element is the top-level HTML element required to define a table. 
+The `<table>`element is the top-level HTML element required to define a table.
 
 ```markup
 <table>
@@ -23,7 +23,7 @@ The `<table>`element is the top-level HTML element required to define a table.
 
 The `<table>`element has two child components.
 
-#### Column headers
+## Column headers
 
 The `<thead>` element is used for specifying the column headers.
 
@@ -36,7 +36,7 @@ The `<thead>` element is used for specifying the column headers.
   </thead>
 ```
 
-#### Rows
+## Rows
 
 The `<tbody>` element surrounds all of the rows, and then for each row, there is a `<tr>`, with `<td>` elements for each column in the row.
 
@@ -72,7 +72,6 @@ Here's a complete table element with one row of data.
         </tr>
     </tbody>
   </table>
-
 ```
 
 {% hint style="success" %}

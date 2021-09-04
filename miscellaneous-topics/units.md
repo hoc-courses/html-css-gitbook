@@ -16,7 +16,7 @@ The following table contains some of the most commonly used CSS units.
 
 There are many CSS properties whose value represents a length. For example, width, margin, padding, font-size all expect a length value. But lengths can be expressed in different units and it is important to know the differences between them.
 
- If you want to view all CSS units, visit the [MDN CSS values and units page](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units#numeric_data_types).
+If you want to view all CSS units, visit the [MDN CSS values and units page](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units#numeric_data_types).
 
 {% hint style="info" %}
 Some users who find it difficult to read small text will use the browser zoom to increase the content size. Since absolute units do not increase in size with browser zoom, we should use relative units whenever possible. Therefore, we should **prefer** using `rem` and `%`, and **avoid** using `px`.

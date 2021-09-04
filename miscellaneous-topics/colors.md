@@ -2,7 +2,7 @@
 
 Computer monitors are made up of thousands of tiny squares called pixels. Each pixel can be a different color. The color of each pixel is a mixture of the amounts of red, green and blue.
 
-We're going to cover the three most common ways to specify colors in CSS: 
+We're going to cover the three most common ways to specify colors in CSS:
 
 * named colors
 * hex codes

@@ -31,15 +31,15 @@ When you type in an URL into your web browser, the browser makes an HTTP GET req
 
 ![](../.gitbook/assets/image%20%28124%29.png)
 
-The web server responds with the contents of the default HTML document for the site. 
+The web server responds with the contents of the default HTML document for the site.
 
 ### CSS File - Request Response
 
-Look at the line highlighted in red in the previous screen capture. This is an HTML element that specifies the URL of a file containing the styles for the document. 
+Look at the line highlighted in red in the previous screen capture. This is an HTML element that specifies the URL of a file containing the styles for the document.
 
-When the web browser reads the returned HTML document, and encounters this element, it will make an additional request to the web server for the stylesheet file and get backs the contents of that file in the response. 
+When the web browser reads the returned HTML document, and encounters this element, it will make an additional request to the web server for the stylesheet file and get backs the contents of that file in the response.
 
-That content will be used by the web browser to apply the specified styles to the HTML document. 
+That content will be used by the web browser to apply the specified styles to the HTML document.
 
 ![](../.gitbook/assets/image%20%28158%29.png)
 

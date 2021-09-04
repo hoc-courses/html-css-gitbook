@@ -48,7 +48,7 @@ The paragraph element is meant to display some descriptive text or a paragraph. 
 
 Lists will be familiar to you, as you've probably created them in Word or Google Docs. There are two options: ordered and unordered. Each type of list requires the use of the container element to specific what type of list, and the inner elements for each list item.
 
-The `ul` element is for an unordered list. The `ol` element is used for an ordered list. 
+The `ul` element is for an unordered list. The `ol` element is used for an ordered list.
 
 ```markup
 <ul>

@@ -45,15 +45,13 @@ Hides the element from view. The element is still there, but not visible to the 
 
 ![](../../.gitbook/assets/image%20%2898%29.png)
 
-
-
 ### Inline Elements on Their Own Line
 
 To re-enforce the your understanding of how inline and block elements behave in relation to each other, here is one more example.
 
-The screen capture below shows how an `<img>` element, which we saw above is an inline element, behaves when it is positioned before, at the beginning and in the middle of a paragraph element. 
+The screen capture below shows how an `<img>` element, which we saw above is an inline element, behaves when it is positioned before, at the beginning and in the middle of a paragraph element.
 
-The difference is not due to the `img` element, but rather that the fact that the `p` element is a block element and a block element always starts on a new line. 
+The difference is not due to the `img` element, but rather that the fact that the `p` element is a block element and a block element always starts on a new line.
 
 **Example \#1**: the `img` element is following a`h4` element and before an `p` element \(both of which are block elements\), so it ends up being on its own line, since the block elements neighbors must be one their own lines.
 
@@ -82,7 +80,6 @@ The difference is not due to the `img` element, but rather that the fact that th
     laboris nisi ut aliquip ex ea commodo consequat. 
     Lorem ipsum dolor sit amet. 
 </p>
-    
 ```
 
 **Example \#3**: the `img` element is again embedded in the paragraph, and its neighboring elements are the text before and after it. Since they are all inline, the `img` element takes up the minimal amount of horizontal space in the text.

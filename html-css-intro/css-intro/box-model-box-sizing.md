@@ -16,9 +16,7 @@ When to use the margin vs. the padding property can be confusing. The way to thi
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 
-### 
-
-### Specifying Box-model Properties in CSS
+## Specifying Box-model Properties in CSS
 
 ```css
 .main-content {
@@ -60,9 +58,7 @@ Measurements are specified: top right bottom left \(like a clock\). You can set 
 }
 ```
 
-### 
-
-### CSS Box-sizing
+## CSS Box-sizing
 
 In CSS, by default, the width of the box is only the width of the content. To calculate the total width, we have to add the margin, border and padding. This can lead to unexpected results.
 
@@ -76,9 +72,7 @@ The setting is typically set on all elements.
 }
 ```
 
-### 
-
-### Resources
+## Resources
 
 {% embed url="https://codepen.io/annechinn/full/dyNeLpQ" caption="" %}
 
