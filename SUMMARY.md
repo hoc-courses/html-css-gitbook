@@ -62,6 +62,7 @@
 * [Software Installation](appendix/software-installation.md)
 * [Terminal/CLI](appendix/terminal-cli.md)
 * [Git/GitHub](appendix/git-github/README.md)
+  * [VS Code Intro](appendix/git-github/vs-code-intro.md)
   * [Cloning from an Existing GitHub Repo](appendix/git-github/cloning-from-an-existing-github-repo.md)
   * [Git Commands](appendix/git-github/git-commands.md)
   * [GitHub Classroom Intro](appendix/git-github/github-classroom-intro.md)
