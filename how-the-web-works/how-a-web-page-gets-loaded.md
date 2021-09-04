@@ -25,7 +25,7 @@ Step 5-6: The web browser reads through and and parses the HTML text file line-b
 
 The image below shows the Request and Response taken from the Chrome Developer Tools when inspecting the Network traffic after the URL **csszengarden.com** is entered into the search input box of the browser.
 
-### Default HTML Page - Request/Response
+### Default HTML Page - HTTP GET Request/Response
 
 When you type in an URL into your web browser, the browser makes an HTTP GET request to the web server, supplying the requested URL.
 
