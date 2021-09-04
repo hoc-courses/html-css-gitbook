@@ -1,5 +1,12 @@
 # Week 2: Saturday 9/4
 
+### Install Correct Markdown Viewer
+
+* uninstall Markdown Preview Enhanced
+* install Markdown Preview GitHub Styled
+
+### Intro to HTML
+
 ### Assignment: HTML Basic Elements
 
 * Click on this link to start your assignment: [https://classroom.github.com/a/6KL1Ink\_](https://classroom.github.com/a/6KL1Ink_)

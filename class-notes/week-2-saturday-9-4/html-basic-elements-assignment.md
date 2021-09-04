@@ -22,7 +22,7 @@ Boilerplate Code refers to sections of code that are often re-used, with little 
 
 If you just add a "!" character and then the "Tab" key, the following HTML will be automatically added to your file.
 
-```text
+```markup
 <!DOCTYPE html>
 <html lang="en">
 <head>
