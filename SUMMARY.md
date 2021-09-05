@@ -5,6 +5,7 @@
 ## Class Notes
 
 * [Week 2: Saturday 9/4](class-notes/week-2-saturday-9-4.md)
+* [Week 3: Tuesday 9/7](class-notes/week-3-tuesday-9-7.md)
 
 ## How the Web Works
 
@@ -17,13 +18,13 @@
 * [HTML](html-css-intro/html-intro/README.md)
   * [Boilerplate HTML](html-css-intro/html-intro/untitled.md)
   * [HTML Hierarchy](html-css-intro/html-intro/html-hierarchy.md)
+  * [Semantic Elements](html-css-intro/html-intro/semantic-elements.md)
   * [Meta Section](html-css-intro/html-intro/meta-section.md)
   * [Text-formatting Elements](html-css-intro/html-intro/text-formatting-elemetns.md)
   * [Image](html-css-intro/html-intro/images.md)
   * [Video](html-css-intro/html-intro/video.md)
   * [Anchor](html-css-intro/html-intro/links.md)
   * [Tables](html-css-intro/html-intro/tables.md)
-  * [Semantic Elements](html-css-intro/html-intro/semantic-elements.md)
 * [CSS](html-css-intro/css-intro/README.md)
   * [Properties](html-css-intro/css-intro/properties.md)
   * [Selectors](html-css-intro/css-intro/selectors.md)
