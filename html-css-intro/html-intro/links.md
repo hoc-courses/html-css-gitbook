@@ -1,15 +1,21 @@
 # Anchor
 
+## Anchor Element - &lt;a&gt;
+
 The anchor element is primarily used for hyper-links, usually referred to as links, to other HTML documents. There are different types of document hyper-links.
+
+### Attributes
 
 | Attribute | Description |
 | :--- | :--- |
 |  | A link within or between documents |
-| href | The value of the href attribute can be the URL of another page within the site, or a remote site. Or it can be the id of an element within the current page. |
-| target | The value of "\_blank" opens the linked to page in a new window. |
-| title | The browser may show this as a tooltip when the user hovers over the link. |
+| **href** | The value of the href attribute can be the URL of another page within the site, or a remote site. Or it can be the id of an element within the current page. |
+| **target** | The value of "\_blank" opens the linked to page in a new window. |
+| **title** | The browser may show this as a tooltip when the user hovers over the link. |
 
-\*\*\*\*
+### \*\*\*\*
+
+### **Different Types of Anchors**
 
 **External Pages \(Absolute URL\):** The URL assigned to the `href` attribute is an absolute URL, or the entire path to the remote resource. These are used to navigate to an external site.
 

@@ -1,6 +1,10 @@
 # Semantic Elements
 
-In addition to the individual HTML elements that display content, such as `<p>`, `<h1>`, etc., there are HTML elements that are used to describe the content contained within a larger section of HTML elements. These elements are called semantic elements, because they give meaning to group of descendant elements contained within them.
+Semantics, put simply, is the study of meanings. In web design, a semantic element is an element that has intrinsic meaning, and conveys that meaning to both the browser and the developer.
+
+For example, `<div>` and `<span>` , which are two elements that are used purely for styling purposes, are non-semantic elements. They tell us nothing about their contents. But &lt;form&gt;, &lt;table&gt;, and &lt;article&gt; _are_ semantic elements: They clearly define their content.
+
+To enrich the semantic content of documents, HTML5 introduced several new semantic elements.
 
 Some of the most important semantic elements are those that allow us to divide our page into sections.
 
@@ -13,17 +17,12 @@ The image above shows a common layout of a web page. We can use specific HTML el
 * We can use a `<main>` tag for the main content of the page
 * Sidebar content can go in an `<aside>` tag
 * If there is a list of links, such as in the `<header>`, they can go in a `<nav>` tag
+* Additionally, we can use `<article>` and `<section>` to divide these sections into more sections.
 
-Additionally, we can use `<article>` and `<section>` to divide these sections into more sections.
-
-{% hint style="info" %}
-Use these sectioning HTML elements in every website you build. This lets screen reader users jump to these sections of the website quickly.
-{% endhint %}
-
-Below is the code we saw earlier when we were demonstrating the hierarchical nature of HTML. This code also demonstrates the use of semantic elements. Semantic elements often do not contain text themselves, but just wrap other elements to separate the page into semantic sections.
+The code below demonstrates the use of semantic elements. Semantic elements often do not contain text themselves, but just wrap other elements to separate the page into semantic sections.
 
 {% hint style="success" %}
-Check for understanding: What are the semantic elements, without their own text content, in the code below?
+**Check for understanding**: What are the semantic container elements in the code below?
 {% endhint %}
 
 ```markup
@@ -36,13 +35,15 @@ Check for understanding: What are the semantic elements, without their own text 
     </nav>
   </header>
   <main>
-    <img src="http://enes.in/f.png" />
-    <p>Ea commodo consequat duis autem vel eum iriure dolor in hendrerit.</p>
-    <p>Decima eodem modo typi qui nunc nobis videntur.</p>
-    <p>Tincidunt ut laoreet dolore magna, aliquam erat volutpat ut wisi enim ad minim.</p>
-    <p>Id quod mazim, placerat facer possim assum typi non!</p>
-    <p>Legere me lius quod ii, <a href="#">legunt saepius</a> claritas.</p>
-    <p>Gothica quam nunc putamus parum claram anteposuerit litterarum formas humanitatis per seacula.</p>
+    <article>
+      <img src="http://enes.in/f.png" />
+      <p>Ea commodo consequat duis autem vel eum iriure dolor in hendrerit.</p>
+      <p>Decima eodem modo typi qui nunc nobis videntur.</p>
+      <p>Tincidunt ut laoreet dolore magna, aliquam erat volutpat ut wisi enim ad minim.</p>
+      <p>Id quod mazim, placerat facer possim assum typi non!</p>
+      <p>Legere me lius quod ii, <a href="#">legunt saepius</a> claritas.</p>
+      <p>Gothica quam nunc putamus parum claram anteposuerit litterarum formas humanitatis per seacula.</p>
+     </article>
   </main>
   <footer>
     <ul>
@@ -55,8 +56,4 @@ Check for understanding: What are the semantic elements, without their own text 
   </footer>
 </div>
 ```
-
-The tree structure can be seen more easily below.
-
-![](../../.gitbook/assets/image%20%28287%29.png)
 

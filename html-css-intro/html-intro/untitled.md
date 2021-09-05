@@ -1,6 +1,8 @@
-# Boilerplate HTML
+# Standard HTML Document Structure
 
-**boilerplate code** refers to a section of code that is often re-used, with little to no modifications. Every time we create a new HTML file, we need to add some boilerplate code.
+### Minimum HTML Document Content
+
+Every HTML document must contain the following structure. 
 
 ```markup
 <!DOCTYPE html>
@@ -13,8 +15,6 @@
   </body>
 </html>
 ```
-
-## Elements in the HTML Boilerplate code.
 
 ### &lt;!DOCTYPE html&gt;
 

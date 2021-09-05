@@ -1,20 +1,6 @@
 # Week 3: Tuesday 9/7
 
-### Element Content
-
-* Which elements have content?
-* Which elements do not have content?
-* How can you tell the difference?
-* What elements have attributes? What are the attribute name/value?
-
-```markup
-<article>
-  <h1>Learning HTML</h1>
-  <p>Get to know the HTML basics.</p>
-  <a href="http://html5rocks.com">Read Article</a>
-  <img src="images/photo.jpg"/>
-</article>
-```
+### 
 
 ### Hierarchical Content
 

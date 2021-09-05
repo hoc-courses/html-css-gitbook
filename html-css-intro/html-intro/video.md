@@ -1,20 +1,22 @@
 # Video
 
-## Videos - &lt;video&gt;
+## Video Element - &lt;video&gt;
 
 {% hint style="info" %}
 The img element is not a self-closing element. You can supply text as the content of the video element, which will be display if the video does not display for some reason.
 {% endhint %}
 
+### Attributes
+
 | Attribute | Description |
 | :--- | :--- |
 |  | Embeds a video in the document |
-| src | The value of the src attribute can be a path to a local video or an URL to a remote video. |
-| alt | An alternative to identify the content of the video for screen readers. |
-| controls | whether the control panel is visible |
-| autoplay | whether it starts automatically |
-| muted | whether the audio is muted by default |
-| loop | whether the video plays in a loop |
+| **src** | The value of the src attribute can be a path to a local video or an URL to a remote video. |
+| **alt** | An alternative to identify the content of the video for screen readers. |
+| **controls** | whether the control panel is visible |
+| **autoplay** | whether it starts automatically |
+| **muted** | whether the audio is muted by default |
+| **loop** | whether the video plays in a loop |
 
 The video element also has a src attribute, which is used to specify the location of the video. There are a couple of additional attributes that need to be set to control the video. These are a special kind of attribute, called boolean attributes.
 

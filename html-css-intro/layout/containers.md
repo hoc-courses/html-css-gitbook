@@ -40,8 +40,6 @@ Now, instead of using a `<div>` element to organize the large chunks of content 
 Use these sectioning HTML elements in every website you build. This lets screen reader users jump to these sections of the website quickly.
 {% endhint %}
 
-Use these sectioning HTML elements in every website you build. This lets screen reader users jump to these sections of the website quickly.
-
 ## Revisit our Previous Layout
 
 Now we can take a closer look at what's in the HTML of the page we described above. You can see that there are semantic HTML elements surrounding each of the major sections of the page.
