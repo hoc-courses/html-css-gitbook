@@ -28,7 +28,9 @@ Markup elements can contain **attributes** \(name/value pairs\) **on the opening
 * The **content** is the part of the code in between the opening and closing tags
   * `Jelly Fish Facts` is the **content**
 
-#### Self-closing elements
+### 
+
+### Self-closing elements
 
 Some elements do not contain any content between the opening and closing tags. In this case, the element is called a **self-closing tag** and can be simplified by having just a single tag with the "/" symbol at the end.
 
@@ -49,6 +51,7 @@ For a full list of self-closing elements, see the [MDN Documentation](https://de
 * Which elements do not have content?
 * How can you tell the difference?
 * What elements have attributes?
+* Which element\(s\) are self-closing?
 {% endhint %}
 
 ```markup
