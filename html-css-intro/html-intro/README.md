@@ -1,20 +1,22 @@
 # HTML
 
-## HTML is a Markup-Language
+### What is a Markup-Language?
 
 A mark-up language is different than a programming language. It doesn't have any programming logic or code that is executed to perform some action. It just allows you to annotate the text in the document to provide extra meaning to the content. The browser uses the annotations to know how to display the page.
 
 > In computer text processing, a markup language is **a system for annotating a document in a way that is visually distinguishable from the content**. It is used only to format the text, so that when the document is processed for display, the markup language does not appear. The idea and terminology evolved from the "marking up" of paper manuscripts \(i.e., the revision instructions by editors\), which is traditionally written with a red pen or blue pencil on authors' manuscripts. - _Wikipedia_
 
-\_\_
+### HTML Element Syntax
+
+![](../../.gitbook/assets/image%20%283%29.png)
+
+#### HTML Elements
 
 HTML consists of **markup elements** \(opening and closing tags\) that **wrap content** to mark it for specific formatting.
 
-![](../../.gitbook/assets/image%20%28281%29.png)
+#### HTML Attributes
 
 Markup elements can contain **attributes** \(name/value pairs\) **on the opening tag** to specify additional information.
-
-![](../../.gitbook/assets/image%20%28262%29.png)
 
 ```markup
 <a href="https://jellyfish.html">Jelly Fish Facts</a>
@@ -31,38 +33,22 @@ Markup elements can contain **attributes** \(name/value pairs\) **on the opening
   * `Jelly Fish Facts` is the **content**
 
 {% hint style="success" %}
-**Test for Understanding**: Identify opening and closing tags, attribute name/values and content in the following HTML.
+**Test for Understanding**: In the code sample below:
+
+* Which elements have content?
+* Which elements do not have content?
+* How can you tell the difference?
+* What elements have attributes?
 {% endhint %}
 
 ```markup
-<h1>Meet the Jellies</h1>
-<ul>
-  <li>Orange Jelly</li>
-  <li>Pink Jelly</li>
-  <li>Yellow Jelly</li>
-</ul>
-
-<h2>Orange Jelly</h2>
-<img src="images/orange-jellyfish.jpg"/>
-<p>This jelly fish is orange</p>
-
-<h2>Pink Jelly</h2>
-<img src="images/pink-jellyfish.jpg"/>
-<p>This jelly fish is pink</p>
-
-<h2>Yellow Jelly</h2>
-<img src="images/yellow-jellyfish.jpg"/>
-<p>This jelly fish is yellow</p>
-
-<h3>More Resources</h3>
-<a href="https://jellyfish.html">
-  Jelly Fish Facts
-</a>
+<article>
+  <h1>Learning HTML</h1>
+  <p>Get to know the HTML basics.</p>
+  <a href="http://html5rocks.com">Read Article</a>
+  <img src="images/photo.jpg"/>
+</article>
 ```
-
-There are lots of different markup elements: too many to list here. The [text-formatting](text-formatting-elemetns.md), [image](images.md) and [hyper-links](links.md) \(anchors\) elements, many of which were used in the example above, are what you will use most frequently. Other common elements support including [videos](video.md), [forms](../../miscellaneous-topics/forms.md) and [tables ](tables.md)in your page.
-
-### Miscellaneous
 
 #### Self-closing elements
 
@@ -75,6 +61,23 @@ The image element is an example of a self-closing tag and can be written as foll
 ```
 
 For a full list of self-closing elements, see the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element).
+
+### Common HTML Elements
+
+There are lots of different markup elements: too many to list here. There's a small set that you will use very frequently and then some more obscure ones that you will use for specialized situations. The elements, and their attributes are not something that you need to memorize. You learn to use them as you need them and can always consult the online documentation.
+
+These are the most common:
+
+* [text-formatting](text-formatting-elemetns.md) \(headers, lists, emphasis, pull quotes, paragraph, etc.\)
+* [image](images.md)
+* [hyper-links](links.md) \(anchors\) 
+* [videos](video.md)
+* [forms](../../miscellaneous-topics/forms.md)
+* [tables](tables.md)
+
+### 
+
+### Miscellaneous
 
 #### Adding comments in HTML
 

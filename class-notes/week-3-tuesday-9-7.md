@@ -1,44 +1,5 @@
 # Week 3: Tuesday 9/7
 
-### HTML Document Boilerplate code
-
-Every HTML document must contain the following basic structure. 
-
-```markup
-<!DOCTYPE html>
-<html>
-  <head>
-    <!-- meta-data goes here -->
-  </head>
-  <body>
-    <!-- Content goes here -->
-  </body>
-</html>
-```
-
-```markup
-
-```
-
-### 
-
-### HTML Element Syntax
-
-![](../.gitbook/assets/image%20%283%29.png)
-
-### Common HTML Elements
-
-* text-formatting
-* anchors
-* images
-* video
-* tables
-* semantic elements
-
-
-
-### 
-
 ### Element Content
 
 * Which elements have content?
