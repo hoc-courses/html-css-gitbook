@@ -17,6 +17,7 @@
 
 * [HTML](html-css-intro/html-intro/README.md)
   * [HTML Elements/Attributes](html-css-intro/html-intro/html-elements-attributes.md)
+  * [Common HTML Elements](html-css-intro/html-intro/common-html-elements.md)
   * [HTML Document Structure](html-css-intro/html-intro/untitled.md)
   * [Semantic Elements](html-css-intro/html-intro/semantic-elements.md)
   * [HTML Hierarchy](html-css-intro/html-intro/html-hierarchy.md)
@@ -26,6 +27,7 @@
   * [Video](html-css-intro/html-intro/video.md)
   * [Anchor](html-css-intro/html-intro/links.md)
   * [Tables](html-css-intro/html-intro/tables.md)
+  * [Miscellaneous](html-css-intro/html-intro/miscellaneous.md)
 * [CSS](html-css-intro/css-intro/README.md)
   * [Properties](html-css-intro/css-intro/properties.md)
   * [Selectors](html-css-intro/css-intro/selectors.md)
