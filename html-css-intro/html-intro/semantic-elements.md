@@ -1,6 +1,16 @@
 # Semantic Elements
 
-Semantics, put simply, is the study of meanings. In web design, a semantic element is an element that has intrinsic meaning, and conveys that meaning to both the browser and the developer.
+Semantics is the study of meanings. In web design, a semantic element is an element that has intrinsic meaning, and conveys that meaning to both the browser and the developer.
+
+Most HTML elements convey their meaning, such as a `<p>` for a paragraph or `<h1>` for a header. But there are two elements that were introduced early on to allow web developers to apply styling to HTML elements, `<div>` and `<span>`, that are not semantic elements.
+
+The &lt;div&gt; element allowed web developers to wrap a group of HTML elements in the document and then apply styles to that sub-section of the HTML document tree. The &lt;span&gt; element allowed web developers to wrap some text to apply a style to a region of text.
+
+The `<div>` and `<span>` were a new kind of element, because they were the first to not display and content themselves. Their sole purpose is to select a sub-section of the HTML element hierarchy to apply styles to.
+
+The `<div>` element, in combination with a style, allowed web developers to specify styles for specific sub-sections of the page.
+
+
 
 For example, `<div>` and `<span>` , which are two elements that are used purely for styling purposes, are non-semantic elements. They tell us nothing about their contents. But &lt;form&gt;, &lt;table&gt;, and &lt;article&gt; _are_ semantic elements: They clearly define their content.
 

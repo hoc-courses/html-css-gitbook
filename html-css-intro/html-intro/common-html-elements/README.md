@@ -8,6 +8,6 @@ These are the most common:
 * [image](images.md)
 * [hyper-links](links.md) \(anchors\) 
 * [videos](video.md)
-* [forms](../../miscellaneous-topics/forms.md)
+* [forms](forms.md)
 * [tables](tables.md)
 
