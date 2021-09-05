@@ -16,7 +16,7 @@
 ## HTML/CSS intro
 
 * [HTML](html-css-intro/html-intro/README.md)
-  * [Standard HTML Document Structure](html-css-intro/html-intro/untitled.md)
+  * [HTML Document Structure](html-css-intro/html-intro/untitled.md)
   * [Semantic Elements](html-css-intro/html-intro/semantic-elements.md)
   * [HTML Hierarchy](html-css-intro/html-intro/html-hierarchy.md)
   * [Meta Section](html-css-intro/html-intro/meta-section.md)

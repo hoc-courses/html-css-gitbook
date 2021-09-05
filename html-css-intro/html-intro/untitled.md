@@ -1,6 +1,4 @@
-# Standard HTML Document Structure
-
-### Minimum HTML Document Content
+# HTML Document Structure
 
 Every HTML document must contain the following structure. 
 
