@@ -2,6 +2,16 @@
 
 ### Review HTML Topics
 
+{% page-ref page="../html-css-intro/html-intro/html-elements-attributes.md" %}
+
+{% page-ref page="../html-css-intro/html-intro/untitled.md" %}
+
+{% page-ref page="../html-css-intro/html-intro/common-html-elements/" %}
+
+{% page-ref page="../html-css-intro/html-intro/semantic-elements.md" %}
+
+{% page-ref page="../html-css-intro/html-intro/html-hierarchy.md" %}
+
 ### Introduce CSS Topics
 
 {% page-ref page="../html-css-intro/css-intro/css-stylesheet-rules.md" %}
@@ -19,6 +29,18 @@
 * [HTML Basic Element](https://github.com/hoc-demos/html-basic-elements-demo)
 * [CSS Basic Selectors](https://github.com/hoc-demos/css-basic-selectors)
 * [CSS Descendant](https://github.com/hoc-demos/css-descendant)
+
+### In-class Walkthrough: Super-hero CSS
+
+This in-class walkthrough will give us practice with some of the basic CSS properties.
+
+Here is a [link ](https://dazzling-bell-8e115e.netlify.app/)to the finished page.
+
+To start working on the walkthrough:
+
+* Click on this assignment link. [https://classroom.github.com/a/qEl4gBva](https://classroom.github.com/a/qEl4gBva)
+* Clone the repo to your local computer.
+* Instructions are in the README.md file in the root of the project directory.
 
 ### Project: Article Progression
 
