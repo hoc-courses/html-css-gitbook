@@ -4,7 +4,7 @@ There are lots of different markup elements: too many to list here. There's a sm
 
 These are the most common:
 
-* [text-formatting](text-formatting-elemetns.md) \(headers, lists, emphasis, pull quotes, paragraph, etc.\)
+* [text-formatting](text-formatting-elemetns.md) \(headings, ordered/unordered lists, emphasizing text, pull quotes, paragraph, etc.\)
 * [image](images.md)
 * [hyper-links](links.md) \(anchors\) 
 * [videos](video.md)

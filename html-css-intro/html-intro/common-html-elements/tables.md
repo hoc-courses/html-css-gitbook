@@ -8,7 +8,7 @@ Historically, before the div element and grid/flex were introduced, web develope
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics" caption="" %}
 
-Here's an example of a table for the residents in a zoo. It has four columns, and a row for each type of animal.
+Here's an example of a table for the animals in a zoo. It has four columns, and a row for each type of animal.
 
 ![](../../../.gitbook/assets/image%20%2846%29.png)
 

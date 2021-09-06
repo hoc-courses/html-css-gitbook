@@ -5,12 +5,14 @@ Every HTML document must contain the following structure.
 ```markup
 <!DOCTYPE html>
 <html>
+
   <head>
-    <title>My web page</title>
+    <title></title>
   </head>
 
   <body>
   </body>
+  
 </html>
 ```
 
@@ -28,8 +30,8 @@ The elements in this section provide general information about your web page and
 
 There are a few child elements in this section that you need to know about early on.
 
-* `<title>`: used to set what is displayed on the browser's title bar.
-* `<link>`: use to download stylesheets, custom fonts.
+* **`<title>`**: used to set what is displayed on the browser's title bar.
+* **`<link>`**: use to include external stylesheets or custom fonts.
 
 ## &lt;body&gt;
 

@@ -3,7 +3,7 @@
 HTML tags are arranged in a hierarchy. This is sometimes called **nesting** tags or creating an HTML **tree**. Between the opening `<header>` tag and the closing `</header>` tag there are two other tags. We call these **child** tags, because they have a parent-child relationship.
 
 ```markup
-<div>
+<body>
   <header>
     <h1>Title</h1>
     <nav>
@@ -29,7 +29,7 @@ HTML tags are arranged in a hierarchy. This is sometimes called **nesting** tags
       <li><a href="#">Trek</a></li>
     </ul>
   </footer>
-</div>
+</body>
 ```
 
 The tree structure can be seen more easily below.

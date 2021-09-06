@@ -1,26 +1,40 @@
 # Semantic Elements
 
-Semantics is the study of meanings. In web design, a semantic element is an element that has intrinsic meaning, and conveys that meaning to both the browser and the developer.
+In web design, a semantic element is an element that has intrinsic meaning, and conveys that meaning to both the browser and the developer.
 
-Most HTML elements convey their meaning, such as a `<p>` for a paragraph or `<h1>` for a header. But there are two elements that were introduced early on to allow web developers to apply styling to HTML elements, `<div>` and `<span>`, that are not semantic elements.
+Most HTML elements convey their meaning: such as a `<p>` for a paragraph or an `<h1>` for a header.  But there are two elements that were introduced early on to allow web developers to group a  section of HTML elements together for the purposes of applying styling: the &lt;div&gt; and &lt;span&gt; elements. These became very popular, but they are not semantic elements and make the HTML less readable for both developers and users viewing the site that rely on assistive technologies.
 
-The &lt;div&gt; element allowed web developers to wrap a group of HTML elements in the document and then apply styles to that sub-section of the HTML document tree. The &lt;span&gt; element allowed web developers to wrap some text to apply a style to a region of text.
+The `<div>` and `<span>` were a new kind of element, because they were the first to not display and content themselves. Their sole purpose is to group a sub-section of the HTML element hierarchy to apply styles to.
 
-The `<div>` and `<span>` were a new kind of element, because they were the first to not display and content themselves. Their sole purpose is to select a sub-section of the HTML element hierarchy to apply styles to.
+Below is a worst-case scenario that contains nothing but `<div>` elements, that is non-the-less legal HTML. As you can see, it requires more thought, even for the web developer, to gather at a glance what the content is and how it is organized.
 
-The `<div>` element, in combination with a style, allowed web developers to specify styles for specific sub-sections of the page.
+```markup
+<div>Pancake recipe</div>
+<div>A quick and easy recipe to make pancakes!</div>
+<div>Ingredients</div>
+<div>
+  <div>175g flour</div>
+  <div>3 eggs</div>
+  <div>450ml milk</div>
+  <div>Sunflower oil</div>
+</div>
+<div>Method</div>
+<div>
+  <div>Add the flour, eggs, and milk to a bowl</div>
+  <div>Whisk the mixture and set it aside for half an hour</div>
+  <div>Heat a pan and add some sunflower oil</div>
+  <div>Add some of the mix to the pan and cook for a few minutes</div>
+  <div>Flip and cook the other side until done, then serve</div>
+</div>
+```
 
-
-
-For example, `<div>` and `<span>` , which are two elements that are used purely for styling purposes, are non-semantic elements. They tell us nothing about their contents. But &lt;form&gt;, &lt;table&gt;, and &lt;article&gt; _are_ semantic elements: They clearly define their content.
-
-To enrich the semantic content of documents, HTML5 introduced several new semantic elements.
+The latest version of HTML, HTML5, introduced several new semantic elements to provide alternatives to using the &lt;div&gt; element.
 
 Some of the most important semantic elements are those that allow us to divide our page into sections.
 
 ![](https://syllabus.codeyourfuture.io/c4fbd24f5cbf819fd867bd5b4785e795.png)
 
-The image above shows a common layout of a web page. We can use specific HTML elements for each of these sections.
+The image above shows a common layout of a web page. We can use specific semantic HTML elements for each of these sections.
 
 * We can use a `<header>` tag for the header content
 * We can use a `<footer>` tag for the footer content
@@ -30,10 +44,6 @@ The image above shows a common layout of a web page. We can use specific HTML el
 * Additionally, we can use `<article>` and `<section>` to divide these sections into more sections.
 
 The code below demonstrates the use of semantic elements. Semantic elements often do not contain text themselves, but just wrap other elements to separate the page into semantic sections.
-
-{% hint style="success" %}
-**Check for understanding**: What are the semantic container elements in the code below?
-{% endhint %}
 
 ```markup
 <div>
@@ -64,6 +74,32 @@ The code below demonstrates the use of semantic elements. Semantic elements ofte
       <li><a href="#">Trek</a></li>
     </ul>
   </footer>
+</div>
+```
+
+### Migrating from &lt;div&gt; elements to semantic elements
+
+{% hint style="success" %}
+**Check for understanding**: Revisit the code we saw earlier that contained only &lt;div&gt; elements and this time use more appropriate semantic elements.
+{% endhint %}
+
+```markup
+<div>Pancake recipe</div>
+<div>A quick and easy recipe to make pancakes!</div>
+<div>Ingredients</div>
+<div>
+  <div>175g flour</div>
+  <div>3 eggs</div>
+  <div>450ml milk</div>
+  <div>Sunflower oil</div>
+</div>
+<div>Method</div>
+<div>
+  <div>Add the flour, eggs, and milk to a bowl</div>
+  <div>Whisk the mixture and set it aside for half an hour</div>
+  <div>Heat a pan and add some sunflower oil</div>
+  <div>Add some of the mix to the pan and cook for a few minutes</div>
+  <div>Flip and cook the other side until done, then serve</div>
 </div>
 ```
 

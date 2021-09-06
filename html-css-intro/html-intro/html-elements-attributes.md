@@ -2,7 +2,7 @@
 
 ### HTML Element Syntax
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 #### HTML Elements
 
@@ -62,14 +62,4 @@ For a full list of self-closing elements, see the [MDN Documentation](https://de
   <img src="images/photo.jpg"/>
 </article>
 ```
-
-#### 
-
-#### 
-
-### 
-
-### 
-
-### 
 
