@@ -46,7 +46,7 @@ The image above shows a common layout of a web page. We can use specific semanti
 The code below demonstrates the use of semantic elements. Semantic elements often do not contain text themselves, but just wrap other elements to separate the page into semantic sections.
 
 ```markup
-<div>
+<body>
   <header>
     <h1>Title</h1>
     <nav>
@@ -78,7 +78,7 @@ The code below demonstrates the use of semantic elements. Semantic elements ofte
       <li><a href="#">Trek</a></li>
     </ul>
   </footer>
-</div>
+</body>
 ```
 
 ### Migrating from &lt;div&gt; elements to semantic elements
