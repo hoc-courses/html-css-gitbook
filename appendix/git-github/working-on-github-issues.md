@@ -20,3 +20,5 @@ Return to the Issue in the GitHub Issues Extension area on the Activities bar \(
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
+Here's a [link ](https://drive.google.com/file/d/15cbAGVNOH_bsg5Z-gpv50hGPWIkoYFHO/view?usp=sharing)to a video overviewing the process.
+

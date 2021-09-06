@@ -77,6 +77,7 @@
   * [VS Code Git Integration](appendix/git-github/vs-code-git-integration.md)
   * [GitHub Pull Requests/Issues Extension](appendix/git-github/github-pull-requests-issues-extension.md)
   * [Working on GitHub Issues](appendix/git-github/working-on-github-issues.md)
+  * [Git ACP Commands - VS Code Integration](appendix/git-github/git-acp-commands-vs-code-integration.md)
 
 ## Further Learning Resources <a id="further-learning-resources-1"></a>
 
