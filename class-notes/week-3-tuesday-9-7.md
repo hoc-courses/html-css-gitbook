@@ -1,82 +1,8 @@
 # Week 3: Tuesday 9/7
 
-### 
+### Review HTML Topics
 
-### Hierarchical Content
-
-HTML tags are arranged in a hierarchy. This is sometimes called **nesting** tags or creating an HTML **tree**. 
-
-Between the opening `<header>` tag and the closing `</header>` tag there are two other tags. We call these **child** tags, because they have a parent-child relationship.
-
-```markup
-<div>
-  <header>
-    <h1>Title</h1>
-    <nav>
-      <a href="#">A link</a>
-      <a href="#">Another link</a>
-    </nav>
-  </header>
-  <main>
-    <img src="http://enes.in/f.png" />
-    <p>Ea commodo consequat duis autem vel eum iriure dolor in hendrerit.</p>
-    <p>Decima eodem modo typi qui nunc nobis videntur.</p>
-    <p>Tincidunt ut laoreet dolore magna, aliquam erat volutpat ut wisi enim ad minim.</p>
-    <p>Id quod mazim, placerat facer possim assum typi non!</p>
-    <p>Legere me lius quod ii, <a href="#">legunt saepius</a> claritas.</p>
-    <p>Gothica quam nunc putamus parum claram anteposuerit litterarum formas humanitatis per seacula.</p>
-  </main>
-  <footer>
-    <ul>
-      <li><a href="#">Foo</a></li>
-      <li><a href="#">Bar</a></li>
-      <li><a href="#">Bam</a></li>
-      <li><a href="#">Baz</a></li>
-      <li><a href="#">Trek</a></li>
-    </ul>
-  </footer>
-</div>
-```
-
-The tree structure can be seen more easily below.
-
-![](../.gitbook/assets/image%20%28287%29.png)
-
-* Name all of the parent/child elements
-
-```markup
-<article>
-  <h1>Learning HTML</h1>
-  <p>
-    <span>Author:</span>
-    <a href="http://codeyourfuture.io">Code Your Future</a>
-  </p>
-  <p>Get to know the HTML basics.</p>
-  <a href="http://html5rocks.com">Read Article</a>
-</article>
-```
-
-* What is wrong with the following HTML?
-
-```markup
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-      <meta charset="UTF-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>My First Article</title>
-       
-       <h1>Jellies From the Deep</h1>
-       <p>Written by Anne Chinn</p>
-       <p>Vel quam elementum dignissim enim.</p>
-    </head>
-    <body>
-    </body>
- </html>
-```
-
-### 
+### Introduce CSS Topics through Selectors
 
 ### Project: Article Progression
 

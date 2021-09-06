@@ -1,4 +1,4 @@
-# Box-Model
+# Box-Model Properties
 
 Every element on a page is displayed as a rectangular box. The box-model describes the box. Each box consists of the following:
 
@@ -12,7 +12,11 @@ Every element on a page is displayed as a rectangular box. The box-model describ
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-When to use the margin vs. the padding property can be confusing. The way to think about it is that the padding is specific to the element, whereas the margin is the space between elements. One important aspect of margins is that they collapse vertically to the largest margin between the adjacent boxes. When adding a new section to a part of the page, you don't want to have to think about what the adjacent element's margin is. You just want to think about how much margin you want to be between them
+When to use the margin vs. the padding property can be confusing. The way to think about it is that the padding is specific to the element, whereas the margin is the space between elements. 
+
+### Margins Collapse
+
+One important aspect of margins is that they collapse vertically to the largest margin between the adjacent boxes. When adding a new section to a part of the page, you don't want to have to think about what the adjacent element's margin is. You just want to think about how much margin you want to be between them.
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 

@@ -6,26 +6,18 @@ The list is quite long. They can be loosely categorized into styles that deal wi
 
 * text and font
 * colors and backgrounds 
-* margins, padding, and borders, and dimensions
+* margins, padding, and borders, and dimensions \(see [box-model properties](box-model-box-sizing.md) topic\)
 * display and positioning.
 
-![](../../.gitbook/assets/image%20%28226%29.png)
-
-![](../../.gitbook/assets/image%20%28215%29.png)
-
-![](../../.gitbook/assets/image%20%28240%29.png)
-
-![](../../.gitbook/assets/image%20%28276%29.png)
-
 Some of the styles, such as those for setting basic text and color properties, are very easy to learn. Some of the others require a deeper understanding of how elements are rendered on the screen.
+
+This [reference ](https://cssreference.io/)is a very good guide. It provides a nice explanation, and visual example, for each property. There are a few more CSS cheat sheets in the Appendix section.
+
+These topics go into more detail on some of the bigger styling concepts.
 
 {% page-ref page="../../miscellaneous-topics/typography.md" %}
 
 {% page-ref page="../../miscellaneous-topics/colors.md" %}
 
 {% page-ref page="box-model-box-sizing.md" %}
-
-For a complete list, visit the website below.
-
-{% embed url="https://htmldog.com/references/css/properties/" caption="" %}
 

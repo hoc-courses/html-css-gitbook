@@ -8,7 +8,3 @@ HTML is used to give structure to the page content. CSS was introduced to allow 
 
 With CSS, we can use a stylesheet language to specify which styling properties we want to change for specific HTML elements.
 
-### 
-
-### 
-
