@@ -6,6 +6,7 @@
 
 * [Week 2: Saturday 9/4](class-notes/week-2-saturday-9-4.md)
 * [Week 3: Tuesday 9/7](class-notes/week-3-tuesday-9-7.md)
+* [Week 3: Thursday 9/9](class-notes/week-3-thursday-9-9.md)
 
 ## How the Web Works
 
