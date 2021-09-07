@@ -56,7 +56,11 @@ You can start working on progression \#1.
 
 ### Git Commands Using VS Code Integration
 
-You can perform the equivalent of the ACP \(add, commit, push\) command line commands through VS Code UI. I've created a [video ](../appendix/git-github/vs-code-git-integration.md)that goes over this. 
+You can perform the equivalent of the ACP \(add, commit, push\) command line commands through VS Code UI. I've created a [video ](../appendix/git-github/git-acp-commands-vs-code-integration.md)that goes over this. 
+
+### GitHub Issues for Assignment Feedback
+
+I'm going to use GitHub Issues to communicate feedback/bugs for your assignments. See this [topic ](../appendix/git-github/github-pull-requests-issues-extension.md)for a video on how to use these.
 
 
 
