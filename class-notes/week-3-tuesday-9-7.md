@@ -54,3 +54,9 @@ You can start working on progression \#1.
 * Clone the GitHub assignment repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
+### Git Commands Using VS Code Integration
+
+You can perform the equivalent of the ACP \(add, commit, push\) command line commands through VS Code UI. I've created a [video ](../appendix/git-github/vs-code-git-integration.md)that goes over this. 
+
+
+
