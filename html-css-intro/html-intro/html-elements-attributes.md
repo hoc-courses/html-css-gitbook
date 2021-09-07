@@ -37,7 +37,7 @@ Some elements do not contain any content between the opening and closing tags. I
 The image element is an example of a self-closing tag and can be written as follows.
 
 ```markup
-<img src="logo.jpg"/>
+<img src="logo.jpg" alt="logo"/>
 ```
 
 For a full list of self-closing elements, see the [MDN Documentation](https://developer.mozilla.org/en-US/docs/Glossary/Empty_element).

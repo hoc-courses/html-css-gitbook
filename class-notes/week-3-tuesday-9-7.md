@@ -42,6 +42,10 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
+### Extra Walkthrough: Orange & Black
+
+* Assignment link: [https://classroom.github.com/a/jNSEBKP-](https://classroom.github.com/a/jNSEBKP-)
+
 ### Project: Article Progression
 
 This is an assignment that has four parts. You'll work on it both in and outside of class over the next week and a half. You'll work on new features as you learn them. 
