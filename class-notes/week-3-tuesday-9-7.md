@@ -42,7 +42,7 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-### Extra Walkthrough: Orange & Black
+### Extra Practice: Orange & Black
 
 * Assignment link: [https://classroom.github.com/a/jNSEBKP-](https://classroom.github.com/a/jNSEBKP-)
 
