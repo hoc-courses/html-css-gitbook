@@ -1,5 +1,15 @@
 # Week 3: Thursday 9/9
 
+### Review Well-styled Sites
+
+* [www.dynamit.us](https://www.dynamit.us/)
+
+### Review Article Progression Project
+
+Here is the assignment link: [https://classroom.github.com/a/pc8Gqynb](https://classroom.github.com/a/pc8Gqynb)
+
+* [Emmet ](https://dev.to/raaynaldo/speed-up-code-your-html-using-emmet-in-vscode-nesting-operators-201o)
+
 ### Continue CSS Topics
 
 {% page-ref page="../html-css-intro/css-intro/block-vs-inline.md" %}
