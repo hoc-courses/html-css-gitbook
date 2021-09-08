@@ -66,5 +66,3 @@ You can perform the equivalent of the ACP \(add, commit, push\) command line com
 
 I'm going to use GitHub Issues to communicate feedback/bugs for your assignments. See this [topic ](../appendix/git-github/github-pull-requests-issues-extension.md)for a video on how to use these.
 
-
-
