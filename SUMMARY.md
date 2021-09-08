@@ -53,6 +53,7 @@
 * [Custom Properties](miscellaneous-topics/custom-properties.md)
 * [Typography](miscellaneous-topics/typography.md)
 * [Units](miscellaneous-topics/units.md)
+* [Page Icon](miscellaneous-topics/page-icon.md)
 
 ## Appendix
 
