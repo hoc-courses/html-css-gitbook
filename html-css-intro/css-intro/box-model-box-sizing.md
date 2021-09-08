@@ -76,6 +76,8 @@ The setting is typically set on all elements.
 }
 ```
 
+Here's is a useful [article ](https://css-tricks.com/international-box-sizing-awareness-day/)on this topic.
+
 ## Resources
 
 {% embed url="https://codepen.io/annechinn/full/dyNeLpQ" caption="" %}
