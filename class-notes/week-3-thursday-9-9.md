@@ -7,7 +7,7 @@
 
 ### Review Article Progression Project
 
-Here is the assignment link: [https://classroom.github.com/a/pc8Gqynb](https://classroom.github.com/a/pc8Gqynb)
+Here is the assignment link: [https://classroom.github.com/a/SBsDzsXI](https://classroom.github.com/a/SBsDzsXI)
 
 * [Emmet ](https://dev.to/raaynaldo/speed-up-code-your-html-using-emmet-in-vscode-nesting-operators-201o)
 
