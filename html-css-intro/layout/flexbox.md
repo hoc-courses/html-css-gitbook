@@ -88,6 +88,20 @@ ul {
 
 * **flex-shrink** - how much the flex item will shrink in relation to other items when negative free space is distributed.
 
+### Flex-grow
+
+This content is based on the following article.
+
+{% embed url="https://css-tricks.com/flex-grow-is-weird/" %}
+
+The concept is much easier to understand if we visualize it.
+
+First we set the `display` property of our parent element to `flex` and by doing that our child elements become flex items and are positioned horizontally next to each other.![](https://i2.wp.com/css-tricks.com/wp-content/uploads/2015/12/step1.jpg)
+
+Next we decide how many shares of the extra space each element receives. In our previous example the first element receives 2/3 of the remaining space \(`flex-grow: 2`\) and the second element 1/3 \(`flex-grow: 1`\). By knowing how many flex-grow values we have in total, we know by which number to divide the remaining space.![](https://i1.wp.com/css-tricks.com/wp-content/uploads/2015/12/step2.jpg)
+
+Finally we have the number of distributable pieces. Each element receives the appropriate number of pieces based on its `flex-grow` value.![](https://i1.wp.com/css-tricks.com/wp-content/uploads/2015/12/step3.jpg)
+
 ## Resources
 
 {% embed url="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" caption="" %}
