@@ -12,5 +12,5 @@ A typical workflow for working on an issue is to create a new branch to work on 
   * File =&gt; Preferences =&gt; Settings
 * Toggle the GitHub Issues: Use Branch for Issues: NO
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
