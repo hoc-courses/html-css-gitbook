@@ -34,7 +34,7 @@ Here is what the page should look like:
 
 To start working on the walkthrough:
 
-* Click on this assignment link. [https://classroom.github.com/a/qEl4gBva](https://classroom.github.com/a/ulLQnCPV)
+* Click on this assignment link. [https://classroom.github.com/a/qEl4gBva](https://classroom.github.com/a/SBsDzsXI)
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
