@@ -9,8 +9,6 @@
 * [flex-nav](https://github.com/hoc-demos/flex-nav)
 * [grid-vs-flex](https://github.com/hoc-demos/grid-vs-flex)
 
-
-
 ### In-class Walkthrough: Basic Flex-Grid
 
 This in-class walkthrough will give us practice with flex and grid CSS.
@@ -31,5 +29,15 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
+### Homework Challenge
 
+This exercise uses [grid](https://app.gitbook.com/@chnn-anne/s/html-css-fall-2021/~/drafts/-MjBvQ8xyNb7fAEDiaeJ/html-css-intro/layout/grid), [centering content](https://app.gitbook.com/@chnn-anne/s/html-css-fall-2021/~/drafts/-MjBvQ8xyNb7fAEDiaeJ/miscellaneous-topics/centering-elements), [background-image](https://app.gitbook.com/@chnn-anne/s/html-css-fall-2021/~/drafts/-MjBvQ8xyNb7fAEDiaeJ/miscellaneous-topics/background-image), and [box-shadow](https://app.gitbook.com/@chnn-anne/s/html-css-fall-2021/~/drafts/-MjBvQ8xyNb7fAEDiaeJ/miscellaneous-topics/box-shadow).
+
+To start working on the walkthrough:
+
+* Click on this assignment link. [https://classroom.github.com/a/HolWvGTL](https://classroom.github.com/a/HolWvGTL)
+* Clone the repo to your local computer.
+* Instructions are in the README.md file in the root of the project directory.
+
+![](../.gitbook/assets/image%20%289%29.png)
 

@@ -30,7 +30,7 @@ This in-class walkthrough will give us practice with the box-model properties: m
 
 Here is what the page should look like:
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 To start working on the walkthrough:
 
@@ -44,7 +44,7 @@ This in-class walkthrough will give us practice with the CSS display property va
 
 Here's what the page should look like:
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 To start working on the walkthrough:
 

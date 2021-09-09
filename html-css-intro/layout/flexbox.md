@@ -58,11 +58,11 @@ ul {
 }
 ```
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 What we want is to have each list item flow horizontally across the screen as shown below.
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 To do this we must specify the html element that is the container of the elements we want to arrange. This would be the `<ul>` element that is the parent of each of the `<li>` elements.
 
