@@ -56,6 +56,7 @@
 * [Typography](miscellaneous-topics/typography.md)
 * [Units](miscellaneous-topics/units.md)
 * [Page Icon](miscellaneous-topics/page-icon.md)
+* [Global CSS Vars](miscellaneous-topics/global-css-vars.md)
 
 ## Appendix
 

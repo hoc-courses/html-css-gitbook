@@ -1,9 +1,10 @@
 # Week 4: Tuesday 9/14
 
-### Demos
+### Main Topic
 
-* [flex-nav](https://github.com/hoc-demos/flex-nav)
-* [grid-vs-flex](https://github.com/hoc-demos/grid-vs-flex)
+The topic for the next several classes is to learn about flex and grid layout properties. We'll start with an overview of the different use-cases for each, and then go deeper into each, starting with flex.
+
+* [Grid](../html-css-intro/layout/grid.md)
 
 ### In-class Walkthrough: Basic Flex-Grid
 
