@@ -16,21 +16,33 @@ To create a flex container, just set the display property to flex. All of its im
 
 ### Container properties
 
-* **flex-direction** - specifies flow of the flex items
+**flex-direction** - specifies flow of the flex items
 
 ![](../../.gitbook/assets/image%20%2874%29.png)
 
-* **flex-wrap** - specifies whether the flex items should wrap if necessary and how.
+![](../../.gitbook/assets/image%20%2822%29.png)
 
-![](../../.gitbook/assets/image%20%28139%29.png)
+\*\*\*\*![](../../.gitbook/assets/image%20%2837%29.png)\*\*\*\*
 
-* **justify-content** - aligns flex items along main axis of container distributing free space among the items. 
+**justify-content** - aligns flex items along main axis of container distributing free space among the items. 
 
 ![](../../.gitbook/assets/image%20%2851%29.png)
 
-* **align-items** - align flex items in the cross-axis direction.
+![](../../.gitbook/assets/image%20%2820%29.png)
+
+![](../../.gitbook/assets/image%20%2823%29.png)
+
+**flex-wrap** - specifies whether the flex items should wrap if necessary and how.
+
+![](../../.gitbook/assets/image%20%28139%29.png)
+
+**align-items** - align flex items in the cross-axis direction.
 
 ![](../../.gitbook/assets/image%20%28153%29.png)
+
+![](../../.gitbook/assets/image%20%2841%29.png)
+
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 ### Navigation Bar Example
 
@@ -74,7 +86,18 @@ ul {
 }
 ```
 
-### 
+### Using flex and center in both horizontal/vertical directions.
+
+On the container of the element\(s\) you want to be centered: set the value of the display property to be flex in the column direction, and then center the items in both the horizontal and vertical directions.
+
+```css
+body {
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+```
 
 ### Flex Item properties
 

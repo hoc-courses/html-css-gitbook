@@ -21,7 +21,7 @@ This technique works well when you know the width of the content to be centered.
 
 ## Using flex and center in both horizontal/vertical directions.
 
-Set the value of the display property to be flex in the column direction, and then center the items in both the horizontal and vertical directions.
+On the container of the element\(s\) you want to be centered: set the value of the display property to be flex in the column direction, and then center the items in both the horizontal and vertical directions.
 
 ```css
 body {
