@@ -6,7 +6,7 @@
 
 The topic for the next several classes is to learn about layout.
 
-* Centering Content
+* [Centering Content](../miscellaneous-topics/centering-elements.md)
 * [Container Elements](../html-css-intro/layout/containers.md)
 * [Grid vs Flex](../html-css-intro/layout/grid-vs-flexbox.md)
 * [Flex](../html-css-intro/layout/flexbox.md)
