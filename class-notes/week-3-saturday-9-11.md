@@ -6,12 +6,13 @@ The topic for the next several classes is to learn about flex and grid layout pr
 
 * [Container Elements](../html-css-intro/layout/containers.md)
 * [Grid vs Flex](../html-css-intro/layout/grid-vs-flexbox.md)
-* [Grid](../html-css-intro/layout/grid.md)
+* [Flex](../html-css-intro/layout/flexbox.md)
 
 ### Demos
 
 * [flex-nav](https://github.com/hoc-demos/flex-nav)
 * [grid-vs-flex](https://github.com/hoc-demos/grid-vs-flex)
+* [grid-template-areas](https://github.com/hoc-demos/grid-template-areas)
 
 ### In-class Walkthrough: fm-3-column-preview-card
 
