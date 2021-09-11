@@ -19,7 +19,7 @@ The topic for the next several classes is to learn about layout.
 
 ### In-class Walkthrough: flex-basics
 
-This in-class walkthrough will give us some practice following a design specification and an introduction to hero content and flex.
+This in-class walkthrough will give us some practice following a design specification and an introduction to containers, hero content and flex.
 
 To start working on the walkthrough:
 
