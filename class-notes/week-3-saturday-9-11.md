@@ -1,10 +1,8 @@
 # Week 3: Saturday 9/11
 
-### Main Topic
+### Main Topic: Layout
 
-### Layout
-
-The topic for the next several classes is to learn about layout.
+The topic for the next several classes is to learn about layout, including centering content and flex and grid to position sections of the content.
 
 * [Centering Content](../html-css-intro/layout/centering-elements.md)
 * [Container Elements](../html-css-intro/layout/containers.md)
