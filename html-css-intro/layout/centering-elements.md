@@ -13,7 +13,7 @@ This technique works well when you know the width of the content to be centered 
 
 ```css
   container {
-    margin: 0 30px;
+    margin: 0 auto;
     width:85%;
   }
 ```
