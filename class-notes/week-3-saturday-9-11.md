@@ -13,15 +13,23 @@ The topic for the next several classes is to learn about flex and grid layout pr
 * [flex-nav](https://github.com/hoc-demos/flex-nav)
 * [grid-vs-flex](https://github.com/hoc-demos/grid-vs-flex)
 
-### In-class Walkthrough: fm-3-column-preview-card
+### In-class Walkthrough: flex-basics
 
-This in-class walkthrough will give us more practice with flex and grid CSS.
+This in-class walkthrough will give us some practice following a design specification and an introduction to hero images and flex.
+
+To start working on the walkthrough:
+
+* Click on this assignment link: [https://classroom.github.com/a/0mhvGE24](https://classroom.github.com/a/0mhvGE24)
+* Clone the repo to your local computer.
+* Instructions are in the README.md file in the root of the project directory.
+
+### In-class Walkthrough/Homework: fm-3-column-preview-card
+
+This in-class walkthrough will give us more practice with design specs and flex.
 
 To start working on the walkthrough:
 
 * Click on this assignment link. [https://classroom.github.com/a/ao3Vu\_OG](https://classroom.github.com/a/FoKUSM52)
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
-
-
 
