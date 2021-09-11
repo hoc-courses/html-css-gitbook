@@ -35,3 +35,9 @@ body {
 }
 ```
 
+### Resources
+
+{% embed url="https://www.youtube.com/watch?v=33IinMVJf-M" %}
+
+
+

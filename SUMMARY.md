@@ -42,8 +42,9 @@
 * [Layout](html-css-intro/layout/README.md)
   * [Container Elements](html-css-intro/layout/containers.md)
   * [Grid vs Flexbox](html-css-intro/layout/grid-vs-flexbox.md)
-  * [Flexbox](html-css-intro/layout/flexbox.md)
   * [Grid](html-css-intro/layout/grid.md)
+  * [Flexbox](html-css-intro/layout/flexbox.md)
+  * [Responsive Web Design](html-css-intro/layout/responsive-web-design.md)
 
 ## Miscellaneous Topics
 

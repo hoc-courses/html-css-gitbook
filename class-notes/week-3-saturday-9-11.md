@@ -6,7 +6,7 @@ The topic for the next several classes is to learn about flex and grid layout pr
 
 * [Container Elements](../html-css-intro/layout/containers.md)
 * [Grid vs Flex](../html-css-intro/layout/grid-vs-flexbox.md)
-* [Flex](../html-css-intro/layout/flexbox.md)
+* [Grid](../html-css-intro/layout/grid.md)
 
 ### Demos
 
