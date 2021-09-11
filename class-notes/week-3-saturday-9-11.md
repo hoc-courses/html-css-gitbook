@@ -2,14 +2,18 @@
 
 ### Main Topic
 
-The topic for the next several classes is to learn about flex and grid layout properties. We'll start with an overview of the different use-cases for each, and then go deeper into each, starting with flex.
+### Layout
 
+The topic for the next several classes is to learn about layout.
+
+* Centering Content
 * [Container Elements](../html-css-intro/layout/containers.md)
 * [Grid vs Flex](../html-css-intro/layout/grid-vs-flexbox.md)
 * [Flex](../html-css-intro/layout/flexbox.md)
 
 ### Demos
 
+* [centering-content](https://github.com/hoc-demos/css-centering-content)
 * [flex-nav](https://github.com/hoc-demos/flex-nav)
 * [grid-vs-flex](https://github.com/hoc-demos/grid-vs-flex)
 

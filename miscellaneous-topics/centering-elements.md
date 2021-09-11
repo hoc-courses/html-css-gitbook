@@ -6,7 +6,7 @@ You often want to center items on the page as a whole, or within a container ele
 
 ## Specific width with auto left and right margins
 
-This technique works well when you know the width of the content to be centered.
+This technique works well when you know the width of the content to be centered or you want it to take up a specific percentage of the screen.
 
 * set a width on the element
 * set the margin-left and margin-right to auto
@@ -16,6 +16,14 @@ This technique works well when you know the width of the content to be centered.
     margin-left:auto;
     margin-right:auto;
     width:300px;
+  }
+```
+
+```css
+body {
+    margin-left:auto;
+    margin-right:auto;
+    width:85%;
   }
 ```
 
