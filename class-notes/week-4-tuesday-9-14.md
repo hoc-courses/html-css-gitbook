@@ -14,7 +14,7 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 ### In-class Walkthrough: Four Square
 
@@ -26,5 +26,5 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 

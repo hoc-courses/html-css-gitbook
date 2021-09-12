@@ -20,17 +20,17 @@ To create a flex container, just set the display property to flex. All of its im
 
 ![](../../.gitbook/assets/image%20%2874%29.png)
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
-\*\*\*\*![](../../.gitbook/assets/image%20%2843%29.png)\*\*\*\*
+\*\*\*\*![](../../.gitbook/assets/image%20%2848%29.png)\*\*\*\*
 
 **justify-content** - aligns flex items along main axis of container distributing free space among the items. 
 
 ![](../../.gitbook/assets/image%20%2851%29.png)
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 **flex-wrap** - specifies whether the flex items should wrap if necessary and how.
 
@@ -40,9 +40,9 @@ To create a flex container, just set the display property to flex. All of its im
 
 ![](../../.gitbook/assets/image%20%28153%29.png)
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 ### Navigation Bar Example
 
@@ -70,11 +70,11 @@ ul {
 }
 ```
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 What we want is to have each list item flow horizontally across the screen as shown below.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 To do this we must specify the html element that is the container of the elements we want to arrange. This would be the `<ul>` element that is the parent of each of the `<li>` elements.
 

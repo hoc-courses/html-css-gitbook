@@ -40,5 +40,11 @@ That won’t be the case with absolute units like px, where you have to adjust e
 
 ## Resources
 
+{% embed url="https://youtu.be/\_-aDOAMmDHI" %}
+
+
+
 {% embed url="https://getflywheel.com/layout/choose-css-unit-create-better-site-layouts-how-to/" caption="" %}
+
+
 

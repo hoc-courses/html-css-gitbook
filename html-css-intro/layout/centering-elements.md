@@ -4,7 +4,7 @@ You often want to center items on the page as a whole, or within a container ele
 
 ### Specific width with auto left and right margins
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 This technique works well when you know the width of the content to be centered or you want it to take up a specific percentage of the screen.
 

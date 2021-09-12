@@ -4,7 +4,7 @@
 
 To see if you have any new issues, switch to the GitHub Issues Extension on the Activities bar on the left \(has the GitHub cat icon\) and click the refresh icon in the area outlined with "Controls appear here...". The controls only appear when you hover, so they don't appear in the screen capture.
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 ### View Issue in GitHub
 
@@ -18,7 +18,7 @@ Make any changes in your project using the standard procedure: editing files, AC
 
 Return to the Issue in the GitHub Issues Extension area on the Activities bar \(the GitHub cat icon\) and again click on the globe icon to bring up the issue in a browser window. Close the issue by clicking the Close Issue button at the bottom of the screen.
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 Here's a [link ](https://drive.google.com/file/d/15cbAGVNOH_bsg5Z-gpv50hGPWIkoYFHO/view?usp=sharing)to a video overviewing the process.
 
