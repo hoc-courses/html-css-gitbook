@@ -40,7 +40,7 @@ To create a flex container, just set the display property to flex. All of its im
 
 ![](../../.gitbook/assets/image%20%28153%29.png)
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 
