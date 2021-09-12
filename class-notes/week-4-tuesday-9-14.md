@@ -1,18 +1,18 @@
 # Week 4: Tuesday 9/14
 
-### Main Topic
+### Main Topic: Layout
 
-The topic for the next several classes is to learn about flex and grid layout properties. We'll start with an overview of the different use-cases for each, and then go deeper into each, starting with flex.
+Continuing with layout settings, including centering content, flex and grid.
 
-* [Grid](../html-css-intro/layout/grid.md)
 
-### In-class Walkthrough: Basic Flex-Grid
 
-This in-class walkthrough will give us practice with flex and grid CSS.
+### In-class Walkthrough: fm-single-price-grid
+
+This exercise uses [flex](../html-css-intro/layout/flexbox.md), [centering content](../html-css-intro/layout/centering-elements.md) and [box-shadow](../miscellaneous-topics/box-shadow.md).
 
 To start working on the walkthrough:
 
-* Click on this assignment link. [https://classroom.github.com/a/qEl4gBva](https://classroom.github.com/a/J9mbml02)
+* Click on this assignment link. [https://classroom.github.com/a/2P9QzZem](https://classroom.github.com/a/2P9QzZem)
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
