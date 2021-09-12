@@ -4,8 +4,6 @@
 
 Continuing with layout settings, including centering content, flex and grid.
 
-
-
 ### In-class Walkthrough: fm-single-price-grid
 
 This exercise uses [flex](../html-css-intro/layout/flexbox.md), [centering content](../html-css-intro/layout/centering-elements.md) and [box-shadow](../miscellaneous-topics/box-shadow.md).
@@ -15,6 +13,8 @@ To start working on the walkthrough:
 * Click on this assignment link. [https://classroom.github.com/a/2P9QzZem](https://classroom.github.com/a/2P9QzZem)
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
+
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ### In-class Walkthrough: Four Square
 
@@ -26,5 +26,5 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
