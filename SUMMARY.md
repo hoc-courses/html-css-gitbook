@@ -47,7 +47,7 @@
   * [Flexbox](html-css-intro/layout/flexbox.md)
   * [Responsive Web Design](html-css-intro/layout/responsive-web-design/README.md)
     * [Kevin Powell 21 Challenge](html-css-intro/layout/responsive-web-design/kevin-powell-21-challenge.md)
-    * [Day 1 - Use Percentages, Avoid Fixed Widths](html-css-intro/layout/responsive-web-design/day-1-use-percentages-avoid-fixed-widths.md)
+    * [Day 1 - Avoid Fixed Widths](html-css-intro/layout/responsive-web-design/day-1-use-percentages-avoid-fixed-widths.md)
 
 ## Miscellaneous Topics
 

@@ -1,6 +1,6 @@
-# Day 1 - Use Percentages, Avoid Fixed Widths
+# Day 1 - Avoid Fixed Widths
 
-Often see web developers set a fixed-width and a margin, but this forces the use of media queries to adjust the width to make the site responsive. 
+Often see web developers set a fixed-width and a margin, but causes side-scrolling to show up and forces the use of media queries to adjust the width to make the site responsive. 
 
 ```markup
   <div class="parent">
@@ -27,4 +27,10 @@ Often see web developers set a fixed-width and a margin, but this forces the use
 ```
 
 ![](../../../.gitbook/assets/image%20%2816%29.png)
+
+If we don't assign a width the layout becomes responsive. If there was text as the content, it would still be responsive.  
+
+A website is responsive by default. The default width on a block element is 100% of the parent element.
+
+### Takeaway: Use percentages instead of fixed-width for widths.
 
