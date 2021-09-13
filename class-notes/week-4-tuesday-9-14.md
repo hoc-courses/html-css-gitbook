@@ -35,6 +35,10 @@ Experiment with styles in dev tools to see how content changes with changing wid
 * add a red border around container element
 * toggle max-width
 
+#### Challenge 3 - New Flex Layout
+
+The starter code provides the upper section. Add the lower section.
+
 
 
 

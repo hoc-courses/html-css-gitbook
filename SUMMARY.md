@@ -50,6 +50,7 @@
     * [Avoid Fixed Widths/Heights](html-css-intro/layout/responsive-web-design/day-1-use-percentages-avoid-fixed-widths.md)
     * [Percentages/Margin Auto](html-css-intro/layout/responsive-web-design/percentages-margin-auto.md)
     * [max-width](html-css-intro/layout/responsive-web-design/max-width.md)
+    * [Flex Children](html-css-intro/layout/responsive-web-design/flex-children.md)
 
 ## Miscellaneous Topics
 
