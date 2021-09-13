@@ -37,7 +37,7 @@ Experiment with styles in dev tools to see how content changes with changing wid
 
 #### Challenge 3 - New Flex Layout
 
-The starter code provides the upper section. Add the lower section.
+This challenge provides practice with images as flex children and more flex containers.
 
 
 
