@@ -9,6 +9,7 @@
 * [Week 3: Thursday 9/9](class-notes/week-3-thursday-9-9.md)
 * [Week 3: Saturday 9/11](class-notes/week-3-saturday-9-11.md)
 * [Week 4: Tuesday 9/14](class-notes/week-4-tuesday-9-14.md)
+* [Week 4: Thursday 9/16](class-notes/week-4-thursday-9-16.md)
 
 ## How the Web Works
 
@@ -46,8 +47,9 @@
   * [Grid](html-css-intro/layout/grid.md)
   * [Flexbox](html-css-intro/layout/flexbox.md)
   * [Responsive Web Design](html-css-intro/layout/responsive-web-design/README.md)
-    * [Basic Principles](html-css-intro/layout/responsive-web-design/day-1-use-percentages-avoid-fixed-widths.md)
-    * [Avoid fixed-widths/heights](html-css-intro/layout/responsive-web-design/avoid-fixed-widths-heights.md)
+    * [Avoid Fixed Widths/Heights](html-css-intro/layout/responsive-web-design/day-1-use-percentages-avoid-fixed-widths.md)
+    * [Percentages/Margin Auto](html-css-intro/layout/responsive-web-design/percentages-margin-auto.md)
+    * [max-width](html-css-intro/layout/responsive-web-design/max-width.md)
 
 ## Miscellaneous Topics
 
@@ -60,7 +62,6 @@
 * [Units](miscellaneous-topics/units.md)
 * [Page Icon](miscellaneous-topics/page-icon.md)
 * [Global CSS Vars](miscellaneous-topics/global-css-vars.md)
-* [Typography Best-Practices](miscellaneous-topics/typography-best-practices.md)
 
 ## Appendix
 
