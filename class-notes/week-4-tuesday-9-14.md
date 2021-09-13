@@ -15,19 +15,27 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-#### Basic Principles
+#### Intro
 
-These are demonstrated in the intro folder within the assignment
+Demonstrates some basic principles for responsive design
 
 * avoid fixed widths/heights
 * use percentages and auto margins
+* use max-width to limit width of text for readability
+* percentages are relative to parent element
 
-#### Review Last Assignment
+#### Challenge 1 - Review Controlling Widths
+
+Review creating a container to control widths and using max-width to control width of content.
+
+#### Challenge 2 - Review Last Assignment
 
 Experiment with styles in dev tools to see how content changes with changing widths.
 
 * add a red border around container element
 * toggle max-width
+
+
 
 
 

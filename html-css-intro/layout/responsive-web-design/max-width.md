@@ -1,6 +1,6 @@
 # max-width
 
-This is typically referred to as the **measure** in typographic circles and typographers recommend that a paragraph have a width of around 75 characters for legibility reasons. Anything longer than that becomes difficult to read and causes unnecessary strain on the eyes because of the distance the eye has to travel left-to-right and back again.
+This is typically referred to as the **measure** in typographic circles and typographers recommend that a paragraph have a width of around 75 characters \(1 character ~ 8 pixels\) for legibility reasons. Anything longer than that becomes difficult to read and causes unnecessary strain on the eyes because of the distance the eye has to travel left-to-right and back again.
 
 It is best to set the max-width on a container element so that it can be applied across paragraphs.
 
