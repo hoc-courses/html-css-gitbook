@@ -22,7 +22,7 @@ To create a flex container, just set the display property to flex. All of its im
 
 ![](../../.gitbook/assets/image%20%2825%29.png)
 
-\*\*\*\*![](../../.gitbook/assets/image%20%2848%29.png)\*\*\*\*
+\*\*\*\*![](../../.gitbook/assets/image%20%2850%29.png)\*\*\*\*
 
 **justify-content** - aligns flex items along main axis of container distributing free space among the items. 
 
@@ -40,9 +40,9 @@ To create a flex container, just set the display property to flex. All of its im
 
 ![](../../.gitbook/assets/image%20%28153%29.png)
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 ### Navigation Bar Example
 
