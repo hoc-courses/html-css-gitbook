@@ -21,5 +21,12 @@ These are demonstrated in the intro folder within the assignment
 * avoid fixed widths/heights
 * use percentages and auto margins
 
+#### Review Last Assignment
+
+Experiment with styles in dev tools to see how content changes with changing widths.
+
+* add a red border around container element
+* toggle max-width
+
 
 
