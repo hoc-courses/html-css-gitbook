@@ -7,7 +7,7 @@
 
 ### In-class Walkthrough: responsive-layout
 
-This in-class walkthrough will give us some practice with the basic principles of responsive web design and flex box.
+This in-class walkthrough will give us some practice with the basic principles of responsive web design and flex box. It is based on the 21 day challenge - responsive web design course from Kevin Powell.
 
 To start working on the walkthrough:
 
@@ -51,9 +51,11 @@ Learn how to use media queries to make the section below the navigation bar resp
 
 Learn how to use media queries to make the navigation bar responsive.
 
+### Extra Challenge
+
 #### Challenge 7 - Full Responsive Site From Scratch
 
-* there is a corresponding [video](https://www.youtube.com/watch?v=zyNhxN6sToM)
+* there is a corresponding [video](https://www.youtube.com/watch?v=bn-DQCifeQQ)
 
 #### Challenge 8 - Another Full Responsive Site From Scratch
 
