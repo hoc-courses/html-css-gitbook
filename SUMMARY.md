@@ -51,6 +51,7 @@
     * [Percentages/Margin Auto](html-css-intro/layout/responsive-web-design/percentages-margin-auto.md)
     * [max-width](html-css-intro/layout/responsive-web-design/max-width.md)
     * [Flex Children](html-css-intro/layout/responsive-web-design/flex-children.md)
+    * [Media Queries](html-css-intro/layout/responsive-web-design/media-queries.md)
 
 ## Miscellaneous Topics
 
