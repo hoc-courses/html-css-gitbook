@@ -64,6 +64,7 @@
 * [Units](miscellaneous-topics/units.md)
 * [Page Icon](miscellaneous-topics/page-icon.md)
 * [Global CSS Vars](miscellaneous-topics/global-css-vars.md)
+* [Pseudo Elements](miscellaneous-topics/pseudo-elements.md)
 
 ## Appendix
 
