@@ -39,7 +39,21 @@ Experiment with styles in dev tools to see how content changes with changing wid
 
 This challenge provides practice with images as flex children and more flex containers.
 
+#### Challenge 4 - Navigation Bar
 
+Use flex to create a horizontal navigation bar. Also work with a logo that is positioned to the left of the flex navigation elements.
 
+#### Challenge 5 - Media Queries 1
 
+Learn how to use media queries to make the section below the navigation bar responsive.
+
+#### Challenge 6 - Media Queries 2
+
+Learn how to use media queries to make the navigation bar responsive.
+
+#### Challenge 7 - Full Responsive Site From Scratch
+
+* there is a corresponding [video](https://www.youtube.com/watch?v=zyNhxN6sToM)
+
+#### Challenge 8 - Another Full Responsive Site From Scratch
 
