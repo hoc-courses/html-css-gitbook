@@ -29,8 +29,6 @@ media-type can be values such as screen, print. If we leave out the media-type, 
 }
 ```
 
-See [demo](https://github.com/hoc-demos/media-queries)
-
 ### Break points
 
 What size should you use for your breakpoints? Some people try to target as many different devices as they can, but this isn't really very effective. 
@@ -38,4 +36,8 @@ What size should you use for your breakpoints? Some people try to target as many
 A better process is to determine when the layout starts to fail. Play with it in the dev tools and just decide when it needs to change the layout based on how it looks.
 
 Try to make as few breakpoints as possible to make your CSS more maintainable.
+
+### Resources
+
+{% embed url="https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/" %}
 
