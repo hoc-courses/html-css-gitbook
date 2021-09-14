@@ -78,6 +78,7 @@
 * [Browser Support for HTML/CSS](http://caniuse.com)
 * [unsplash.com \(free images\)](https://unsplash.com/)
 * [pexels.com \(free images\)](https://pexels.com/)
+* [Web Tips for Developers](https://www.youtube.com/watch?v=ykn4XNDwW7Q)
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
 * [Software Installation](appendix/software-installation.md)
 * [Terminal/CLI](appendix/terminal-cli.md)
