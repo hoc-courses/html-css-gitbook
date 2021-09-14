@@ -12,7 +12,7 @@ This in-class walkthrough will give us some practice with the basic principles o
 
 To start working on the walkthrough:
 
-* Click on this assignment link: [h](https://classroom.github.com/a/0mhvGE24)[ttps://classroom.github.com/a/0mhvGE24](https://classroom.github.com/a/jWzAwxxA)
+* Click on this assignment link: [https://classroom.github.com/a/0mhvGE24](https://classroom.github.com/a/jWzAwxxA)
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
