@@ -1,12 +1,14 @@
 # Git Commands
 
+![](../../.gitbook/assets/image%20%2857%29.png)
+
 ## Git Commands - Add, Commit, Push
 
 The following screen capture depicts the main git commands that are involved with working with a git repository without collaboration.
 
 The commands are separated into those operate on your local repository \(init, add, commit\) and the push command that updates the GitHub repository with your changes.
 
-[![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-9.png)](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-9.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-9.png)
 
 **git init** - this step occurred automatically when the GitHub repository was cloned to your local computer. It creates a private directory, named .git, that stores all the information for Git to track your repo. You only need to do this step when you [create a local repository first]().
 
