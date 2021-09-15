@@ -10,7 +10,7 @@ The commands are separated into those operate on your local repository \(init, a
 
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/assignments-intro-9.png)
 
-**git init** - this step occurred automatically when the GitHub repository was cloned to your local computer. It creates a private directory, named .git, that stores all the information for Git to track your repo. You only need to do this step when you [create a local repository first]().
+**git init** - this step occurred automatically when the GitHub repository was cloned to your local computer. It creates a private directory, named .git, that stores all the information for Git to track your repo. You only need to do this step when you create a local repository first.
 
 **git status** - returns a list of untracked \(new\) and modified files and tracked files \(files in the staging area ready for the next commit\).
 
