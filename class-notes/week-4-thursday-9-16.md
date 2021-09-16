@@ -3,6 +3,7 @@
 ### Review Challenge 1 and Challenge 2
 
 * show Jason's code
+* creating re-usable styles
 
 ### Walkthrough Upcoming Challenges
 
