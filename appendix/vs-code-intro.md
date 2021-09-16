@@ -44,4 +44,5 @@ This is useful when we start to build applications that communicate with servers
 * [VS Shortcuts](https://travis.media/10-vs-code-shortcuts-to-memorize-that-will-boost-your-productivity/)
 * [Emmet](https://dev.to/raaynaldo/speed-up-code-your-html-using-emmet-in-vscode-nesting-operators-201o)
 * [Emmet Cheat sheet](https://docs.emmet.io/cheat-sheet/)
+* [Kevin Powell Emmet](https://www.youtube.com/watch?v=EhRPdUv1ZrA)
 

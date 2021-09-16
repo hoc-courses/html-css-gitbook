@@ -1,8 +1,10 @@
 # Week 4: Thursday 9/16
 
-### VS Code Emmet
+### VS Code Productivity Tips
 
 {% embed url="https://www.youtube.com/watch?v=EhRPdUv1ZrA" %}
+
+{% embed url="https://travis.media/10-vs-code-shortcuts-to-memorize-that-will-boost-your-productivity/" %}
 
 
 
