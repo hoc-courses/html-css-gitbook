@@ -14,6 +14,7 @@
 
 * [Flexbox Froggy](https://flexboxfroggy.com/)
 * [Solutions](https://www.youtube.com/watch?v=wlxETvxOhxI)
+* [CodePen Example](https://codepen.io/enxaneta/pen/adLPwv)
 
 Continuing content from previous [class](week-4-tuesday-9-14.md).
 
