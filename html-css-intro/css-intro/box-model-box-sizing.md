@@ -82,3 +82,7 @@ Here's is a useful [article ](https://css-tricks.com/international-box-sizing-aw
 
 {% embed url="https://codepen.io/annechinn/full/dyNeLpQ" caption="" %}
 
+{% embed url="https://learn.shayhowe.com/html-css/opening-the-box-model/" %}
+
+
+
