@@ -2,6 +2,8 @@
 
 ### Main Topic: Layout
 
+{% page-ref page="../html-css-intro/layout/responsive-web-design/media-queries.md" %}
+
 Continuing with layout settings, including centering content and flex.
 
 ### In-class Walkthrough/Homework: fm-3-column-preview-card
