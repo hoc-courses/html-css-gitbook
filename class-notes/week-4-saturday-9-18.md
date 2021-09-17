@@ -4,7 +4,7 @@
 
 {% page-ref page="../html-css-intro/layout/responsive-web-design/media-queries.md" %}
 
-Continuing with layout settings, including centering content and flex.
+Continuing with layout using flexbox.
 
 ### In-class Walkthrough/Homework: fm-3-column-preview-card
 
@@ -15,6 +15,8 @@ To start working on the walkthrough:
 * Instructions are in the README.md file in the root of the project directory.
 
 ![](../.gitbook/assets/image%20%2866%29.png)
+
+### 
 
 ### In-class Walkthrough: fm-single-price-grid
 
@@ -27,4 +29,18 @@ To start working on the walkthrough:
 * Instructions are in the README.md file in the root of the project directory.
 
 ![](../.gitbook/assets/image%20%2834%29.png)
+
+
+
+### In-class Walkthrough: fm-four-card-feature
+
+This exercise uses [flex](../html-css-intro/layout/flexbox.md), [centering content](../html-css-intro/layout/centering-elements.md) and [box-shadow](../miscellaneous-topics/box-shadow.md).
+
+To start working on the walkthrough:
+
+* Click on this assignment link. [https://classroom.github.com/a/ObWoAslS](https://classroom.github.com/a/ObWoAslS)
+* Clone the repo to your local computer.
+* Instructions are in the README.md file in the root of the project directory.
+
+![](../.gitbook/assets/image%20%2867%29.png)
 
