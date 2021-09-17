@@ -131,3 +131,7 @@ Finally we have the number of distributable pieces. Each element receives the ap
 
 {% embed url="https://scrimba.com/learn/flexbox/your-first-flexbox-layout-flexbox-tutorial-canLGCw" caption="" %}
 
+{% embed url="https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/" %}
+
+
+
