@@ -26,5 +26,3 @@ To start working on the walkthrough:
 
 ![](../.gitbook/assets/image%20%2834%29.png)
 
-
-
