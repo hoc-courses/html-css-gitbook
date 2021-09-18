@@ -62,7 +62,7 @@ To start working on the walkthrough:
 
 ### Scrimba - Figma to Code
 
-achinn@nwlink.com/GorillaCake\#1
+achinn@nwlink.com/ruggles is cute
 
 {% embed url="https://scrimba.com/playlist/pnGP6Ta" %}
 
