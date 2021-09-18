@@ -66,6 +66,8 @@ To start working on the walkthrough:
 
 ### Scrimba - Figma to Code
 
+achinn@nwlink.com/GorillaCake\#1
+
 {% embed url="https://scrimba.com/playlist/pnGP6Ta" %}
 
 ## Other Resources for Review
