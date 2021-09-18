@@ -1,5 +1,10 @@
 # Week 4: Saturday 9/18
 
+### Design Fundamentals
+
+* White Space
+* Contrast
+
 ### Review of Margin, Padding, Span, Links
 
 #### In-class Walkthrough/Homework: rdb-margin-padding-span-links
