@@ -70,13 +70,9 @@ achinn@nwlink.com/GorillaCake\#1
 
 {% embed url="https://scrimba.com/playlist/pnGP6Ta" %}
 
-## Other Resources for Review
-
-### Scrimba - HTML/CSS Crash Course
+### Other Resources for Review
 
 {% embed url="https://scrimba.com/learn/htmlcss" %}
-
-### Scrimba - Learn Flexbox for Free
 
 {% embed url="https://scrimba.com/learn/flexbox" %}
 
