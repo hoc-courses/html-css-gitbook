@@ -14,6 +14,7 @@ To start working on the walkthrough:
 
 * [topic](../html-css-intro/layout/responsive-web-design/media-queries.md)
 * demo
+* fm-3-column-preview-card
 
 Continuing with layout challenges using flexbox from Tuesday/Thursday.
 
