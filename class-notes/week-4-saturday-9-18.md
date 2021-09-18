@@ -68,3 +68,7 @@ To start working on the walkthrough:
 
 {% embed url="https://scrimba.com/playlist/pnGP6Ta" %}
 
+### Scrimba - HTML/CSS Crash Course
+
+{% embed url="https://scrimba.com/learn/htmlcss" %}
+
