@@ -1,10 +1,21 @@
 # Week 4: Saturday 9/18
 
-### Main Topic: Layout
+### Review of Margin, Padding, Span, Links
 
-{% page-ref page="../html-css-intro/layout/responsive-web-design/media-queries.md" %}
+#### In-class Walkthrough/Homework: rdb-margin-padding-span-links
 
-Continuing with layout using flexbox.
+To start working on the walkthrough:
+
+* Click on this assignment link. [https://classroom.github.com/a/ao3Vu\_OG](https://classroom.github.com/a/jzrV-VwZ)
+* Clone the repo to your local computer.
+* Instructions are in the README.md file in the root of the project directory.
+
+### Media Queries
+
+* [topic](../html-css-intro/layout/responsive-web-design/media-queries.md)
+* demo
+
+Continuing with layout challenges using flexbox from Tuesday/Thursday.
 
 ### In-class Walkthrough/Homework: fm-3-column-preview-card
 
@@ -15,8 +26,6 @@ To start working on the walkthrough:
 * Instructions are in the README.md file in the root of the project directory.
 
 ![](../.gitbook/assets/image%20%2866%29.png)
-
-### 
 
 ### In-class Walkthrough: fm-single-price-grid
 
