@@ -1,13 +1,8 @@
 # Week 4: Saturday 9/18
 
-### Design Fundamentals
-
-* White Space
-* Contrast
-
 ### Review of Margin, Padding, Span, Links
 
-#### In-class Walkthrough/Homework: rdb-margin-padding-span-links
+### rdb-margin-padding-span-links
 
 To start working on the walkthrough:
 
@@ -28,7 +23,7 @@ Continuing with layout challenges using flexbox from Tuesday/Thursday.
 
 ### Projects
 
-#### In-class Walkthrough/Homework: fm-3-column-preview-card
+### fm-3-column-preview-card
 
 To start working on the walkthrough:
 
@@ -38,7 +33,7 @@ To start working on the walkthrough:
 
 ![](../.gitbook/assets/image%20%2866%29.png)
 
-#### In-class Walkthrough: fm-single-price-grid
+### fm-single-price-grid
 
 This exercise uses [flex](../html-css-intro/layout/flexbox.md), [centering content](../html-css-intro/layout/centering-elements.md) and [box-shadow](../miscellaneous-topics/box-shadow.md).
 
@@ -52,7 +47,7 @@ To start working on the walkthrough:
 
 
 
-#### In-class Walkthrough: fm-four-card-feature
+### fm-four-card-feature
 
 This exercise uses [flex](../html-css-intro/layout/flexbox.md), [centering content](../html-css-intro/layout/centering-elements.md) and [box-shadow](../miscellaneous-topics/box-shadow.md).
 
