@@ -22,6 +22,12 @@ To start working on the walkthrough:
 
 Continuing with layout challenges using flexbox from Tuesday/Thursday.
 
+### Units: px, rem, em
+
+{% embed url="https://scrimba.com/learn/figmatocode/ems-and-rems-cKrLP3u8" %}
+
+### Projects
+
 #### In-class Walkthrough/Homework: fm-3-column-preview-card
 
 To start working on the walkthrough:
@@ -57,4 +63,8 @@ To start working on the walkthrough:
 * Instructions are in the README.md file in the root of the project directory.
 
 ![](../.gitbook/assets/image%20%2867%29.png)
+
+### Scrimba - Figma to Code
+
+{% embed url="https://scrimba.com/playlist/pnGP6Ta" %}
 
