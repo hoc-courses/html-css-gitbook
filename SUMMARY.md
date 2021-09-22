@@ -2,7 +2,11 @@
 
 * [Overview](README.md)
 
-## Class Notes
+## Full Class Notes
+
+* [Week 1: Thursday 9/23](full-class-notes/week-1-thursday-9-23.md)
+
+## Intro Class Notes <a id="class-notes"></a>
 
 * [Week 2: Saturday 9/4](class-notes/week-2-saturday-9-4.md)
 * [Week 3: Tuesday 9/7](class-notes/week-3-tuesday-9-7.md)
@@ -11,7 +15,6 @@
 * [Week 4: Tuesday 9/14](class-notes/week-4-tuesday-9-14.md)
 * [Week 4: Thursday 9/16](class-notes/week-4-thursday-9-16.md)
 * [Week 4: Saturday 9/18](class-notes/week-4-saturday-9-18.md)
-* [Week 1: Thursday 9/23](class-notes/week-1-thursday-9-23.md)
 
 ## How the Web Works
 
