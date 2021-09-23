@@ -1,14 +1,16 @@
 # Week 1: Thursday 9/23
 
-### Buttons
-
-### rdb-styling buttons
+### In-class walk through: rdb-styling-buttons-sections
 
 To start working on the walkthrough:
 
 * Click on this assignment link. [https://classroom.github.com/a/0jhy6KqO](https://classroom.github.com/a/0jhy6KqO)
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
+
+![](../.gitbook/assets/image%20%2868%29.png)
+
+If you have time, work on this assignment next..
 
 ### In-class walk through: fm-single-price-grid
 
