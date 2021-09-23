@@ -1,5 +1,7 @@
 # Week 1: Thursday 9/23
 
+We're going to start off by focusing on creating buttons using anchor elements and how to style them correctly. 
+
 ### In-class walk through: rdb-styling-buttons-sections
 
 To start working on the walkthrough:
