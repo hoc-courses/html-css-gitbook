@@ -11,8 +11,9 @@ The following table contains some of the most commonly used CSS units.
 | :--- | :--- | :--- |
 | `rem` | Relative | 1rem is equal to the font size of the root element. If the root font size is 16px, then 1rem = 16px and 0.5rem = 8px |
 | `em` | Relative | 1em is equal to the font size of the parent element. If the parent font size is 16px, then 1em = 16px and 0.5em = 8px |
-| `%` | Relative | 100% is equal to the full width or height of the parent element |
+| `%` | Relative | 100% is equal to the full width or height of the parent element. Mainly used for widths. |
 | `px` | Absolute | 1px is 1/96th of 1 inch |
+| vh, vw | Relative | 100% is equal to the full width or height of the viewport. |
 
 There are many CSS properties whose value represents a length. For example, width, margin, padding, font-size all expect a length value. But lengths can be expressed in different units and it is important to know the differences between them.
 
