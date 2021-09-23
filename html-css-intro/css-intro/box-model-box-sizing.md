@@ -20,6 +20,14 @@ One important aspect of margins is that they collapse vertically to the largest 
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 
+An important aspect of collapsing margins is that the first child's top margin will collapse with the margin of the parent element and the last child's bottom margin will collapse with the bottom margin of the parent element. 
+
+To get accurate padding in a container:
+
+* use padding on all sides
+* to remove the extra margin on the first child, make a general style for all block text elements, such as headers, p, lists, that sets the margin-top:0. 
+* to remove the extra margin on the last child, set the margin-bottom of the last child in the container to 0, if it is a block element.
+
 ## Specifying Box-model Properties in CSS
 
 ```css
