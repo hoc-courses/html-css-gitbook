@@ -20,13 +20,13 @@
 
 **Front-end Mentors - four card feature** - [https://classroom.github.com/a/ObWoAslS](https://classroom.github.com/a/ObWoAslS)
 
-**Responsive Layout** - [https://classroom.github.com/a/0mhvGE24](https://classroom.github.com/a/jWzAwxxA)
+**Responsive Design - width/margins, flexbox** - [https://classroom.github.com/a/0mhvGE24](https://classroom.github.com/a/jWzAwxxA)
 
-**Responsive Design - margins, padding, span, links** - [https://classroom.github.com/a/ao3Vu\_OG](https://classroom.github.com/a/jzrV-VwZ)
+**Margins, padding, span, links -** [https://classroom.github.com/a/ao3Vu\_OG](https://classroom.github.com/a/jzrV-VwZ)
 
-**Responsive Design - styling buttons, sections -** [https://classroom.github.com/a/0jhy6KqO](https://classroom.github.com/a/0jhy6KqO)
+**Styling buttons, sections -** [https://classroom.github.com/a/0jhy6KqO](https://classroom.github.com/a/0jhy6KqO)
 
-**Responsive Design - flexbox/column widths** - [https://classroom.github.com/a/7RDxTGYA](https://classroom.github.com/a/7RDxTGYA)
+**Flexbox/column widths** - [https://classroom.github.com/a/7RDxTGYA](https://classroom.github.com/a/7RDxTGYA)
 
 
 
