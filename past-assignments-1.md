@@ -16,6 +16,8 @@
 
 **Front-end Mentors - 3 column preview card** - [https://classroom.github.com/a/ao3Vu\_OG](https://classroom.github.com/a/FoKUSM52)
 
+**Front-end Mentors - single price grid** - [https://classroom.github.com/a/2P9QzZem](https://classroom.github.com/a/2P9QzZem)
+
 **Responsive Layout** - [https://classroom.github.com/a/0mhvGE24](https://classroom.github.com/a/jWzAwxxA)
 
 **Responsive Design Bootcamp \(rdb-margin-padding-span-links\)** - [https://classroom.github.com/a/ao3Vu\_OG](https://classroom.github.com/a/jzrV-VwZ)
