@@ -12,7 +12,16 @@ To start working on the walkthrough:
 
 ![](../.gitbook/assets/image%20%2868%29.png)
 
-If you have time, work on this assignment next..
+If you have time, work on these assignments next..
+
+### In-class walk through: rdb-flexbox
+
+To start working on this walkthrough:
+
+* Click on this assignment link [https://classroom.github.com/a/7RDxTGYA](https://classroom.github.com/a/7RDxTGYA)
+* Clone the repo to your local computer
+
+![](../.gitbook/assets/image%20%2869%29.png)
 
 ### In-class walk through: fm-single-price-grid
 
