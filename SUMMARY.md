@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Past Assignments](past-assignments-1.md)
 
 ## Full Class Notes
 
