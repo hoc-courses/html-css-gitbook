@@ -2,15 +2,15 @@
 
 **HTML Basic Elements** - [https://classroom.github.com/a/6KL1Ink\_](https://classroom.github.com/a/6KL1Ink_)
 
-**Article Progression** - [https://classroom.github.com/a/pc8Gqynb](https://classroom.github.com/a/pc8Gqynb)
+**Article Progression \(HTML, Basic CSS\)** - [https://classroom.github.com/a/pc8Gqynb](https://classroom.github.com/a/pc8Gqynb)
 
-**Super-hero** - [https://classroom.github.com/a/qEl4gBva](https://classroom.github.com/a/qEl4gBva)
+**Super-hero \(Basic CSS\)** - [https://classroom.github.com/a/qEl4gBva](https://classroom.github.com/a/qEl4gBva)
 
-**Orange & Black** - [https://classroom.github.com/a/jNSEBKP-](https://classroom.github.com/a/jNSEBKP-)
+**Orange & Black \(Basic CSS\)** - [https://classroom.github.com/a/jNSEBKP-](https://classroom.github.com/a/jNSEBKP-)
 
 **Box Model** - [https://classroom.github.com/a/qEl4gBva](https://classroom.github.com/a/SBsDzsXI)
 
-**Display Property** - [https://classroom.github.com/a/qEl4gBva](https://classroom.github.com/a/ulLQnCPV)
+**Inline, Block, Inline-block** - [https://classroom.github.com/a/qEl4gBva](https://classroom.github.com/a/ulLQnCPV)
 
 **Flex Basics** - [https://classroom.github.com/a/0mhvGE24](https://classroom.github.com/a/0mhvGE24)
 
