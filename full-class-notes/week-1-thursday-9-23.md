@@ -1,4 +1,4 @@
-# Week 1: Thursday 9/23
+# Week 0: Thursday 9/23
 
 We're going to start off by focusing on creating buttons using anchor elements and how to style them correctly. 
 
@@ -10,7 +10,7 @@ To start working on the walkthrough:
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 If you have time, work on these assignments next..
 
@@ -21,7 +21,7 @@ To start working on this walkthrough:
 * Click on this assignment link [https://classroom.github.com/a/7RDxTGYA](https://classroom.github.com/a/7RDxTGYA)
 * Clone the repo to your local computer
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 ### In-class walk through: fm-single-price-grid
 
