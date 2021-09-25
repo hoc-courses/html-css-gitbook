@@ -27,3 +27,5 @@ Flexbox ignores padding/margins of children, so you can use the flex justify-con
 
 ![](../.gitbook/assets/image%20%2876%29.png)
 
+### Review Past Assignments from [Thursday](week-1-thursday-9-23.md)
+
