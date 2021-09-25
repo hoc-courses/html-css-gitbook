@@ -39,5 +39,9 @@ body {
 
 {% embed url="https://www.youtube.com/watch?v=33IinMVJf-M" %}
 
+### Object-fit
+
+{% embed url="https://dev.to/ekaterina\_vu/how-can-object-fit-property-save-you-from-misusing-the-background-images-hk0" %}
+
 
 
