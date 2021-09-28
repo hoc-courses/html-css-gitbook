@@ -5,6 +5,10 @@
 * [White Space](https://designcourse.com/app/course/uiux-bootcamp/module/ui-design-fundamentals-course/lesson/white-space)
 * [Contrast](https://designcourse.com/app/course/uiux-bootcamp/module/ui-design-fundamentals-course/lesson/contrast)
 
+{% embed url="https://webdesign.tutsplus.com/articles/how-to-use-the-contrast-checker-in-chrome-devtools--cms-31504" %}
+
+
+
 ### In-class walk through: rdb-flexbox-living-social-life
 
 To start working on the walkthrough:
