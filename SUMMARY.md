@@ -7,6 +7,7 @@
 
 * [Week 0: Thursday 9/23](full-class-notes/week-1-thursday-9-23.md)
 * [Week 0: Saturday 9/25](full-class-notes/week-0-saturday-9-25.md)
+* [Week 1: Tuesday 9/27](full-class-notes/week-1-tuesday-9-27.md)
 
 ## Intro Class Notes <a id="class-notes"></a>
 
