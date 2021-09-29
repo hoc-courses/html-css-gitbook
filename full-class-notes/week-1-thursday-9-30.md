@@ -5,9 +5,9 @@
 * [Scale](https://designcourse.com/app/course/uiux-bootcamp/module/ui-design-fundamentals-course/lesson/scale)
 * [Alignment](https://designcourse.com/app/course/uiux-bootcamp/module/ui-design-fundamentals-course/lesson/alignment)
 
-### Background Images
+### Continuation of rdb-flexbox-living-social-life assignment
 
-{% embed url="https://scrimba.com/learn/responsive/background-images-cZn6k2Cv" %}
+We're going to follow the walk-through of the designer setting up his structure to see how he does it.
 
-
+{% embed url="https://scrimba.com/learn/responsive/setting-up-the-structure-cdPbGrUr" %}
 
