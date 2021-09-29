@@ -28,6 +28,8 @@
 
 **Flexbox/column widths** - [https://classroom.github.com/a/7RDxTGYA](https://classroom.github.com/a/7RDxTGYA)
 
+**More Flexbox \(living social\)** - [https://classroom.github.com/a/0jhy6KqO](https://classroom.github.com/a/i9UJEmvH)
+
 
 
 
