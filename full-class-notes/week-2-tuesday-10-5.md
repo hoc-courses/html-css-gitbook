@@ -1,4 +1,4 @@
-# Week 2: Tuesday 10/5
+# Week 2: Thursday 10/7
 
 ### Form Basics
 
