@@ -4,15 +4,13 @@
 
 {% embed url="https://scrimba.com/learn/responsive/background-images-cZn6k2Cv" %}
 
-### Font-awesome
-
-We're going to be using some icons in this next assignment. The best source of icons is [font-awesome](https://fontawesome.com/). They have a lot of free ones, and they are very easy to use in your projects.
-
 ### Pseudo Elements
 
 {% embed url="https://scrimba.com/learn/responsive/using-pseudo-elements-to-add-the-yellow-lines-cWQzygUL" %}
 
+### Font-awesome
 
+We're going to be using some icons in this next assignment. The best source of icons is [font-awesome](https://fontawesome.com/). They have a lot of free ones, and they are very easy to use in your projects.
 
 ### In-class walk through: rdb-jake
 
