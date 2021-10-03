@@ -1,6 +1,6 @@
 # Week 2: Saturday 10/9
 
-### Grid 
+### CSS Grid 
 
 We're going to focus on the basic grid features. Watch this video tutorial through \#6.
 
