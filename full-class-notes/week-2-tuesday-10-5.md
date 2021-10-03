@@ -1,7 +1,5 @@
 # Week 2: Thursday 10/7
 
-{% embed url="https://scrimba.com/learn/responsive/the-very-basics-of-forms-cPgRLpur" %}
-
 ### Gradients
 
 {% embed url="https://scrimba.com/learn/responsive/css-gradients-c7zWaJh4" %}
