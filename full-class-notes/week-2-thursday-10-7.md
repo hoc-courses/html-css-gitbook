@@ -22,3 +22,8 @@ To start working on the walkthrough:‌
 * Clone the repo to your local computer.
 * Instructions are in the README.md file in the root of the project directory.
 
+You should created this grid with two different approaches:
+
+* grid-template-areas
+* placing items using grid-column and grid-row
+
