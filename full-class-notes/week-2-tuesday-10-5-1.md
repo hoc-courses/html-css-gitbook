@@ -1,5 +1,10 @@
 # Week 2: Tuesday 10/5
 
+### Design Principles
+
+* [Color](https://designcourse.com/app/course/uiux-bootcamp/module/ui-design-fundamentals-course/lesson/colors)
+* [Typography](https://designcourse.com/app/course/uiux-bootcamp/module/ui-design-fundamentals-course/lesson/typography)
+
 ### Form Basics
 
 {% embed url="https://scrimba.com/learn/responsive/the-very-basics-of-forms-cPgRLpur" %}
