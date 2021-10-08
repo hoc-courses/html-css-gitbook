@@ -14,6 +14,7 @@
 * [Week 2: Tuesday 10/5](full-class-notes/week-2-tuesday-10-5-1.md)
 * [Week 2: Thursday 10/7](full-class-notes/week-2-tuesday-10-5.md)
 * [Week 2: Saturday 10/9](full-class-notes/week-2-thursday-10-7.md)
+* [Week 3: Tuesday 10/11](full-class-notes/week-3-tuesday-10-11.md)
 
 ## Intro Class Notes <a id="class-notes"></a>
 
