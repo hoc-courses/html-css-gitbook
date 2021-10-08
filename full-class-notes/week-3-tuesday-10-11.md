@@ -1,4 +1,4 @@
-# Week 3: Tuesday 10/11
+# Collab Site
 
 ### Git/GitHub
 
@@ -12,6 +12,11 @@
   * prettier
   * cspell
 * [Undoing commit to wrong branch](https://www.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/)
+* review git commands
+  * git status
+  * git add
+  * git commit
+  * git push
 * new git commands
   * git branch
   * git checkout -b \[branch\]
@@ -28,6 +33,10 @@ We're going to create a practice repository where we can learn
 * how to resolve merge conflicts
 
 {% embed url="https://github.com/HackYourFutureBelgium/template-markdown" %}
+
+{% embed url="https://www.atlassian.com/git/tutorials/setting-up-a-repository" %}
+
+{% embed url="https://github.com/jlord/git-it-electron/releases/tag/4.4.0" %}
 
 
 
