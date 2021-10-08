@@ -6,6 +6,16 @@
 * [Branching](https://www.youtube.com/watch?v=oPpnCh7InLY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=2)
 * [Issues](https://www.youtube.com/watch?v=WMykv2ZMyEQ&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=4)
 * [Merge Conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=9)
+* Template Repo
+* npm/package.json/node\_modules
+  * markdownlint-cli
+  * prettier
+  * cspell
+* [Undoing commit to wrong branch](https://www.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/)
+* new git commands
+  * git branch
+  * git checkout -b \[branch\]
+    * pulls uncommitted files to new branch [https://www.atlassian.com/git/tutorials/using-branches/git-checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
 
 ### Creating a Repo for Collaboration
 
