@@ -19,6 +19,7 @@ You should focus on sections 1-11, and Grid Template Areas and the Grid Practice
 
 ### assignment: grid-flex
 
+* four separate exercises combining flexbox and grid template areas.
 * Click on this assignment link. [https://classroom.github.com/a/U6\_bBxBY](https://classroom.github.com/a/U6_bBxBY)​
 
 ### assignment: four-square
