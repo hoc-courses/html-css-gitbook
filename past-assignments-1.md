@@ -34,7 +34,13 @@
 
 **BBQ Splash Page \(flexbox, forms, gradient, background-image\)** - [https://classroom.github.com/a/Q4TeIedn](https://classroom.github.com/a/Q4TeIedn)
 
-**Front-end Mentors - testimonials grid** - [https://classroom.github.com/a/kvvOzqKx](https://classroom.github.com/a/kvvOzqKx)
+**Grid - \(Front-end Mentors\) - testimonials grid** - [https://classroom.github.com/a/kvvOzqKx](https://classroom.github.com/a/kvvOzqKx)
+
+**Grid \(Wes Box\) - css-grid-wes-bos** - [https://classroom.github.com/a/JJnRhEBP](https://classroom.github.com/a/JJnRhEBP)
+
+**Grid/Flex - grid-flex** - [https://classroom.github.com/a/U6\_bBxBY](https://classroom.github.com/a/U6_bBxBY)
+
+**Grid, Background Image - four-square** -[https://classroom.github.com/a/HolWvGTL](https://classroom.github.com/a/HolWvGTL)
 
 
 
