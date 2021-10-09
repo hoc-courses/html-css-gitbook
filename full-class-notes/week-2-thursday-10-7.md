@@ -6,7 +6,15 @@ We're going to focus on the basic grid features. Watch this video tutorial throu
 
 {% embed url="https://scrimba.com/learn/cssgrid/intro-to-the-css-grid-course-cg9PpTb" %}
 
-###  In-class walk through: fm-testimonials-grid <a id="in-class-walk-through-rdb-bbq-splash-page"></a>
+### In-class walk through: css-grid-wes-box <a id="in-class-walk-through-rdb-bbq-splash-page"></a>
+
+To start working on the walkthrough:‌
+
+* Click on this assignment link. [https://classroom.github.com/a/JJnRhEBP](https://classroom.github.com/a/JJnRhEBP)​
+* Clone the repo to your local computer.
+* Instructions are in the README.md file in the root of the project directory.
+
+### In-class walk through: fm-testimonials-grid
 
 To start working on the walkthrough:‌
 
