@@ -14,10 +14,10 @@
 * [Week 2: Tuesday 10/5](full-class-notes/week-2-tuesday-10-5-1.md)
 * [Week 2: Thursday 10/7](full-class-notes/week-2-tuesday-10-5.md)
 * [Week 2: Saturday 10/9](full-class-notes/week-2-thursday-10-7.md)
-* [Week 3: Tuesday 10/11](full-class-notes/week-3-tuesday-10-11-1.md)
-* [Collab Site](full-class-notes/week-3-tuesday-10-11.md)
+* [Week 3: Tuesday 10/1](full-class-notes/week-3-tuesday-10-11.md)
+* [Week 3: Thursday 10/13](full-class-notes/week-3-tuesday-10-11-1.md)
 
-## Intro Class Notes <a id="class-notes"></a>
+## Intro Class Notes <a href="class-notes" id="class-notes"></a>
 
 * [Week 2: Saturday 9/4](class-notes/week-2-saturday-9-4.md)
 * [Week 3: Tuesday 9/7](class-notes/week-3-tuesday-9-7.md)
@@ -85,15 +85,15 @@
 ## Appendix
 
 * [Google Fonts](appendix/google-fonts.md)
-* [Lorem Ipsum](https://loremipsum.io/)
+* [Lorem Ipsum](https://loremipsum.io)
 * [HTML Cheatsheet](https://overapi.com/html)
 * [CSS Cheatsheet](https://overapi.com/css)
-* [CSS Visual Reference](https://cssreference.io/)
+* [CSS Visual Reference](https://cssreference.io)
 * [Flexbox Cheatsheet](https://darekkay.com/flexbox-cheatsheet/)
-* [Grid Cheatsheet](https://grid.malven.co/)
+* [Grid Cheatsheet](https://grid.malven.co)
 * [Browser Support for HTML/CSS](http://caniuse.com)
-* [unsplash.com \(free images\)](https://unsplash.com/)
-* [pexels.com \(free images\)](https://pexels.com/)
+* [unsplash.com (free images)](https://unsplash.com)
+* [pexels.com (free images)](https://pexels.com)
 * [Web Tips for Developers](https://www.youtube.com/watch?v=ykn4XNDwW7Q)
 * [Chrome Default Stylesheet](appendix/chrome-default-stylesheet.md)
 * [Software Installation](appendix/software-installation.md)
@@ -107,10 +107,9 @@
   * [Working on GitHub Issues](appendix/git-github/working-on-github-issues.md)
   * [Git ACP Commands - VS Code Integration](appendix/git-github/git-acp-commands-vs-code-integration.md)
 
-## Further Learning Resources <a id="further-learning-resources-1"></a>
+## Further Learning Resources <a href="further-learning-resources-1" id="further-learning-resources-1"></a>
 
 * [FE Mentor Challenges](further-learning-resources-1/fe-mentor-challenges.md)
 * [Free Scrimba Courses](further-learning-resources-1/scrimba-courses.md)
-* [Kevin Powell Youtube](https://www.youtube.com/watch?v=c0kfcP_nD9E&list=PL4-IK0AVhVjP27yZLwW-gkPggRps0CCnP)
+* [Kevin Powell Youtube](https://www.youtube.com/watch?v=c0kfcP_nD9E\&list=PL4-IK0AVhVjP27yZLwW-gkPggRps0CCnP)
 * [HTML & CSS, Duckett](further-learning-resources-1/html-and-css-duckett.md)
-
